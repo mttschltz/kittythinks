@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: mttschltz/kittythinks # Path to your Github repository
+  branch: master # Branch to update
+
+# Images
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "post" # Used in routes, e.g. /admin/collections/blog
+    label: "Post" # Used in the UI
+    folder: "content" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Draft (\"true\" or \"false\")", name: "draft", widget: "string", default: "true"}
+      - {label: "Body", name: "body", widget: "markdown"}

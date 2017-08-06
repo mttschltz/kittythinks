@@ -10,28 +10,24 @@ draft: 'false'
 
 **The Agitators:**
 
-Menelaus
-Agamemnon
-Athena
+- Menelaus
+- Agamemnon
+- Athena
 
-**The Agitated:
-**
+**The Agitated:**
 
-Aias
-Teucer
-Chorus
+-  Aias
+- Teucer
+- Chorus
 
-**The Mediators:
-**
+**The Mediators:**
 
-Odysseus
-Tecmessa
+- Odysseus
+- Tecmessa
 
-**Places: 
-**Troad and somewhere beyond Rhoeteum - both in modern-day Turkey
+**Places: **Troad and somewhere beyond Rhoeteum - both in modern-day Turkey
 
-**Time: 
-**Towards the end of the Trojan War
+**Time: **Towards the end of the Trojan War
 
 # Story
 
@@ -119,6 +115,7 @@ Aias is buried with all the valour a warrior wants and everyone is just that lit
 
 *What the destinies have brought thee.”
 *
+
 
 
 

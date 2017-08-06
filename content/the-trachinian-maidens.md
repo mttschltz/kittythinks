@@ -5,6 +5,7 @@ draft: 'false'
 ---
 # The Trachinian Maidens
 
+![undefined](/images/uploads/1990.34.0050.jpeg)
 
 **The Distraught:**
 
@@ -51,4 +52,5 @@ Reluctantly, Hyllus agrees and it is done. The moral of the story seems to be th
 *“The poison feasted like the venomed tooth*
 
 *Of murderous basilisk.”*
+
 

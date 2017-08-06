@@ -1,7 +1,7 @@
 ---
-title: First post
-date: 2017-06-30T21:38:30.000Z
-draft: false
+title: AIAS
+date: 06.08.2017
+draft: 'FALSE'
 ---
 
 # Aias
@@ -120,3 +120,4 @@ Aias is buried with all the valour a warrior wants and everyone is just that lit
 
 *What the destinies have brought thee.”
 *
+

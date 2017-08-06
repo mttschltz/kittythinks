@@ -1,7 +1,7 @@
 ---
 title: AIAS
 date: 06.08.2017
-draft: 'FALSE'
+draft: 'false'
 ---
 
 # Aias
@@ -120,4 +120,5 @@ Aias is buried with all the valour a warrior wants and everyone is just that lit
 
 *What the destinies have brought thee.”
 *
+
 

@@ -104,17 +104,14 @@ Teucer is stunned. Odysseus is THE MAN, y'all! While the brothers were but heart
 Aias is buried with all the valour a warrior wants and everyone is just that little bit wiser.
 
 
-*“Oft we know no till we see.
-*
+*“Oft we know no till we see.*
 
-*Weak is human prophecy.
-*
+*Weak is human prophecy.*
 
-*Judge not, till the hour have taught thee
-*
+*Judge not, till the hour have taught thee*
 
-*What the destinies have brought thee.”
-*
+*What the destinies have brought thee.”*
+
 
 
 

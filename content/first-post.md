@@ -1,6 +1,6 @@
 ---
 title: AIAS
-date: 2017-08-06T00:00:00+09:30
+date: 2017-08-05T14:30:00.000Z
 draft: 'false'
 ---
 
@@ -8,8 +8,7 @@ draft: 'false'
 
 
 
-**The Agitators:
-**
+**The Agitators:**
 
 Menelaus
 Agamemnon
@@ -120,6 +119,7 @@ Aias is buried with all the valour a warrior wants and everyone is just that lit
 
 *What the destinies have brought thee.”
 *
+
 
 
 

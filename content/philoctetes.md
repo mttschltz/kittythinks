@@ -5,7 +5,7 @@ draft: 'false'
 ---
 # Philoctetes
 
-![undefined](/images/uploads/fabre_philoctete.jpg)
+![undefined](/images/uploads/fabre_philoctete.jpg)!
 
 **The Mean:**
 
@@ -60,5 +60,6 @@ Of course, all will obey and they are off to live out their destinies.
 *“Thou whom I have longed to see,*
 
 *Thy dear voice is law to me.”*
+
 
 

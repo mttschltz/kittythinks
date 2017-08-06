@@ -6,7 +6,7 @@ draft: 'false'
 
 # Aias
 
-
+![undefined](/images/uploads/ajax72.jpg)
 
 **The Agitators:**
 
@@ -111,6 +111,7 @@ Aias is buried with all the valour a warrior wants and everyone is just that lit
 *Judge not, till the hour have taught thee*
 
 *What the destinies have brought thee.”*
+
 
 
 

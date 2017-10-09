@@ -1,5 +1,5 @@
 ---
-title: LUCRETIUS - The Nature Of The Universe -> BOOK I
+title: 'LUCRETIUS - The Nature Of The Universe - BOOK I: Matter And Space'
 date: 2017-10-09T08:08:18.782Z
 draft: 'false'
 ---
@@ -61,6 +61,7 @@ It seemed to me that in this section he assumes that patterns in living things r
  The centre of the world idea is that the world rests on itself and things flow up and down midwards. Lucretius sees little reason to take this serious at all. 
 
 He ends this first book by flawlessly explaining black holes - ridiculous!
+
 
 
 

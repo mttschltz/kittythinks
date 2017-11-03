@@ -5,7 +5,7 @@ draft: 'false'
 ---
 # *Book IV.* SENSATION AND SEX
 
-My notes on this chapter did included comments such as "outright misogyny" and "being ugly is weird?" - this is a compilation one of Lucretius' **weirder** assertions.
+My notes on this chapter did included comments such as "outright misogyny" and "being ugly is weird?" - this compilation is one of Lucretius' **weirder** assertions.
 
 
 ***"On images of things."***
@@ -119,3 +119,4 @@ He surprisingly admits that men can be barren (!) and explains that this is due 
 To ensure fruitfulness, one must make sure that ones diet is good and that one has sex doggy-style. 
 
 Pro-tip for all women: a wife must starfish, otherwise she's a prostitute. If a women is rather ugly, she better be charming!
+

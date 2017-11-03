@@ -10,7 +10,7 @@ My notes on this chapter did included comments such as "outright misogyny" and "
 
 ***"On images of things."***
 
-Objects, Lucretius starts, throw of insubstantial shapes such as colours. Those shapes are films which reflect a sensation from the object.
+Objects, Lucretius starts, throw off insubstantial shapes such as colours. Those shapes are films which reflect a sensation from the object.
 
 ***"How flimsy is the texture of those films?"***
 
@@ -22,7 +22,7 @@ Clouds, for example.
 
 ***"In what facility and speed are the films generated?"***
 
-Films are constantly emitted, it is explained, because the reflections in the mirror are constant and instant. The reason why mirrors show images at all, is because those films can neither pass through the mirror's glass nor diffract.
+Films are constantly emitted it is explained, because the reflections in the mirror are constant. The reason why mirrors show images at all, is because those films can neither pass through the mirror's glass nor diffract.
 
 ***"How speedily do the films move?"***
 
@@ -30,11 +30,11 @@ Instantly.
 
 ***"Touch and sight is provoked by the same stimulus."***
 
-The films we see are the reason for seeing at all. We recognize shapes in the dark via air which carries the films towards our eyes, our eyes conceive the object and we can thus determine its distance.
+The films we see are the reason for seeing at all. We recognize shapes in the dark via air which carries the films towards our eyes; our eyes conceive the object and we can thus determine its distance.
 
 ***"Why is the image seen beyond the mirror?"***
 
-The film of ourselves is pushed by air into the mirror and the mirrors' film pushes back air towards us.
+The films of ourselves is pushed by air into the mirror and the mirrors' film pushes back air towards us.
 
 ***"Why our right side appears in the mirrors on the left."***
 
@@ -73,11 +73,11 @@ Truth, he continues, comes from the senses and senses don't lie.
 
 ***"How does each sense perceive its own objects?"***
 
-Visual films are straight-lined, while auditory films are scattered. Pleasant tastes are caused by smooth particles, while unpleasant wants are cased by rough particles that hurt the tongue. The reason why some things are palatable to some creatures but not to others, is due to the differing shape of their gullets.
+Visual films are straight-lined, while auditory films are scattered. Pleasant tastes are caused by smooth particles, while unpleasant ones are caused by rough particles that hurt the tongue. The reason why some things are palatable to some creatures but not to others, is the differing shape of their gullets.
 
 ***"How are nostrils effected by smell?"***
 
-Smells come from within an object and is stronger when crushed or burned due to longer atoms.
+Smells come from within an object and are stronger when crushed or burned due to longer atoms.
 
 - As a fascinating side-note: Lucretius seems to take it for granted that the reader knows that lions hate roosters!
 
@@ -114,9 +114,10 @@ He makes sure to explain that men are perfect, women are gross (and tricksters!)
 
 Men and women both enjoy sex and if the woman orgasms, a resulting child will take after her. If the father or both of them reach climax, the child will take after the father. There is also some latent ancestral seed.
 
-He surprisingly admits that men can be barren (!) and explains that this is due to too coarse or too fine seed.
+He surprisingly admits that men can be barren and explains that this is due to too coarse or too fine seed.
 
 To ensure fruitfulness, one must make sure that ones diet is good and that one has sex doggy-style. 
 
 Pro-tip for all women: a wife must starfish, otherwise she's a prostitute. If a women is rather ugly, she better be charming!
+
 

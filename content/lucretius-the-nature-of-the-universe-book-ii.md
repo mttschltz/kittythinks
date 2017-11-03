@@ -3,7 +3,6 @@ title: LUCRETIUS - The Nature Of The Universe - BOOK II
 date: 2017-10-10T07:24:38.629Z
 draft: 'false'
 ---
-
 # *Book II.* MOVEMENTS AND SHAPES OF ATOMS
 
 After introducing us to what atoms are and why they matter (literally), Lucretius is now attempting a how-to guide.
@@ -62,5 +61,6 @@ Our Earth was made by a series of random, accidental collisions (of atoms), so w
 ***“Nature does what it wants.”***
 
  Fitingly, Lucretius finishes by recognizing that the infinite number of atoms and the boundarylessness of space demands randomness. There will always be creation and decay, for if it wasn’t, there wouldn’t be anything.
+
 
 

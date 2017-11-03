@@ -31,7 +31,7 @@ The mind comprehends quicker than events unfold. Clearly, Lucretius observes, th
 
 Life = Warmth + Wind + Air + 'Vital Spirit'
 
-- It is not entirely clear (to me) what the "vital spirit" represents to Lucretius. The closest guess is the soul, which is much harder to disrupt and damage than te body or the mind.  
+- It is not entirely clear (to me) what the "vital spirit" represents to Lucretius. The closest guess is the soul, which is much harder to disrupt and damage than the body or the mind.  
 
 ***"How are the four components intermixed and where do their powers come from?"***
 
@@ -64,5 +64,6 @@ Lucretius takes a short but interesting detour here, by expressing his view that
 ***"All torments are not of hell but of the present."***
 
 People are tormented all the time and to fear the torments of hell upon death is to create hell on earth. Upon death, there is nothing, thus nothing needs to be feared. Lucretius wisely realizes that to be afeared means to run away from oneself and that to accept that the reason for all fear and uncertainty is a fear of death, is to accept that life is finite and thus death need not to be feared at all.
+
 
 

@@ -3,7 +3,7 @@ title: LUCRETIUS - The Nature Of The Universe - BOOK III
 date: 2017-11-02T13:30:00.000Z
 draft: 'false'
 ---
-# *Book III* LIFE AND MIND
+# *Book III.* LIFE AND MIND
 
 This is the most philosophical section of the book and the greatest homage to Epicurus. It should be noted that Lucretius sees the mind and the soul as two different things. The mind is a physical entity, while the soul is its essence. 
 
@@ -64,4 +64,5 @@ Lucretius takes a short but interesting detour here, by expressing his view that
 ***"All torments are not of hell but of the present."***
 
 People are tormented all the time and to fear the torments of hell upon death is to create hell on earth. Upon death, there is nothing, thus nothing needs to be feared. Lucretius wisely realizes that to be afeared means to run away from oneself and that to accept that the reason for all fear and uncertainty is a fear of death, is to accept that life is finite and thus death need not to be feared at all.
+
 

@@ -42,7 +42,7 @@ To provide some more visual clarity, I have attempted a simplistic figure (with 
 
 ***"The cause of stellar movements."***
 
-Lucretius admits to not being to clear on this one. He proposes two ideas:
+Lucretius admits to not being too clear on this one. He proposes two ideas:
 
 1. The sky (!) rotates while the poles are held in place.
 He imagines that air flows above and beyond the earth, in opposite directions.
@@ -147,4 +147,5 @@ Nature taught us.
 ***"Singing and the arts."***
 
 In his last subject for this book, Lucretius tells us that early humans couldn't hold a tune and thus imitated birds. The invention of letters too was instrumental because all knowledge from before is just inference. True that.
+
 

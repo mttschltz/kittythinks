@@ -109,7 +109,7 @@ Later on, humans build huts and tamed fire. Men and women - naturally wild, live
 
 Now Lucretius tells us of the customary blahblah that women are weak. 
 
-Those middle-aged (by Lucretius timeline) humans soon developed spoken language for their convenience.
+Those middle-aged (by Lucretius's timeline) humans soon developed spoken language for their convenience.
 
 Even later still, kings started to form cities. Land and livestock were parceled out to those with the most strength and best looks.
 
@@ -129,7 +129,7 @@ Those who believe in gods are not pious but those who contemplate the universe a
 
 When fires consumed forests, the melted material trickled into the earth and formed gold, silver, lead and copper.
 
-Copper melted better, so it was more useful to humans initially than fragile gold. Those roles have reversed (in Lucretius' time).
+Copper melted better, so it was more useful to humans initially than fragile gold. Those roles have reversed (in Lucretius's time).
 Iron is the new (useful) copper, but copper came first because it is more plentiful.
 
 Lucretius now goes into specifics about what weapons of war and war practices were developed in what order but all that is really important from this section is the advice to not go to war with lions.
@@ -147,6 +147,7 @@ Nature taught us.
 ***"Singing and the arts."***
 
 In his last subject for this book, Lucretius tells us that early humans couldn't hold a tune and thus imitated birds. The invention of letters too was instrumental because all knowledge from before is just inference. True that.
+
 
 
 

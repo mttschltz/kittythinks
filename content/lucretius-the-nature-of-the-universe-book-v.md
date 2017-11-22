@@ -99,7 +99,7 @@ He explains wisely that such opposing life forms as a human and a horse cannot b
 Early humans were much tougher than current ones. They were bigger, more solidly boned, dealt better with exposure, adverse diets and illness. The reason for this was their coming from good soil rather than other humans.
 These humans were also content and primitive. 
 
-They ate acorns and Arbutus berries (native to the Mediterraneans) which were larger than those today. They did not know of fire and did not wear animal skins. The mustn't have known the common good, the law or morals. They hunted with rocks and clubs. 
+They ate acorns and Arbutus berries (native to the Mediterraneans) which were larger than those today. They did not know of fire and did not wear animal skins. They mustn't have known the common good, the law or morals. They hunted with rocks and clubs. 
 
 They died easily because they knew no medicine but also didn't die in droves because they fought no wars and built no ships.
 
@@ -147,5 +147,6 @@ Nature taught us.
 ***"Singing and the arts."***
 
 In his last subject for this book, Lucretius tells us that early humans couldn't hold a tune and thus imitated birds. The invention of letters too was instrumental because all knowledge from before is just inference. True that.
+
 
 

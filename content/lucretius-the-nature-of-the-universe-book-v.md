@@ -105,7 +105,7 @@ They died easily because they knew no medicine but also didn't die in droves bec
 
 After all those wild assumptions, Lucretius closes sullenly that early humans might die of starvation while current humans die of gluttony.
 
-Later on, humans build huts and tamed fire. men and women - naturally wild, lived together and had their temper tamed by the need to raise babes and thus too, neighbours formed mutual alliances.
+Later on, humans build huts and tamed fire. Men and women - naturally wild, lived together and had their temper tamed by the need to raise babes and thus too, neighbours formed mutual alliances.
 
 Now Lucretius tells us of the customary blahblah that women are weak. 
 
@@ -147,6 +147,7 @@ Nature taught us.
 ***"Singing and the arts."***
 
 In his last subject for this book, Lucretius tells us that early humans couldn't hold a tune and thus imitated birds. The invention of letters too was instrumental because all knowledge from before is just inference. True that.
+
 
 
 

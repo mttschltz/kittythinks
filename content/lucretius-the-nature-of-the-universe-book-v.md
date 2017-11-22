@@ -1,14 +1,14 @@
 ---
 title: LUCRETIUS - The Nature Of The Universe - Book V
-date: 2017-11-22T00:00:00+10:30
+date: 2017-11-21T13:30:00.000Z
 draft: 'false'
 ---
 # *BOOK V.* COSMOLOGY AND SOCIOLOGY
 
 *"For nothing has power to break the binding laws of eternity."*
 
-In this book, Lucretius goes all in to explain the very nature of the universe. Not to be too cheery however, he informs us straight up, that the world is doomed because reality isn't divine but natural. The reason why this is a good thing (no, really), is because divinity is nonsensical because gratitude towards divinity is useless when it comes from non-divine entities (humans). 
-He sums this up with thusly:
+In this book, Lucretius goes all in to explain the very nature of the universe. Not to be too cheery however, he informs us straight up, that the world is doomed because reality isn't divine but natural. We shouldn't be sad that divinity in't real however, because divinity is nonsensical since it relies on gratitude and gratitude towards divinity is useless when it comes from non-divine entities (humans). 
+He sums this up thusly:
 
 *"What harm would it have done us to have remained uncreated?"*
 
@@ -147,3 +147,4 @@ Nature taught us.
 ***"Singing and the arts."***
 
 In his last subject for this book, Lucretius tells us that early humans couldn't hold a tune and thus imitated birds. The invention of letters too was instrumental because all knowledge from before is just inference. True that.
+

@@ -5,7 +5,7 @@ draft: 'true'
 ---
 This is a bit of a different read. As much as I like my ancient authors, philosophers and science educators, occasionally one must capture the magic of not being destitute, too. I would even go so far as to say that financial security gives one the opportunity to ponder life some more... which is my favourite past time.
 
-Or as George Bernard Shaw says in Pygmalion (the basis for ***My Fair Lady***)
+Or as George Bernard Shaw in Pygmalion (the basis for ***My Fair Lady***) puts it:
 
 HIGGINS: *"Have you no morals, man?"*
 
@@ -49,6 +49,7 @@ Royals didn't make could business partners, however. Lenders demanded high inter
 For the EIC that meant that they needed to offer fractional ownership for each individual expedition instead of being able to borrow capital. Luckily for them, the expeditions were hugely successful, raising the interest rates and thus, the risk.
 
 The Netherlands on the other hand, had established markets with interest rates of about 4% p.a. for the largest borrowers. This meant that the VOC had permanent capital and thus, lower risk.
+
 
 
 

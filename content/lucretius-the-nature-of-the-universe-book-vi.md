@@ -3,7 +3,7 @@ title: LUCRETIUS - The Nature Of The Universe - Book VI
 date: 2017-11-22T22:09:28.577Z
 draft: 'false'
 ---
-#*BOOK VI.* METEOROLOGY AND GEOLOGY
+# *BOOK VI.* METEOROLOGY AND GEOLOGY
 
 *"This dread and darkness of the mind cannot be dispelled by sunbeams, 
 the shining shafts of day, 
@@ -39,7 +39,7 @@ Sudden coalescence. Rough atoms in the upper part of the sky tangle together and
 
 Atoms constantly rise up from the earth, feeding clouds with water from varying sources.
 
-Some atoms also come fro the ether and from space. (The idea of "space" is not explained anywhere else. Possibly just further away ether?)
+Some atoms also come from the ether and from space. (The idea of "space" is not explained anywhere else. Possibly just farther away ether?)
 
 ***"The nature of earthquakes."***
 
@@ -49,12 +49,12 @@ If wind rushes through those underground caves, the earth may crack in places.
 
 ***"Why does nature not grow the sea?"***
 
-The simple answer appears to be: because duh. The longer one states that river can'*t replenish the ocean because they do not possess sufficient mass, that sun evaporates some of the water, that
+The simple answer appears to be: because elements. The longer one states that river can't replenish the ocean because they do not possess sufficient mass, that sun evaporates some of the water, that
 wind carries some of the droplets away and that some seeps through the semipermeable soil.
 
 ***"Mount Etna."***
 
-Turns out, the earth can get sick. It's sickness, such as in the case of Mount Etna, is an overabundance of atoms. Mount Etna is hollow, with basaltic caverns which are filled with air and wind. When the air is heated up enough  by the wind and atoms it carries, a fire ignites and blazes out.
+Turns out, the earth can get sick. Its sickness, such as in the case of Mount Etna, is an overabundance of atoms. Mount Etna is hollow, with basaltic caverns which are filled with air and wind. When the air is heated up enough  by the wind and atoms it carries, a fire ignites and blazes out.
 
 ***"Some phenomena have multiple causes. Firstly, The Nile."***
 
@@ -74,9 +74,9 @@ During the winter the earth tenses up and squeezes heat into wells. This is also
 
 ***"Magnets!"***
 
-Firstly, Lucretius provides us with a cool fact: magnets are named for a place, Magnesia, by the Greeks. Who knew?
+Firstly, Lucretius provides us with a cool fact: magnets are named for a place, Magnesia, in Greece. Who knew?
 
-Secondly, all visible objects emit perpetual streams of particles, which is why we see (and  otherwise discern) them at all. These particles are structured very loosely, a mixture of matter and vacuity. All atoms, he continues, must be polar opposites. Magnets must exude dense streams of atoms which dispel all air between iron and the magnet. The iron atoms then tumble into a void (between the iron and the magnet) and than the iron follows. 
+Secondly, all visible objects emit perpetual streams of particles, which is why we see (and  otherwise discern) them at all. These particles are structured very loosely, a mixture of matter and vacuity. All atoms, he continues, must be polar opposites. Magnets must exude dense streams of atoms which dispel all air between iron and the magnet. The iron atoms then tumble into the void (between the iron and the magnet) and then the iron follows. 
 
 All this is helped by air pushing the object into the vacuum.
 
@@ -86,14 +86,15 @@ This all only works on iron because gold is too atomically heavy and wood too po
 
 ***"The nature of epidemics."***
 
-This is Lucretius' last point in his entire work. It is interesting that he leaves with such a gloomy subject but fitting for death is the final destination for all of us and a fear of death foolish to the true Epicurean. Death, Lucretius and all followers of Epicureanism will argue, is but annihilation - and one cannot regret or fear what one cannot experience. So be merry all, for death is final.
+This is Lucretius' last point in his entire work. It is interesting that he leaves with such a gloomy subject but then again fitting for death is the destination for all of us and a fear of death foolish to the true Epicurean. Death, Lucretius and all followers of Epicureanism will argue, is but annihilation - and one cannot regret or fear what one cannot experience. So be merry all, for death is final.
 
-Epidemics occur when atoms upset the equilibrium on the atmosphere. If one travels and falls sick, it is because one is not used to the different atoms in the air. 
+Epidemics occur when atoms upset the equilibrium in the atmosphere. If one travels and falls sick, it is because one is not used to the different atoms in the air. 
 He observes and believes that Elephantiasis is unique to Egypt, gout of the feet to Attica and poor eyes to Achaia. For some reason, he also believes black people are black due to their skin being burnt by the sun. A variation of air, makes for varying conditions.
 
-Lucretius goes on to clinically describe the events of the Athenian plague of 430 BC (This is notable, because this event occur quite before Lucretius time. He lived between 99-55 BC).
+Lucretius goes on to clinically describe the events of the Athenian plague of 430 BC (This is notable, because this event occurs quite before Lucretius time. He lived between 99-55 BC).
 
 The following symptoms were present:
+
 1. Fever 
 2. Bloodshot eyes
 3. Blacking of the throat and blood in the same
@@ -114,6 +115,7 @@ Victims suffered from depression from the onset of the plague.
 *"In this hour reverence and worship of the gods carried little weight: they were banished by the immediacy of suffering."*
 
 As abruptly as this, Lucretius leaves us to ponder life, death and especially how to go about both.
+
 
 
 

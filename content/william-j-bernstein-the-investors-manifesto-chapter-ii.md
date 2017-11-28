@@ -13,7 +13,7 @@ Bernstein starts out with recent scares. The infamous dot.com bubble collapsed t
 
 Both real estate investment trusts ("REITs") and small stock bloomed post-crash. 
 
-We thus learn of bear markets. A bear market is a pessimistic market, such as a recession. The two recent examples are the 2000-2001 dot.com bubble, in which tech companies turned broke but other stock classes remained intact and the 2007-2008 global financial crisis in which, contrary to the dot.com bubble, consumers turned broke and all stock classes were affected.
+We thus learn of bear markets. A bear market is a pessimistic market, such as a recession. The two recent examples are the 2000-2001 dot.com bubble, in which tech companies turned broke and the 2007-2008 global financial crisis in which, contrary to the dot.com bubble, consumers turned broke and all stock classes were affected.
 
 Bernstein warns that those examples must alert us to the necessity of diversification. One never knows what the market might do, so one must focus on the long-term instead of short-term gambles.
 
@@ -60,6 +60,7 @@ Back to business and a somber consideration:
 The efficient market hypothesis ("EMH") states that all information about security has already been factored into its price. Consequently, stock picking is futile because stock prices only move in response to **new** information.
 
 **Lessons: Diversify, for bears are always a-coming. Gordon helps with returns and old news is useless.**
+
 
 
 

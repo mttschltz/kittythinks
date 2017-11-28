@@ -1,7 +1,7 @@
 ---
 title: William J. Bernstein - "The Investor's Manifesto" - Chapter II
 date: 2017-11-28T07:04:43.487Z
-draft: 'true'
+draft: 'false'
 ---
 *Wer nicht wagt, der nicht gewinnt!* (Nothing ventured, nothing gained.) ~ Johann Karl August Musäus
 
@@ -60,6 +60,7 @@ Back to business and a somber consideration:
 The efficient market hypothesis ("EMH") states that all information about security has already been factored into its price. Consequently, stock picking is futile because stock prices only move in response to **new** information.
 
 **Lessons: Diversify, for bears are always a-coming. Gordon helps with returns and old news is useless.**
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: William J. Bernstein - "The Investor's Manifesto"
+title: William J. Bernstein - "The Investor's Manifesto" - Chapter I
 date: 2017-11-23T08:06:35.057Z
 draft: 'false'
 ---
@@ -55,6 +55,7 @@ To close this chapter, Bernstein tells us briefly about the Venetian prestiti, a
 Venetians who bought prestiti at peace times for a high price made the lowest returns.
 
 **Lessons: Without dedication, maths and discipline, investing is futile. Also, know thy history!**
+
 
 
 

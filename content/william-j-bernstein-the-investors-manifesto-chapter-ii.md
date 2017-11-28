@@ -45,9 +45,9 @@ I started out by using the most popular real estate site in Australia: [www.real
 
 Upon entering my suburb, the only filter applied was "2 bedrooms". The area does not commonly have flats, so most results will be for houses or units.
 
-Firstly, there was all but one place with two bedrooms, all other came up as three bedrooms. Of the eight options, the cheapest was AU$295 per week and the most expensive AU$415. This averages to approx. AU$310 per week.
+Firstly, there was all but one place with two bedrooms, all others came up as three bedrooms. Of the eight options, the cheapest was AU$295 per week and the most expensive AU$415. This averages to approx. AU$310 per week.
 
-A year as approx. 52 weeks, so we are looking at AU$16.120 per year. 
+A year has approx. 52 weeks, so we are looking at AU$16.120 per year. 
 
 It follows that our house should not cost more than AU$241.800. 
 
@@ -60,6 +60,7 @@ Back to business and a somber consideration:
 The efficient market hypothesis ("EMH") states that all information about security has already been factored into its price. Consequently, stock picking is futile because stock prices only move in response to **new** information.
 
 **Lessons: Diversify, for bears are always a-coming. Gordon helps with returns and old news is useless.**
+
 
 
 

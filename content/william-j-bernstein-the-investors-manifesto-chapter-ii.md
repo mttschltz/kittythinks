@@ -53,13 +53,14 @@ It follows that our house should not cost more than AU$241.800.
 
 I've checked if this would be possible in my area and was surprised to see that yes, you can buy a place in this price range. You just have to be quick (and willing to live on a main road).
 
-This seems that perhaps the difference in house prices is too large between the US and Australia do really apply the 15 year-reasonable rent value rule but it isn't too far off, either.
+It seems that perhaps the difference in house prices is too large between the US and Australia to really apply the 15 year-reasonable rent value rule but it isn't too far off, either.
 
 Back to business and a somber consideration:
 
 The efficient market hypothesis ("EMH") states that all information about security has already been factored into its price. Consequently, stock picking is futile because stock prices only move in response to **new** information.
 
 **Lessons: Diversify, for bears are always a-coming. Gordon helps with returns and old news is useless.**
+
 
 
 

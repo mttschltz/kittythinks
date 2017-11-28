@@ -1,7 +1,7 @@
 ---
 title: William J. Bernstein - "The Investor's Manifesto"
 date: 2017-11-23T08:06:35.057Z
-draft: 'true'
+draft: 'false'
 ---
 This is a bit of a different read. As much as I like my ancient authors, philosophers and science educators, occasionally one must capture the magic of not being destitute, too. I would even go so far as to say that financial security gives one the opportunity to ponder life some more... which is my favourite past time.
 
@@ -50,6 +50,11 @@ For the EIC that meant that they needed to offer fractional ownership for each i
 
 The Netherlands on the other hand, had established markets with interest rates of about 4% p.a. for the largest borrowers. This meant that the VOC had permanent capital and thus, lower risk.
 
+To close this chapter, Bernstein tells us briefly about the Venetian prestiti, a tax to finance the ongoing wars Venice fought with the Ottoman Empire and Genoa.
+
+Venetians who bought prestiti at peace times for a high price made the lowest returns.
+
+**Lessons: Without dedication, maths and discipline, investing is futile. Also, know thy history!**
 
 
 

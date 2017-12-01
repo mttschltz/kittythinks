@@ -44,7 +44,7 @@ Around 1600, the Dutch East India Company (VOC) and the English East India Compa
 
 The differences between the VOC and the EIC were stark. England was backwards, with Queen Elisabeth I. mainly making a living by charging rents on royal land and the sale of monopolies to court favourites.
 
-Royals didn't make could business partners, however. Lenders demanded high interest rates due to monarchs commonly defaulting on their debts. Consequently the cost of capital was high in Tudor England. The average for the lowest ventures was 10%-14%.
+Royals didn't make good business partners, however. Lenders demanded high interest rates due to monarchs commonly defaulting on their debts. Consequently the cost of capital was high in Tudor England. The average for the lowest ventures was 10%-14%.
 
 For the EIC that meant that they needed to offer fractional ownership for each individual expedition instead of being able to borrow capital. Luckily for them, the expeditions were hugely successful, raising the interest rates and thus, the risk.
 
@@ -55,6 +55,7 @@ To close this chapter, Bernstein tells us briefly about the Venetian prestiti, a
 Venetians who bought prestiti at peace times for a high price made the lowest returns.
 
 **Lessons: Without dedication, maths and discipline, investing is futile. Also, know thy history!**
+
 
 
 

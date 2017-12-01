@@ -15,7 +15,7 @@ DOOLITTLE [unabashed]: *"Cant afford them, Governor. Neither could you if you wa
 
 # *CH. I - A Brief History of Financial Time*
 
-Bernstein starts out with a handy list for the successful investor. 
+Bernstein starts out with a handy list of what makes a successful investor. 
 
 - Interest in the process
 - The ability to do math beyond primary school level (probability and statistics)
@@ -55,6 +55,7 @@ To close this chapter, Bernstein tells us briefly about the Venetian prestiti, a
 Venetians who bought prestiti at peace times for a high price made the lowest returns.
 
 **Lessons: Without dedication, maths and discipline, investing is futile. Also, know thy history!**
+
 
 
 

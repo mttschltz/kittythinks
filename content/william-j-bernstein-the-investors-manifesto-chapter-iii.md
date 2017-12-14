@@ -1,7 +1,7 @@
 ---
 title: William J. Bernstein - "The Investor's Manifesto" - Chapter III
 date: 2017-12-08T09:13:18.157Z
-draft: 'true'
+draft: 'false'
 ---
 If you were pining for a How-To guide on investing, this chapter is for you. Bernstein - no matter how much he says that this is not the book to use for it, gives us a simple Intro to Portfolio Building and its rather useful.
 
@@ -66,6 +66,7 @@ Now, Bernstein gets serious: Do not, he says, invest with any mutual fund family
 He only briefly mentions the existence of Britain's ***Barclays*** and publicly-traded fund company ***BlackRock*** (the largest investment management company in the world).
 
 His advice is clear: invest only with nonprofit mutual fund companies, which at this time in history, appears to me, Vanguard.
+
 
 
 

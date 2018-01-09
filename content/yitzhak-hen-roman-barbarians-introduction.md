@@ -7,7 +7,7 @@ Have you ever wondered what happened before crenellated castle walls and crusade
 
 This book is an academic take on the demarcation and continuity of the Roman era to the early medieval one. Due to the virtual absence of popular history books for the interested layman, my prior knowledge is nonexistent. But hey, ad altiora tendo.
 
-This first chapter is a review of just why this era is so little talked about. As with all history, there are more questions than answers.
+This first chapter is a review of just why this era is talked about so little. As with all history, there are more questions than answers.
 
 ## *Introduction:* A Series of Unfortunate Events
 
@@ -47,6 +47,7 @@ Hen now takes a brief detour to explain that his book will focus on four royal c
 
 
 ***"***[culture is] ***a system of shared meanings, attitudes, and values, and the symbolic forms [performances, artifacts] in which they are expressed or embodied"*** - Kroeber & Kluckhohn
+
 
 
 

@@ -31,7 +31,7 @@ Yitzhak Hen moves on to other opinions.
 
 Max L. W. Laistner published a book in 1931 with some interesting new points. While he too rejects the idea of the "Dark Ages", he believes the Early Middle Ages to be but a prelude to the Carolingian Renaissance and explains that education and culture slowly moved from the secular sphere to the ecclesiastical one. 
 
-The Classical schools of thought disappear and medieval, i.e. monastic and cathedral schools appear and thus link knowledge inevitable to the Christian faith - at least that is the new cannon, solidified in 1962 by Pierre Riché.
+The Classical schools of thought disappear and medieval, i.e. monastic and cathedral schools appear and thus link knowledge inevitable to the Christian faith - at least that is the new canon, solidified in 1962 by Pierre Riché.
 
 Later scholars realize a fluid transition to be more likely.
 
@@ -47,6 +47,7 @@ Hen now takes a brief detour to explain that his book will focus on four royal c
 
 
 ***"***[culture is] ***a system of shared meanings, attitudes, and values, and the symbolic forms [performances, artifacts] in which they are expressed or embodied"*** - Kroeber & Kluckhohn
+
 
 
 

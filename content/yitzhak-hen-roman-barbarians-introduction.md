@@ -33,7 +33,7 @@ Max L. W. Laistner published a book in 1931 with some interesting new points. Wh
 
 The Classical schools of thought disappear and medieval, i.e. monastic and cathedral schools appear and thus link knowledge inevitable to the Christian faith - at least that is the new canon, solidified in 1962 by Pierre Riché.
 
-Later scholars perrceived a fluid transition to be more likely.
+Later scholars perceived a fluid transition to be more likely.
 
 Another trio of questions emerge:
 
@@ -47,6 +47,7 @@ Hen now takes a brief detour to explain that his book will focus on four royal c
 
 
 ***"***[culture is] ***a system of shared meanings, attitudes, and values, and the symbolic forms [performances, artifacts] in which they are expressed or embodied"*** - Kroeber & Kluckhohn
+
 
 
 

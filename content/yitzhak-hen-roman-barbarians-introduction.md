@@ -43,10 +43,11 @@ Another trio of questions emerge:
 
 **Question 5** = *For how long did these institution last?*
 
-Hen now takes a brief detour to explain that his book will focus on four royal courts of the Early Middle Ages, because it is through this, that we may see how cultures change 
+Hen now takes a brief detour to explain that his book will focus on four royal courts of the Early Middle Ages because it is through this that we may see how cultures change and grow.
 
 
 ***"***[culture is] ***a system of shared meanings, attitudes, and values, and the symbolic forms [performances, artifacts] in which they are expressed or embodied"*** - Kroeber & Kluckhohn
+
 
 
 

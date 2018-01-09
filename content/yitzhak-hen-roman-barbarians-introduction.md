@@ -11,15 +11,15 @@ This first chapter is a review of just why this era is talked about so little. A
 
 ## *Introduction:* A Series of Unfortunate Events
 
-The 3rd to the 8th century are commonly known as the Dark Ages. Hen starts us out by recounting the, until recently, commonly held view by historians that the time between the end of the Roman empire and the High Middle Ages was a sad limbo of decline and chaos. He points to Edward Gibbon's tome *"The History of the Decline and Fall of the Roman Empire"* (published between 1776–1789) for creating this view.
+The 3rd to the 8th century are commonly known as the Dark Ages. Hen starts us out by recounting the until recently, commonly held view by historians that the time between the end of the Roman empire and the High Middle Ages was a sad limbo of decline and chaos. He points to Edward Gibbon's tome *"The History of the Decline and Fall of the Roman Empire"* (published between 1776–1789) for creating this view.
 
-Swiftly, he moves on to show that this still pervasive view is not cannon anymore. The study of history has moved on and re-evaluated if Rome actually "fell" at all and if that was such a bad thing. 
+Swiftly, he moves on to show that this still pervasive view is not canon anymore. The study of history has moved on and re-evaluated if Rome actually "fell" at all and if that was such a bad thing. 
 
 Hen points out that the sources Gibbon & Co used display a biased view due to the need to justify the Carolingian rule (over the former Merovingian one) and the Humanist preference for the Classical period and a dislike of the Barbarians.
 
 Alfons Dopsch and Henri Pirenne were the first historians to challenge Gibbon's view. They focused on the economical and cultural developments during the early middle ages and found no major disruption in the Roman empire upon the arrival of the Germanic people.
 
-This view too was challenged in 2005, when two historians published books that disagreed with this new idea of a docile transition and regressed back to the Gibbonian view that the ROman world was shattered by the Germanic invaders.
+This view too was challenged in 2005, when two historians published books that disagreed with this new idea of a peaceful transition and regressed back to the Gibbonian view that the Roman world was shattered by the Germanic invaders.
 
 Two questions emerge:
 
@@ -47,6 +47,7 @@ Hen now takes a brief detour to explain that his book will focus on four royal c
 
 
 ***"***[culture is] ***a system of shared meanings, attitudes, and values, and the symbolic forms [performances, artifacts] in which they are expressed or embodied"*** - Kroeber & Kluckhohn
+
 
 
 

@@ -13,9 +13,9 @@ Romulus Augustus was the last Roman emperor in the West (or more specifically It
 
 Hen points out that nowadays, Odoacer's take-offer is more likely seen as a shift in military leadership.
 
-In the Roman East (Byzantine), the reigning emperor Zeno was accepted by Odoacer and Zeno probably seemed to have been reluctantly accepting too. 
+In the Roman East (Byzantine), the reigning emperor Zeno was accepted by Odoacer, and Zeno probably seemed to have been reluctantly accepting too. 
 
-The emphasis lies in "reluctant", because Zeno decides to encourage Theoderic, an Ostrogothic leader (and king of various Gothic tribes), to take over a good chunk of the West. (Ironically, Zeno was actually worried about the Ostrogoths uniting, so his enouragement of Theoderic came back to bite him).
+The emphasis lies in "reluctant", because Zeno decides to encourage Theoderic, an Ostrogothic leader (and king of various Gothic tribes), to take over a good chunk of the West. (Ironically, Zeno had actually been worried about the Ostrogoths uniting, thus his enouragement of Theoderic came back to bite him).
 
 In 493, Odoacer is murdered by Theoderic and Ravenna - the seats Odoacer had chosen to reign from, falls to Theoderic and he is crowned king of Italy.
 
@@ -25,7 +25,7 @@ Theoderic, despite being a proud Goth and Arian Christian, realized that to succ
 
 He employed decidedly Roman tactics to do so. Theoderic had a fondness for grand architecture and built widely and generously. He provided his daughter Amalsuntha with an extensive education and he upheld many aspects of the mas maiorum (the Roman code of deeds and ethics).
 
-His most interesting employ to unite two seemingly contrary cultures was the prompting of entrepreneurial statesman Cassiodorus to write a history of the Gothic people to [Cassiodorus himself] *"make Gothic history Roman"*. 
+His most interesting employ to unite two seemingly contrary cultures, was the prompting of entrepreneurial statesman Cassiodorus to write a history of the Gothic people to [Cassiodorus himself] *"make Gothic history Roman"*. 
 
 Theoderic was successful in his vision like noone before or after. 
 
@@ -34,6 +34,7 @@ Here is a map of the Roman Empire under Theoderic (in red: his seat Ravenna).
 ![undefined](/images/uploads/Europe_at_the_death_of_Theoderic_the_Great_in_526.jpg)
 
 To finish this chapter, **a quick note on the term "Arian Christian"**; *Arianism* is a christological concept based on the belief that the son of God did not always existed but was begotten by God as the father. This idea was brought forth by Arius (*~256–†336) and with the exception of Unitarians and Jehovah's Witnesses, no Christian denomination holds this view anymore and all the most common movements reject it categorically.
+
 
 
 

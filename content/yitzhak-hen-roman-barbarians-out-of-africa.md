@@ -13,7 +13,7 @@ Hen explains how the African provinces of the Roman Empire were more stable than
 
 Despite their name, the Vandals did not appear to have 'vandalised' North Africa but rather continued its Roman legacy. Writers of the time describe widespread devastation upon the Vandal's occupation, but Hen points out that this is not supported by archaeological finds, the continuation of the Roman administration in the area post-Vandalisation or the continued stable economic landscape of the time. 
 
-The Vandals enjoyed Roman decadence. Rich clothing and food, daily baths and Roman entertainment were embraced. Unlike their ostrogothic neighbours however, the Vandals disliked Roman Catholics and their was some prosecution for those not inclined to agree with the message of Arius.
+The Vandals enjoyed Roman decadence. Rich clothing and food, daily baths and Roman entertainment were embraced. Unlike their Ostrogothic neighbours however, the Vandals disliked Roman Catholics and their was some prosecution for those not inclined to agree with the message of Arius.
 
 There was no lack of intellectal curiosity however. North Africa - Carthage in particular, was full of schools for medicine, grammar, rhetoric and law; Latin was the spoken language among all North African Vandals and literary activity was not only thriving but heavily Vandal-influenced.
 
@@ -23,12 +23,13 @@ In 496, the then-ruler Gunthamund was succeeded by his brother Thrasamund.
 
 Thrasamund would go on to be considered the strongest Vandal king yet.
 
-Friendly ties were held with both Byzantine emperor Anastasius I. and ostrogothic king Theoderic. So close was Thrasamund's friendship with Theoderic, that the former marries the latter's sister Amalafrida in 500.
+Friendly ties were held with both Byzantine emperor Anastasius I. and Ostrogothic king Theoderic. So close was Thrasamund's friendship with Theoderic, that the former marries the latter's sister Amalafrida in 500.
 
 Thrasamund managed to create (and preserve) a booming North African economy, keep relative peace,  create a flourishing culture and to treat the Catholics comparatively well.
 
 A simple question emerges:
 
 **Question 6 = ** *Why did Thrasamund embrace intellectual culture? Personal interest? To imitate the Romans? Was intellectual fostering possibly common in Vandal society?*
+
 
 

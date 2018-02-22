@@ -29,7 +29,8 @@ Thrasamund managed to create (and preserve) a booming North African economy, kee
 
 A simple question emerges:
 
-**Question 6 = ** *Why did Thrasamund embrace intellectual culture? Personal interest? To imitate the Romans? Was intellectual fostering possibly common in Vandal society?*
+**Question 6 =** *Why did Thrasamund embrace intellectual culture? Personal interest? To imitate the Romans? Was intellectual fostering possibly common in Vandal society?*
+
 
 
 

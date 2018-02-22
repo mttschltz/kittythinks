@@ -18,7 +18,7 @@ This is the short version of events Hen gives us and he follows up with explaini
 
 Of course, their opinions are to be taken with a grain of salt but it appears that beginning with Chlothar and furthered by Dagobert, the late Merovingian court had cemented its importance and created a working landscape of power-sharing between its sub-kingdoms.
 
-**Question 7** = *But how did those two do it? *
+**Question 7** = *But how did those two do it?*
 
 By 613, Chlothar had started by establishing a permanent seat of his court in Paris. This was a new fashion and enabled cultural patronage and change.
 
@@ -31,6 +31,7 @@ He was only somewhat successful at this, his attempts at continual prayers (for 
 Soon, kingship became connected with biblical ideals and a new propaganda machine was born (and milked mercilessly by the later Carolingians).
 
 There wasn't much space left for secularity and most works of art now had religious themes.
+
 
 
 

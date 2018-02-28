@@ -13,19 +13,23 @@ Their lack of historians meant that most opinions were coloured heavily in favou
 
 It didn't help that dictator Franco was a real fan, due to the notion that the Visigoths were supposedly very anti-semitic. 
 
-As with the rest of this book, Hen ventured to at least soften such ideas to more likely reality - he does so, by examining Sisebut.
+As with the rest of this book, Hen ventures to at least soften such ideas to a more likely reality - he does so, by examining Sisebut.
 
 Sisebut had ascended the Visigothic throne in 612 and promptly expunged, defeated and captured various enemies and territories. 
 
-Despite his military prowess, he was torn however. Sisebut was a devout Catholic and struggled to justify his duty as a ruler - especially his duties to conquer - with his Christian conscience.
+Despite his military prowess, he was torn. Sisebut was a devout Catholic and struggled to justify his duty as a ruler - especially his duties to conquer - with his Christian conscience.
 
 He somewhat solved this problem by being especially harsh to Arian Christians and Jews. 
 
-While he was cruel to those whho opposed his religious views, he was not foolish.
 
-Hen gives us examples of his intelligence by pointing out that he wrote his own letters, dispersed by biblical quotations and  quotes from Christian poets. Besides his letters, he wrote a hagiography on Desidorius (a Frankish Saint) and a treatise of a poem on lunar eclipses inspired by Lucretius.
+**Question 8** = *Was Sisebut's piety responsible for his animosity towards Arianism and Judaism, or was it a need to be the "right" kind of Christian ruler?*
 
- ***{I happen to be a big Lucretius fan, so had [over here](https://www.kittythinks.com/lucretius-the-nature-of-the-universe-book-i/) if you want to know more}***
+
+While he was cruel to those who opposed his religious views, he was not foolish.
+
+Hen gives us examples of his intelligence by pointing out that he wrote his own letters, dispersed by biblical quotations and  quotes from Christian poets and a hagiography on Desidorius (a Frankish Saint), plus a treatise of a poem on lunar eclipses inspired by Lucretius.
+
+ ***{I happen to be a big Lucretius fan, so head [over here](https://www.kittythinks.com/lucretius-the-nature-of-the-universe-book-i/) if you want to know more}***
 
 Sisebut was also fond of a man named Isidore of Seville, who started what is now known as the Isidorian Renaissance.
 
@@ -33,9 +37,9 @@ Isidore, born around 560 in Cartagena, was a strict Catholic and joined the Tole
 
 He shared with the council his vision of a reorganized Visigothic church and produced plenty of literature (his biggest hit was the *Ethymologiae*, a collection of knowledge in the vein of Pliny the Elder's *Natural History*), because he believed that only a unified clergy could ensure salvation.
 
-Up until then, the council tried hard to marry (the new Catholic) religion with political authority. There was considerable disagreement and the Visigothic kings had to redefine various parameters later on. Isidore contributed to a change in moral and political ideology.
+Up until then, the council had tried hard to marry (the new Catholic) religion with political authority. There was considerable disagreement and the Visigothic kings had to redefine various parameters later on. Isidore contributed to a change in moral and political ideology.
 
-The lunar eclipse poem Sisebut had written was likely dedicated to Isidore and an early version of Isidore's Ethymologiae was dedicated to Sisebut.
+The lunar eclipse poem Sisebut had written was likely dedicated to Isidore and an early version of Isidore's *Ethymologiae* was dedicated to Sisebut.
 
-A Catholic king between rule and devotion and a Catholic reformer between the need for salvation and politics, come together to make *sacerdotium et regnum* (church and state) a reality.
+A Catholic king between rule and devotion and a Catholic reformer between the need for salvation and politics come together to make *sacerdotium et regnum* (church and state) a reality.
 

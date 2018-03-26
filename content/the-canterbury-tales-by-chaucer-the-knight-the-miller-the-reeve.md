@@ -29,8 +29,8 @@ draft: 'false'
 
 # THE MILLER
 
-*Characters:
-*
+*Characters:*
+
 - **Carpenter** - a husband
 - **Alison** - a wife
 - **Nicholas** - a trickster cleric
@@ -76,6 +76,7 @@ Now worried, still in the dark, **Allan** gets up to get in bed with **John**. W
 **Allan** and **John** leave, having won it all.
 
 *"He who does evil must not expect good."*
+
 
 
 

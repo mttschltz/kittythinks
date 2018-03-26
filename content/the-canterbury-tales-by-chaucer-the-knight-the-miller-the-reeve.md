@@ -38,7 +38,7 @@ draft: 'false'
 
 A **carpenter** takes in two lodgers, **Nicholas** and **Absolom**. **Nicholas** and **Absolom** are both propositioning **Alison**, the **carpenter**'s wife. She is interested in **Nicholas**.
 
-To lie with **Alison**, **Nicholas** tells the **carpenter** that a new flood will come and he must fashion three barrels, one for each of them and suspend them from the ceiling. While the **carpenter** sleep in his barrel, **Alison** and **Nicholas** get it on.
+To lie with **Alison**, **Nicholas** tells the **carpenter** that a new flood will come and he must fashion three barrels, one for each of them and suspend them from the ceiling. While the **carpenter** sleeps in his barrel, **Alison** and **Nicholas** get it on.
 
 **Absolom** wants in on the action and asks **Alison** for a kiss. Instead of her mouth, she presents her arse and **Absolom** is shamed.
 
@@ -76,6 +76,7 @@ Now worried, still in the dark, **Allan** gets up to get in bed with **John**. W
 **Allan** and **John** leave, having won it all.
 
 *"He who does evil must not expect good."*
+
 
 
 

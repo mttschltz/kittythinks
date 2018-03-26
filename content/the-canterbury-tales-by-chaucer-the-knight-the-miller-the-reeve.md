@@ -24,8 +24,7 @@ draft: 'false'
 
 **Theseus**, to unite the lands, eventually agrees and they are married, as was foretold.
 
-*
-"Just as no man ever died, who had not to some extent lived on earth, so no man ever lived in this word who is not at some time destined to die."*
+*"Just as no man ever died, who had not to some extent lived on earth, so no man ever lived in this word who is not at some time destined to die."*
 ***
 
 # THE MILLER
@@ -76,8 +75,8 @@ Now worried, still in the dark, **Allan** gets up to get in bed with **John**. W
 
 **Allan** and **John** leave, having won it all.
 
-*"He who does evil must not expect good."
-*
+*"He who does evil must not expect good."*
+
 
 
 

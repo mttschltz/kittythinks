@@ -17,8 +17,8 @@ draft: 'false'
 
 # THE MAN OF LAW
 
-*Characters:
-*
+*Characters:*
+
 - **Aella** - a king
 - **Donegild** - mother of Aella
 - **Constance** - wife of Aella
@@ -82,5 +82,6 @@ Upon confronting his **wife**, the **merchant** gets told that she believed the 
 
 *"And you know that women naturally desire the same six things as I; they want their husbands to be brave, wise rich, generous with money, obedient to the wife and lievly in the bedroom."
 *
+
 
 

@@ -45,9 +45,9 @@ To prove his accusations, the **knight** must swear on the Gospel. He is instant
 
 **Constance** is made a queen to the king of the land, **Aella** and falls pregnant. 
 
-While **Aella** is at war,  letter is to be send to him about the birth of his son, **Maurice**. **Donegild**, Aella's mother, dislikes **Constance** and intercepts the letter. She exchanges it for one that states the child to be born a monster, clearly because the mother is an elf.
+While **Aella** is at war, a letter is to be send to him about the birth of his son, **Maurice**. **Donegild**, Aella's mother, dislikes **Constance** and intercepts the letter. She exchanges it for one that states the child was born a monster, clearly because the mother is an elf.
 
-**Aella** is distraught but content. He writes back that the mother and child are to be protected. The letter is once again intercepted and **Constance** and **Maurice** are put back on the ship she came one and send off to sea once more.
+**Aella** is distraught but content. He writes back that the mother and child are to be protected. The letter is once again intercepted and **Constance** and **Maurice** are put back on the ship she came on and send off to sea once more.
 
 After many more years at sea, the **senator** to the **Emperor of Rome** finds **Constance**, not knowing who she is. He takes her in. **Constance** and **Maurice** stay there for a long time.
 
@@ -59,7 +59,7 @@ The **senator** hears of this and, with **Maurice**, goes to meet **Aella**. The
 
 Except, **Aella** dies after only a year, **Constance** goes to live out her days with her father and **Maurice** becomes Emperor.
 
-*"We women are born to servitude and penance, Always ruled by some men's governance."*
+*"We women are born to servitude and penance, always ruled by some men's governance."*
 ***
 
 # THE SHIPMAN
@@ -80,8 +80,8 @@ When the **merchant** gets back, he is in debt and goes to **Don John** to ask w
 
 Upon confronting his **wife**, the **merchant** gets told that she believed the money to be her payment for her hospitality and that she will repay him in the  bedroom.
 
-*"And you know that women naturally desire the same six things as I; they want their husbands to be brave, wise rich, generous with money, obedient to the wife and lievly in the bedroom."
-*
+*"And you know that women naturally desire the same six things as I; they want their husbands to be brave, wise rich, generous with money, obedient to the wife and lively in the bedroom."*
+
 
 
 

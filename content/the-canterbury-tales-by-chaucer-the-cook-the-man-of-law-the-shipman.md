@@ -1,7 +1,7 @@
 ---
 title: 'The Canterbury Tales by Chaucer - THE COOK, THE MAN OF LAW, THE SHIPMAN'
 date: 2018-03-28T02:41:14.041Z
-draft: 'true'
+draft: 'false'
 ---
 # THE COOK
 
@@ -82,4 +82,5 @@ Upon confronting his **wife**, the **merchant** gets told that she believed the 
 
 *"And you know that women naturally desire the same six things as I; they want their husbands to be brave, wise rich, generous with money, obedient to the wife and lievly in the bedroom."
 *
+
 

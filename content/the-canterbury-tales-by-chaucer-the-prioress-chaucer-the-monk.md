@@ -15,7 +15,7 @@ In a small town lives a Christian **boy**. He is very pious and upon hearing a s
 
 He sings the song, _Alma Redemptoris_ constantly, to the chagrin of his Jewish neighbours.
 
-One day, he is killed for it and thrown in a privy. When his mother searches for him the next day, she founds his corpse, throat cut but still singing.
+One day, he is killed for it and thrown in a privy. When his mother searches for him the next day, she finds his corpse, throat cut but still singing.
 
 The guilty party is concluded to be all the Jews around and they are brutally killed.
 

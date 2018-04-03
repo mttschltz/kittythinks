@@ -1,15 +1,15 @@
 ---
 title: 'The Canterbury Tales by Chaucer - THE PRIORESS, CHAUCER, THE MONK'
 date: '2018-04-03T14:27:40+09:30'
-draft: 'true'
+draft: 'false'
 ---
 # THE PRIORESS
 
 _Disclaimer: This tale is antisemitic. Proceed with caution._
 
-* Boy - a pious one
-* Mary - mother of Jesus
-* Abbot - not a fan of Jews
+* **Boy** - a pious one
+* **Mary** - mother of Jesus
+* **Abbot** - not a fan of Jews
 
 In a small town lives a Christian **boy**. He is very pious and upon hearing a song dedicated to **Mary**, the mother of Jesus, decides to learn it.
 
@@ -27,9 +27,9 @@ This is done and the boy is entombed in marble and this miracle celebrated.
 
 # CHAUCER
 
-* Sir Thopas - an enthralled knight
-* Giant - a guard
-* Chaucer - the man of the (bygone) hour
+* **Sir Thopas** - an enthralled knight
+* **Giant** - a guard
+* **Chaucer** - the man of the (bygone) hour
 
 **Sir Thopas** has decides that he will only marry an elvish queen. 
 
@@ -44,3 +44,13 @@ At this point the host of the riding party interrupts **Chaucer**. He does not l
 - - -
 
 # THE MONK
+
+* **Ugolino** - Count of Pisa
+* **Roger** - Bishop of Pisa
+* **Jailer** - a vicious person
+
+**Ugolino** is arrested and thrown in prison by the **Roger**, Bishop of Pisa. His three children are imprisoned with him.
+
+After some time, it appears the **jailer** intends to starve the group to death. Soon, the youngest child dies, then the others and eventually, **Ugolino** himself.
+
+The moral is that **Ugolino** was accused of a crime he did not commit, and thus, dies despite his high status.

@@ -49,7 +49,7 @@ At this point the host of the riding party interrupts **Chaucer**. He does not l
 * **Roger** - Bishop of Pisa
 * **Jailer** - a vicious person
 
-**Ugolino** is arrested and thrown in prison by the **Roger**, Bishop of Pisa. His three children are imprisoned with him.
+**Ugolino** is arrested and thrown in prison by **Roger**, Bishop of Pisa. His three children are imprisoned with him.
 
 After some time, it appears the **jailer** intends to starve the group to death. Soon, the youngest child dies, then the others and eventually, **Ugolino** himself.
 

@@ -27,4 +27,20 @@ This is done and the boy is entombed in marble and this miracle celebrated.
 
 # CHAUCER
 
-* Sir Thopas - an enthralled
+* Sir Thopas - an enthralled knight
+* Giant - a guard
+* Chaucer - the man of the (bygone) hour
+
+**Sir Thopas** has decides that he will only marry an elvish queen. 
+
+On the gates of Fairyland, he is confronted by a **giant**, who will not grant him entrance unless **Sir Thopas** defeats him in combat.
+
+\---------- 
+
+At this point the host of the riding party interrupts **Chaucer**. He does not like the tale and demands a new one!
+
+**Chaucer** obliges and dives in a lengthy treatise on the moral high ground.
+
+- - -
+
+# THE MONK

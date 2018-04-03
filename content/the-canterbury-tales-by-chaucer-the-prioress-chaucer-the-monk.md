@@ -39,7 +39,7 @@ On the gates of Fairyland, he is confronted by a **giant**, who will not grant h
 
 At this point the host of the riding party interrupts **Chaucer**. He does not like the tale and demands a new one!
 
-**Chaucer** obliges and dives in a lengthy treatise on the moral high ground.
+**Chaucer** obliges and dives into a lengthy treatise on the moral high ground.
 
 - - -
 

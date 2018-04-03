@@ -16,9 +16,9 @@ draft: 'false'
 
 **Arcite** gets freed but exiled, he is inconsolable that he is parted from **Emily**, while **Palamon** is inconsolable that he is imprisoned.
 
-**Arcite** disguises himself of a lowly servant to work for **Theseus**. Meanwhile, **Palamon **escapes and plans to attack **Theseus** with an army.
+**Arcite** disguises himself of a lowly servant to work for **Theseus**. Meanwhile, **Palamon** escapes and plans to attack **Theseus** with an army.
 
-**Palamon** and **Arcite **meet by chance and plan to fight each other over **Emily**, but **Theseus** decides that they should have a proper tournament.
+**Palamon** and **Arcite** meet by chance and plan to fight each other over **Emily**, but **Theseus** decides that they should have a proper tournament.
 
 **Palamon** loses but **Arcite** is badly injured. Upon his death, he commands that **Palamon** must marry **Emily**. 
 

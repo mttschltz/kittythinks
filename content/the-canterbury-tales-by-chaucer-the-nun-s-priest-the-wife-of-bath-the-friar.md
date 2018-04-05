@@ -44,17 +44,17 @@ He agrees.
 
 When prompted to show the result of his quest, the **knight** explains that what women really desire, is control over men. All agree, he has found the answer.
 
-The old **woman** interjects and requires her payment. She want the **knight** to marry her.
+The old **woman** interjects and requires her payment. She wants the **knight** to marry her.
 
 The **knight** is appalled - the old **woman** is ugly, old, and of low birth.
 
-The **woman** explains that lowly birth is unimportant, for those who do noble deeds. Her rescue of him, was surely godly and noble. Furthermore, she explains that her looks and her age are but advantages! What else makes one so chaste?
+The **woman** explains that lowly birth is unimportant for those who do noble deeds. Her rescue of him was surely godly and noble. Furthermore, she explains that her looks and her age make her naturally chaste.
 
-However, she is not without pity. She offers him a choice:
+However, she offers him a choice:
 
 He can take her old and ugly but loyal and true, or require prettiness and youth, but content himself with flightiness and openness.
 
-The **knight** after thinking hard, decides that it is not for him to chose - it is her choice.
+The **knight** decides that it is not for him to choose - it is her choice.
 
 Having now committed to her and done for her what all women desire, she tells him that he will indeed get both. (She is an elf and will transform herself.)
 

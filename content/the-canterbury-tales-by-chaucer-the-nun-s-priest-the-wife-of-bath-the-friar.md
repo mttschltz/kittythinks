@@ -13,7 +13,7 @@ draft: 'false'
 
 **Chanticleer** and **Partlet**, a cock and hen couple, live a simple life.
 
-One night, **Chanticleer** had a nightmare concerning a **fox**. Soon, he meets the right thing.
+One night, **Chanticleer** had a nightmare concerning a **fox**. Soon, he meets the real thing.
 
 The **fox**, ever sly, flatters the **Chanticleer** until the same is so bewitched that the **fox** can simple carry him off.
 

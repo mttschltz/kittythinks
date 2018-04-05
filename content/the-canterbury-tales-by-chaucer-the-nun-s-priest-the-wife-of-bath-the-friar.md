@@ -8,16 +8,16 @@ draft: 'false'
 # THE NUN'S PRIEST
 
 * **Chanticleer** - a cock
-* **Partlet **- a hen
-* **Fox **- not so nifty
+* **Partlet**- a hen
+* **Fox**- not so nifty
 
 **Chanticleer** and **Partlet**, a cock and hen couple, lived a simple life.
 
 One night, **Chanticleer** had a nightmare concerning a **fox**. Soon, he meets the right thing.
 
-The** fox**, ever sly, flatters the** Chanticleer** until the same is so bewitched that the** fox** can simple carry him off.
+The **fox**, ever sly, flatters the **Chanticleer** until the same is so bewitched that the **fox** can simple carry him off.
 
-To rescue himself, **Chanticleer** compels the **fox** to talk, and upon opening his mouth, **Chanticleer **escapes both him and his fate.
+To rescue himself, **Chanticleer** compels the **fox** to talk, and upon opening his mouth, **Chanticleer** escapes both him and his fate.
 
 - - -
 
@@ -34,7 +34,7 @@ A **knight**'s squire rapes a woman and the **knight** is condemned to death for
 
 The **Queen** asks for the **knight**'s pardon and the **King** gives the judgement to her.
 
-To make up for the crime committed, the **Queen** sends the **knight **on a quest:
+To make up for the crime committed, the **Queen** sends the **knight** on a quest:
 
 He has one year and one day, to find out what women desire the most.
 
@@ -42,11 +42,11 @@ Naturally, the quest is doomed from the start and he is about to go back and fac
 
 He agrees.
 
-When prompted to show the result of his quest, the **knight **explains that what women really desire, is control over men. All agree, he has found the answer.
+When prompted to show the result of his quest, the **knight** explains that what women really desire, is control over men. All agree, he has found the answer.
 
-The old** woman** interjects and requires her payment. She want the **knight** to marry her.
+The old **woman** interjects and requires her payment. She want the **knight** to marry her.
 
-The **knight **is appalled - the old **woman** is ugly, old, and of low birth.
+The **knight** is appalled - the old **woman** is ugly, old, and of low birth.
 
 The **woman** explains that lowly birth is unimportant, for those who do noble deeds. Her rescue of him, was surely godly and noble. Furthermore, she explains that her looks and her age are but advantages! What else makes one so chaste?
 
@@ -58,7 +58,7 @@ The **knight** after thinking hard, decides that it is not for him to chose - it
 
 Having now committed to her and done for her what all women desire, she tells him that he will indeed get both. (She is an elf and will transform herself.)
 
-> "It seems to me that poverty is an eyeglass through which one may see his true friends."
+_"It seems to me that poverty is an eyeglass through which one may see his true friends."_
 
 - - -
 
@@ -71,6 +71,6 @@ A **summoner**, a corrupt official was on the road.
 
 He meets a **yeoman** and is asked about his profession. When he lies and says that he is a bailiff, the **yeoman** is delighted, for he is a bailiff too.
 
-When the **summoner **asks his new friend where he is from, he says that he is from hell. The **summoner** is not worried and they decide to deceive together.
+When the **summoner** asks his new friend where he is from, he says that he is from hell. The **summoner** is not worried and they decide to deceive together.
 
-When they happen upon a poor old woman, she curses the** summoner **to the devil and taking his chance, the false** yeoman**, who is actually the devil, takes him to hell.
+When they happen upon a poor old woman, she curses the **summoner** to the devil and taking his chance, the false **yeoman**, who is actually the devil, takes him to hell.

@@ -73,4 +73,4 @@ He meets a **yeoman** and is asked about his profession. When he lies and says t
 
 When the **summoner** asks his new friend where he is from, he says that he is from hell. The **summoner** is not worried and they decide to deceive together.
 
-When they happen upon a poor old woman, she curses the **summoner** to the devil and taking his chance, the false **yeoman**, who is actually the devil, takes him to hell.
+When they happen upon a poor old woman, she curses the **summoner** to the devil and taking his chance, the false **yeoman **who is actually the devil, takes him to hell.

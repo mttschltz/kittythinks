@@ -11,7 +11,7 @@ draft: 'false'
 * **Partlet**- a hen
 * **Fox**- not so nifty
 
-**Chanticleer** and **Partlet**, a cock and hen couple, lived a simple life.
+**Chanticleer** and **Partlet**, a cock and hen couple, live a simple life.
 
 One night, **Chanticleer** had a nightmare concerning a **fox**. Soon, he meets the right thing.
 

@@ -15,7 +15,7 @@ draft: 'false'
 
 One night, **Chanticleer** had a nightmare concerning a **fox**. Soon, he meets the real thing.
 
-The **fox**, ever sly, flatters the **Chanticleer** until the same is so bewitched that the **fox** can simple carry him off.
+The **fox**, ever sly, flatters **Chanticleer** until the same is so bewitched that the **fox** can simple carry him off.
 
 To rescue himself, **Chanticleer** compels the **fox** to talk, and upon opening his mouth, **Chanticleer** escapes both him and his fate.
 

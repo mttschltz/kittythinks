@@ -1,7 +1,7 @@
 ---
 title: 'The Canterbury Tales by Chaucer - THE SQUIRE, THE FRANKLIN, THE PHYSICIAN'
-date: '2018-04-06T18:28:18+09:30'
-draft: 'true'
+date: '2018-04-06T07:07:00+09:30'
+draft: 'false'
 ---
 # THE SQUIRE
 
@@ -16,7 +16,7 @@ On the birthday of king **Cambiuskan**, a strange knight appears and bears gifts
 
 There is a magic flying horse made of brass, a sword that can kill and heal, a fortune-telling mirror, and a ring that makes the wearer understand birds and know herbs.
 
-The next morning, **Canace** wears the magic ring and takes a walk. She comes upon a **falcones**s that had been betrayed by a kite. 
+The next morning, **Canace** wears the magic ring and takes a walk. She comes upon a **falconess** that had been betrayed by a kite. 
 
 **Canace** takes her in and tends to her wounds...
 
@@ -37,9 +37,9 @@ When **Arveragus** goes off to war, Aurelius, a squire, tries to woo **Dorigen**
 
 She is not interested and tells him he only has a chance if he removes the black rocks on the coast from her sight.
 
-**Aurelius** finds a **magician** and for £1000, he will make an illusion which remove the rocks.
+**Aurelius** finds a **magician** and for a price, he will make an illusion which removes the rocks.
 
-When **Arveragus** comes back, the distraught **Dorigen** tells her of her unfortunate vow.
+When **Arveragus** comes back, the distraught **Dorigen** tells of her unfortunate vow.
 
 **Arveragus** decides that **Dorigen** must honour her vow.
 
@@ -54,7 +54,7 @@ When the **magician **sees the selflessness of all three, he decides to waive th
 # THE PHYSICIAN
 
 * **Virginius **- a serious knight
-* **Virginia** - a victim of patriarchy
+* **Virginia** - a victim of the patriarchy
 * **Appius** - a lawless judge
 * **Claudius** - a fool
 

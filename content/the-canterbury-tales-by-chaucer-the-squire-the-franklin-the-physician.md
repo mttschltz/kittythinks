@@ -43,11 +43,11 @@ When **Arveragus** comes back, the distraught **Dorigen** tells of her unfortuna
 
 **Arveragus** decides that **Dorigen** must honour her vow.
 
-When **Aurelius** realizes how reluctant **Dorigen **is and how honourable **Arveragus**, he changes his mind and lets the two be.
+When **Aurelius** realizes how reluctant **Dorigen** is and how honourable **Arveragus**, he changes his mind and lets the two be.
 
 **Aurelius** is now broke and wifeless.
 
-When the **magician **sees the selflessness of all three, he decides to waive the fee.
+When the **magician** sees the selflessness of all three, he decides to waive the fee.
 
 - - -
 

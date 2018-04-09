@@ -31,4 +31,51 @@ _"You would make me kiss your old breaches, and swear they were the relic of a s
 
 # THE SECOND NUN
 
-*
+* **St. Cecilia** - a saint
+* **Valerian** - a _really_ understanding husband
+* **Tiburtus** - a really understanding brother
+* **Prefect** - a Roman
+
+**Cecilia** has married **Valerian**, but does not want to give up her virginity because she is a Roman Catholic.
+
+To prevent having sex, she tells **Valerian** that if he touches her, he will die by the hand of **Cecilia**'s protective angel.
+
+The angel actually exists and offers both **Cecilia** and **Valerian** protection and Valerian the chance to ask a question.
+
+He doesn't want much but the same protection for his brother, **Tiburtius**.
+
+**Tiburtius**, upon being told of his luck (which he can only get if he becomes a Christian), accepts Christ and all and the three henceforth experience miracles.
+
+This micracle-granting does not go unnoticed by the Romans, and the three are summoned to appear before the **prefect**.
+
+The **prefect** wants them to sacrifice to Jupiter (and thus violate their Christian faith) or be beheaded.
+
+Naturally, they refuse. The night before their executions, they convert the executioner. **Valerian** and **Tiburtius** get executed by someone else, and the executioner gets himself beaten to death.
+
+**Cecilia** offends the prefect enough to earn herself a harsher punishment: she gets burned and survives, gets beheaded too and still survives for three more days.
+
+Her house then becomes a church.
+
+- - -
+
+# THE CANON'S YEOMAN
+
+_Disclaimer: The Yeoman and his master, the Canon, join the group later - the Canon soon leaves again._
+
+* **Yeoman** - an unhappy worker
+* **Canon** - an alchemist and trickster
+* **Priest** - a tricked one
+
+The **Yeoman** describes his job as an alchemist apprentice thoroughly. He does not like the job at all, for it is deceiving and dangerous.
+
+He tells of a **canon** who once ask a **priest** for a financial and after timely paying his loan back, wins the **priest**'s trust.
+
+For his deception, he tells the **priest** that he will do him a great favour - all he needs is three ounces of quicksilver. He tinkers with a tempered coal in the fire, by adding a small bit of silver into a pre-drilled hole and upon removing a lump of coal, tells the **priest** to rummage around in  it. The **priest** finds a small clump of silver. 
+
+The **priest** is amazed and wants to buy the formula to transmute quicksilver into silver and quickly a deal is made for the princely sum of £40.
+
+_"If a man has money, he can easily learn to transmute his money to nothing!"_
+
+- - -
+
+# THE MANCIPLE

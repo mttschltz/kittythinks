@@ -79,3 +79,23 @@ _"If a man has money, he can easily learn to transmute his money to nothing!"_
 - - -
 
 # THE MANCIPLE
+
+* **Phoebus** - a man with anger issues
+* **Wife** - a victim of rage
+* **Crow** - a victim of stupidity
+
+**Phoebus** owns a white **crow** with a beautiful singing voice. He also has a **wife**, but deals with fits of jealousy.
+
+His jealousy is not without merit, because his **wife** has taken a lover. When once the **wife** is cheating, the **crow** sees all and report to its master.
+
+**Phoebus** reacts by killing his... until he regrets his decision and blames the **crow** instead.
+
+He curses his **crow** and all **crow**s since to be black instead of white, to be unable to speak and to only screech if bad weather is afoot. Thus, all **crow**s are black, mute and warning.
+
+_"My son, beware, and be not the first giver of news, no matter whether it is false or true."_
+
+- - -
+
+# _BONUS_ - THE PARSON
+
+The Parson decides to go on a two hour long, three-part sermon on penitence and the deadly sins. Chaucer (or this translator) had no desire to write it down.

@@ -51,8 +51,7 @@ Colour was hereafter forbidden.
 
 _**Flatland is satire**_. It was first published in 1884, at the height of Victorian society. Abbott, as he himself said in the revised version of the book, is trying to portray the questionable side of Victorian society. 
 
-**SEXISM
-**
+**SEXISM**
 
 The book focuses heavily on women and the attitude towards them; a clear sign of its satirical nature. How often do women come up in historical literature outside of their role as mother, wife and daughter? How often do women get portrayed as anything more than a men’s help meet? 
 
@@ -66,12 +65,11 @@ Yet, A Square worries that the refusal to educate women may lead to a disadvanta
 
 Abbott seems to imply that part of the hypocrisy lies in the knowledge that men are aware, deep down, that women are not actually incapable but made so, by nurture.
 
-**SERFDOM **
+**SERFDOM**
 
 The lower classes in Flatland, the Isosceles, are not free citizens. Only those who have reached 60° are elevated to the Regular, free class. Regularity can only be reached by hoping one’s son has gain a degree close enough to the norm. Abbott appears to reference the living situation of slaves and the one-drop-rule here.
 
-**HEREDITARY ARISTOCRACY
-**
+**HEREDITARY ARISTOCRACY**
 
 Just like elevation to the Regular class happens only through generational growth, so power is only attained and kept through purity of breeding. High class in Flatland, means high (degree) birth. No other merit matters. 
 
@@ -79,19 +77,16 @@ Interestingly, Mr. Square does bemoan the common practice of the highest classes
 
 Clearly, Abbott wants us to take a look at hereditary monarchies.
 
-**THEOCRACY
-**
+**THEOCRACY**
 
 The priestly class, is the ruling class in all matters, with no exception. This appears as a look back to the early middle ages, when Christianity had exclusive rule in much of Europe.
 
-**EUGENICS
-**
+**EUGENICS**
 
 Flatland is a utilitarian state and only concerned with the purity and betterment of its free citizens. The very lowest Flatlanders, namely Irregulars, are destroyed. Rebels and rioters are likewise destroyed. Anyone, especially women, who violate the laws regarding them, is destroyed. No one seems to worry about executions being carried out freely and often on infants. 
 
 Perhaps a nod to Sparta?
 
-**RACISM
-**
+**RACISM**
 
 Irregulars are solely judge on their one, inborn feature. There is no betterment for them. They are assumed to be morally unsound and dangerous. Irregulars are feared by men and women alike, for they may “trick” men into thinking they are of a respectable class and women into fornication, which can only lead to their demotion. Black people - that’s what Abbott is referring to.

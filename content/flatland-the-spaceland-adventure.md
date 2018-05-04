@@ -9,7 +9,7 @@ A Square is wondering about his smartest grandson's vivid imagination: he is con
 
 Suddenly, they feel a presence. Square is confused, the figure that has just appeared is neither a woman, nor a circle; his wife believe it to be a woman.
 
-Square's wife is asking the stranger to introduce theyself and upon realizing the figure is indeed not a woman, rushes to retire to bed.
+Square's wife is asking the stranger to introduce themself and upon realizing the figure is indeed not a woman, rushes to retire to bed.
 
 A Square wants an introduction too - he decides to feel the stranger, even though this is not proper for his status. He is struck by the perfection and utter lack of angles. The stranger isn't happy about the intrusion and finally explains that he is from Space!
 

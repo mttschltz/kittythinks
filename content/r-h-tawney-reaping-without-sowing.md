@@ -7,7 +7,7 @@ _Tawney published **The Acquisitive Society** in 1920. This is an excerpt from i
 
 To begin, Tawney examines the property and land rights that have been governing England prior to the industrial revolution. He emphasis that property right in England is traditionally based on by where a man reaps what he himself has sown. 
 
-There is also mention of the American Constitution, especially of the 14th Amendment which sees the right to property as a moral, rather than just a legal right. This was so, Tawney explains, so that the producer of a good may not be deprived of his efforts by violence and also, to protect ones creative work from being violated by monopolies.
+There is also mention of the American Constitution, especially of the 14th Amendment which sees the right to property as a moral, rather than just a legal right. This was, Tawney explains, so that the producer of a good may not be deprived of his efforts by violence and also, to protect ones creative work from being violated by monopolies.
 
 Now however, such rules condemn many properties and do not fit modern society any longer.
 

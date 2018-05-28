@@ -3,9 +3,7 @@ title: R. H. Tawney - "Reaping Without Sowing"
 date: '2018-05-28T19:53:24+09:30'
 draft: 'false'
 ---
-*
-Tawney published **The Acquisitive Society** in 1920. This is an excerpt from it. It should be understood that Tawney was a Christian socialist, advocating for an egalitarian society.
-*
+*Tawney published **The Acquisitive Society** in 1920. This is an excerpt from it. It should be understood that Tawney was a Christian socialist, advocating for an egalitarian society.*
 
 To begin, Tawney examines the property and land rights that have been governing England prior to the industrial revolution. He emphasis that property right in England is traditionally based on by where a man reaps what he himself has sown. 
 
@@ -13,10 +11,11 @@ There is also mention of the American Constitution, especially of the 14th Amend
 
 Now however, such rules condemn many properties and do not fit modern society any longer.
 
-In today's world, we are shown, ownership of property is no longer *active*, but *passive*. An owner of today does not work the property anymore, but uses the property to gain or govern.
+In today's world, we are shown, ownership of property is no longer _active_, but _passive_. An owner of today does not work the property anymore, but uses the property to gain or govern.
 
 That regretfully leads to a lack of a guarantee that gain bears relation to service or power of responsibility.  Ownership and use are now normally divorced. 
 
 Tawney is not a fan.
 
-*The interest of those who own the property used in industry... is that their capital should be dear and human beings cheap.*
+_The interest of those who own the property used in industry... is that their capital should be dear and human beings cheap.
+_

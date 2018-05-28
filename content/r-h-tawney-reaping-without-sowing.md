@@ -3,7 +3,7 @@ title: R. H. Tawney - "Reaping Without Sowing"
 date: '2018-05-28T19:53:24+09:30'
 draft: 'false'
 ---
-*Tawney published **The Acquisitive Society** in 1920. This is an excerpt from it. It should be understood that Tawney was a Christian socialist, advocating for an egalitarian society.*
+_Tawney published **The Acquisitive Society** in 1920. This is an excerpt from it. It should be understood that Tawney was a Christian socialist, advocating for an egalitarian society._
 
 To begin, Tawney examines the property and land rights that have been governing England prior to the industrial revolution. He emphasis that property right in England is traditionally based on by where a man reaps what he himself has sown. 
 

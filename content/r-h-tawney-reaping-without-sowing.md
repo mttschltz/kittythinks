@@ -17,8 +17,4 @@ That regretfully leads to a lack of a guarantee that gain bears relation to serv
 
 Tawney is not a fan.
 
-
-
-> _The interest of those who own the property used in industry... _
->
-> _is that their capital should be dear and human beings cheap._
+> _The interest of those who own the property used in industry... is that their capital should be dear and human beings cheap._

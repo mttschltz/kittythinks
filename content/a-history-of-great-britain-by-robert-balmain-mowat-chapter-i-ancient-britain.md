@@ -25,7 +25,7 @@ Mowat points out that druidic Britons employed human sacrifice and tortured thei
 
 All of this, Mowat explains, is known primarily through Julius Ceasar's _Commentaries_ and Tacitus _Agricola_.
 
-_**It should be noted that Ceasar was heavily influenced by Posidonius, a stoic philosopher and historian.**_
+**_It should be noted that Ceasar was heavily influenced by Posidonius, a stoic philosopher and historian._**
 
 It is Ceasar who influenced Ancient Britain next. 
 
@@ -51,4 +51,16 @@ To achieve control over the Britons, the Roman empire sent three (initially four
 
 In 61 A.D. Boudicca (or Boadicea), chieftess of the Iceni tribe, relies her people to attack the Romans. While she ultimately fails, her attack results in the dismantling of the IX legion.
 
-A second campaign in 84 A.D. _**(to the knowledge of 1929 - today the date is assumed to be 83 A.D.) **_
+A second campaign in 84 A.D. _**(to the knowledge of 1929 - today the date is assumed to be 83 A.D.)**_ in Scotland, also ends with a Romans victory at the Battle of Mons Graupius.
+
+Despite these battles, Roman soldier spent most of their time making roads.
+
+Also busy building was Hardrian, Roman emperor, who famously built Hadrian's Wall, spanning from Tyne to Solway Firth. (Mistakenly assumed to mark the border between Scotland and England, it is in fact the boundary of the Roman Empire in England alone.)
+
+After the Roman take-over, Druidism slowly disappears and was, for the first two centuries A.D., replaced by the worship of Roman deities. Christianity would not be officially recognized in Ancient Britain until 323 A.D.
+
+Christian ideology however, had already spread since 304 A.D. through the martyrdom of St. Albans.
+
+However, when the succession to the Roman throne became disputed in the 3rd century, the Picts from Scotland and the Saxons from the Elbe and Oder region attacked Hardrian's Wall and brought on a revival of paganism.
+
+By 410 A.D., Rome stopped sending any more soldier to Britain.

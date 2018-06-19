@@ -3,7 +3,7 @@ title: >-
   A History of Great Britain by Robert Balmain Mowat - CHAPTER I - Ancient
   Britain
 date: '2018-06-15T18:37:03+09:30'
-draft: 'true'
+draft: 'false'
 ---
 _I found** A History of Great Britain (B.C. 55 - A.D. 1603)** in a small book exchange, in a rather tattered state. My copy is from 1929 (the book was first printed in 1920) and is Part I in a series of, perhaps, three books (Mowat died in 1941, the books end in 1918). A retelling of a history book might seem a bit strange, but isn't it always exciting to see someone talk about the past who is now himself an artifact of history?_
 

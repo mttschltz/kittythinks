@@ -18,3 +18,37 @@ While the former thrived in cities due to their resistance to stress, the latter
 Ancient British villages were comprised of huts made of wood, with thatched roofs and surrounded by palisades or prickly hedges. These villages were situated by forests or on islands. Each tribe was governed by a chief.
 
 The people lived by hunting, keeping sheep and growing some (weak) wheat.
+
+Ancient Briton was initially a pre-Christian society headed by Druids. Those Druids committed stories to memory and passed them on, giving early Britons some knowledge into their own history. 
+
+Mowat points out that druidic Britons employed human sacrifice and tortured their victims, often prisoners of war, in places such as Stonehenge and Anglesey. He also mentions the usage of forest groves for homes of spirits and sacred mistletoe.
+
+All of this, Mowat explains, is known primarily through Julius Ceasar's _Commentaries_ and Tacitus _Agricola_.
+
+_**It should be noted that Ceasar was heavily influenced by Posidonius, a stoic philosopher and historian.**_
+
+It is Ceasar who influenced Ancient Britain next. 
+
+In 55 and 54 B.C., he invaded Britain. It was just after midnight on the 26 of August, 55 B.C. when Ceasar's ships started sailing. 9 am the next morning, the fleet passed by the shores of Dover and landed between Walmer and Deal. The Britons were driven back and Cesar stayed for three weeks, in which he was under continuous attack. 
+
+In the spring of the next year, he sails towards Britain once again. Instead of the 7000-8000 men he had brought on his first expedition, he is now coming with a much larger army, compromised of 15 to 20 thousand men.
+
+He advanced inland and at Kent, fought against Cassivellanus, chief of the Catuvellauni tribe. Ceasar was successful and crossed the river Thames but is quickly attacked again by Cassivellanus. He once more defeats the Celtic chief but wearies of fighting and withdraws back to Gaul.
+
+A proper attempt at conquest is made in 43 B.C.
+
+Ruler at the time was Cassivellanus' grandson Caractacus. Like his elder, Caractacus was defeated and Britain will go on to be under Roman rule for the next 350 years.
+
+During the Roman occupation, Britain saw the building of roads, bridges, towns, schools and the advent of Christianity.
+
+Today, Roman towns can still be identified by their names. Town names ending in -chester (from "castrum" = camp) are the easiest to ID.
+
+Scotland and Ireland and other smaller isles remained largely untouched.
+
+Britons continued to live in tribal communities, governed by Roman authority but overseen by their own chiefs.
+
+To achieve control over the Britons, the Roman empire sent three (initially four) legions to keep the peace. Legion XXth at Chester, legion XIVth at Wroxeter, legion IInd, named "Augusta" at Caerbon and, the later defunct legion IX at London.
+
+In 61 A.D. Boudicca (or Boadicea), chieftess of the Iceni tribe, relies her people to attack the Romans. While she ultimately fails, her attack results in the dismantling of the IX legion.
+
+A second campaign in 84 A.D. _**(to the knowledge of 1929 - today the date is assumed to be 83 A.D.) **_

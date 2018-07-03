@@ -3,7 +3,7 @@ title: >-
   A History of Great Britain by Robert Balmain Mowat - CHAPTER II - The
   Anglo-Saxon Conquest
 date: '2018-07-03T20:49:35+09:30'
-draft: 'true'
+draft: 'false'
 ---
 ## Chapter II - The Anglo-Saxon Conquest
 
@@ -21,9 +21,9 @@ When the Saxons from the Elbe region of modern-day Germany invaded Britain, they
 
 The Jutes settles in Kent and the Isles of Wight, the Saxons took Essex, Sussex, Hampshire and Dorset and the Angles found themselves in Norfolk, Suffolk, Lincoln, Yorkshire and Northumberland.
 
-Despite their joined efforts to take over Britain, the three tribes intermittently fought for the next 100 years until three kingdoms emerged.
+Despite their joined efforts to take over Britain, the three tribes intermittently fought each other for the next 100 years until three kingdoms emerged.
 
-Wessex - held by the Saxons and compromising most of England south of the Thames, Northumbria - occupied by the Angles and extending from Humber to the Forth and Mercia - also held by the Angles, wedged  between the two other kingdoms and thus aptly named the Middlelands. The Jutes continued to hold Kent and the Isles of Wight.
+Wessex - held by the Saxons and compromising most of England south of the Thames, Northumbria - occupied by the Angles and extending from Humber to the Forth, and Mercia - also held by the Angles, wedged  between the two other kingdoms and thus aptly named the Middlelands. The Jutes continued to hold Kent and the Isles of Wight.
 
 The native Britons meanwhile, were rather sick of invaders. Resistance was ultimately futile, but the Britons won one battle, known as the Halleluliah Victory in 429, before falling to the Anglo-Saxons completely by the six century.
 

@@ -3,7 +3,7 @@ title: >-
   A History of Great Britain by Robert Balmain Mowat - CHAPTER IV - The
   Consolidation of England
 date: '2018-08-21T11:30:12+09:30'
-draft: 'true'
+draft: 'false'
 ---
 # CHAPTER IV - The Consolidation of England
 

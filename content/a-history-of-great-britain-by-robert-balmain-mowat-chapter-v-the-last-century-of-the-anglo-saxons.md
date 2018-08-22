@@ -3,9 +3,9 @@ title: >-
   A History of Great Britain by Robert Balmain Mowat - CHAPTER V - The Last
   Century of the Anglo-Saxons
 date: '2018-08-22T12:30:32+09:30'
-draft: 'true'
+draft: 'false'
 ---
-# CHAPTER IV - The Consolidation of England
+# CHAPTER V - The Last Century of the Anglo-Saxons
 
 Since the year 978, Æthelred the Redeless/the Unready sites on the throne of England. In 991, he is earning his name ("Æthelred" means "noble council" and Redeless, the lack of good council) by instating the first parlamentaryy taxation in the form of 'Danegeld'. Danegeld was a tax to finance the defense against the every-invading Danes, but was in reality a type of protection money Æthelred paid the Danes to keep away.
 

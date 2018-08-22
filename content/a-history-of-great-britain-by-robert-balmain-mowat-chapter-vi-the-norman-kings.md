@@ -19,4 +19,4 @@ Despite all good preparation, it is Henry I.'s nephew Stephen who eventually asc
 
 He had sworn an oath to support Henry I. daughter, Empress Matilda for the throne but quickly goes back on his word and in his karma-filled reign, brings about war and famine for 17 of his 19 years as king.
 
-He is followed by Henry II, who ended the war.
+He is followed by Henry II, who ends the war.

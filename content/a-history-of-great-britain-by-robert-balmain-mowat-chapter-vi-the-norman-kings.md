@@ -13,7 +13,7 @@ In true Norman fashion, he is making sure that all property is under ownership o
 
 He is followed by his son William II, who is known for his lack of grace and love of vice and for his  suspicious death. He leaves no offspring.
 
-He is followed by by brother Henry I. - who marries a descendant of Edmund 'Ironside'. While Henry I. has a son, William Ætheling, the same tragically drowns in the White Ship disaster in 1120. This leads Henry I. to declare his daughter, Matilda, to his heir.
+He is followed by brother Henry I. - who marries a descendant of Edmund 'Ironside'. While Henry I. has a son, William Ætheling, the same tragically drowns in the White Ship disaster in 1120. This leads Henry I. to declare his daughter, Matilda, to his heir.
 
 Despite all good preparation, it is Henry I.'s nephew Stephen who eventually ascends the throne.
 

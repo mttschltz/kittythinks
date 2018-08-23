@@ -3,7 +3,7 @@ title: >-
   A History of Great Britain by Robert Balmain Mowat - CHAPTER VI - The Norman
   Kings
 date: '2018-08-23T11:30:16+09:30'
-draft: 'true'
+draft: 'false'
 ---
 # A History of Great Britain by Robert Balmain Mowat - CHAPTER VI - The Norman Kings
 

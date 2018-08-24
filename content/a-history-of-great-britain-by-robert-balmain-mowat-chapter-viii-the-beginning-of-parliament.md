@@ -31,10 +31,14 @@ Despite its good intentions, this fails too; again due to disagreements between 
 
 After Henry III. dies, his son Edward succeeds him.
 
-Edward refines English law further, eventually causing the disappearance of the feudal system; he has equalized men enough that all are considered "kingsmen" and by old standards, a man of the king cannot be subservient to another.
+Edward refines English law further, eventually causing the disappearance of the feudal system. He has equalized men enough that all are considered "kingsmen" and by old standards, a man of the king cannot be subservient to another.
 
 Even religious institutions feel the change. While hitherto property owned by the church could only be used for church activities (and thus often permanently fall out of the property succession), it is now only possible for a religious order to acquire permanent property with the explicit permission of the King.
 
 It is through Edward's efforts that the 'Peerage of England', the First Chamber of Parliament, becomes hereditary.
 
-In 1999, the law concerning hereditary peers's right to sit in the First Chamber has been lifted.  Still, there are some 90 hereditary peers remaining (who had to go through an election cycle) - they were not amused.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+In 1999, the law concerning hereditary peers's right to sit in the First Chamber has been lifted.  
+
+Still, there are some 90 hereditary peers remaining (who had to go through an election cycle) - they were not amused.

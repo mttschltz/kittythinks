@@ -5,7 +5,7 @@ title: >-
 date: '2018-08-23T11:30:16+09:30'
 draft: 'false'
 ---
-# A History of Great Britain by Robert Balmain Mowat - CHAPTER VI - The Norman Kings
+# CHAPTER VI - The Norman Kings
 
 _This is a very short chapter. The two most important figures, **William the Conqueror** and **Henry II.**, have their time in the spotlight primarily in **Chapter V.** and **Chapter VII.** respectively._
 

@@ -3,7 +3,7 @@ title: >-
   A History of Great Britain by Robert Balmain Mowat - CHAPTER VII - England
   under the Angevins
 date: '2018-08-24T12:00:56+09:30'
-draft: 'true'
+draft: 'false'
 ---
 # CHAPTER VII - England under the Angevins
 
@@ -36,3 +36,29 @@ On the journey home, Richard is taken on authority of Henry VI. and held in Aust
 It takes three years to gather his vast ransom sum of £100.000.
 
 Richard dies via crossbow, after he refuses to share his gold with the Viscount of Limoges.
+
+Richard I. is succeeded, in 1199, by his brother John.
+
+Infamously, John has lost Normandy and Poitou in 1204, weakening the already fragile Angevin dynasty.
+
+He is also unpopular (largely considered cruel) and unskilled in church dealings. John has rejected the Archbishop of Canterbury, Stephen Langton, despite the latter being appointed by Pope Innocent III. Consequently, John is excommunicated in 1209.
+
+While he is not too worried initially, the pressure on him is mounting to reconcile with the papacy. The main concern is the relationship Phillip of France has with the pope - could he invade England on behalf of Rome?
+
+In 1213, John has to submit to the terms on Innocent III. and England becomes a fief of the papacy.
+
+Two years later, John famously grants the 'Magna Carta Libertatum', the basis for English law through baronial protection. The Magna Carta makes the English freer; even villeins now have the right to retain their livelihood (horses and carts, tools etc.) if they are expelled from service. 
+
+It also grants the right to arms against the king, should he break his oaths, to the barons.
+
+This will become a crucial point.
+
+In the summer of 1215, the barons declare war on their king. John had refused to honour the right of English landowners and most of those are barons.
+
+The English barons ally themselves with a potential successor to the French throne, Louis.
+
+They attacked unopposed and gained land quickly. John retreated to reorganise his answer to these rebels. Much back and force attacking commenced, this castle and that was taken and released but meanwhile, John has contracted dysentery.
+
+After struggling on with his campaign, he eventually makes it to Newark Castle and can go no further.
+
+He dies in October 1219.

@@ -1,21 +1,21 @@
 ---
 title: >-
-  A History of Great Britain by Robert Balmain Mowat - CHAPTER VIII - Guinne,
+  A History of Great Britain by Robert Balmain Mowat - CHAPTER VIII - Guienne,
   Wales, Scotland
 date: '2018-08-27T09:12:24+09:30'
 draft: 'false'
 ---
-# CHAPTER VIII - Guinne, Wales, Scotland
+# CHAPTER VIII - Guienne, Wales, Scotland
 
-Besides Ireland, the french town of Guinne, Wales and Scotland were without proper English rule.
+Besides Ireland, the french town of Guienne, Wales and Scotland were without proper English rule.
 
-**Guinne** was disputed territory with France and war seems inevitable.
+**Guienne** was disputed territory with France and war seems inevitable.
 
 Soon, Henry III. tries to take Poitou and fails miserably. He decides to sign the 'Treaty of Paris'* in 1259, with the french king Louis IX. 
 
 _\*Not to be confused with the 32 other events named 'Treaty of Paris'._
 
-The 1259 treaty leaves France with all important parts of the country and Guinne as a fief to the French Crown. Henry is now effectively a vassal to Louis IX.
+The 1259 treaty leaves France with all important parts of the country and Guienne as a fief to the French Crown. Henry is now effectively a vassal to Louis IX.
 
 This odd arrangement and the lack of exact borders, means continuous war between the two powers.
 

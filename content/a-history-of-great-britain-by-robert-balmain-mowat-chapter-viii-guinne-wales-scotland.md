@@ -1,11 +1,11 @@
 ---
 title: >-
-  A History of Great Britain by Robert Balmain Mowat - CHAPTER VIII - Guienne,
+  A History of Great Britain by Robert Balmain Mowat - CHAPTER IX - Guienne,
   Wales, Scotland
 date: '2018-08-27T09:12:24+09:30'
 draft: 'false'
 ---
-# CHAPTER VIII - Guienne, Wales, Scotland
+# CHAPTER IX - Guienne, Wales, Scotland
 
 Besides Ireland, the french town of Guienne, Wales and Scotland were without proper English rule.
 

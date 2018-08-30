@@ -30,4 +30,6 @@ While social structures are changing, religion too is becoming more free.
 
 This is largely due to John Wycliffe, a catholic priest, who interestingly, is critical of the catholic church, the pope and the English bishops. As far as Wycliffe is concerned, they are all too wordly and abuse their power due to the influence of too much capital.
 
-Another landscape artist is Chaucer. They has been a long period without much literary progress, until Chaucer composes the earliest, for us understandable poetry with the Canterbury Tales. [
+Another landscape artist is Chaucer. They has been a long period without much literary progress, until Chaucer composes the earliest, for us understandable poetry with the Canterbury Tales. 
+
+_**[If you are interested, check out the entirety of the **_[**Canterbury Tales,_ in summary, right here_**](https://www.kittythinks.com/the-canterbury-tales-by-chaucer-the-knight-the-miller-the-reeve/)_**]**_

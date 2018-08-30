@@ -33,3 +33,15 @@ This is largely due to John Wycliffe, a catholic priest, who interestingly, is c
 Another landscape artist is Chaucer. They has been a long period without much literary progress, until Chaucer composes the earliest, for us understandable poetry with the Canterbury Tales. 
 
 _**[If you are interested, check out the entirety of the **_[**Canterbury Tales,_ in summary, right here_**](https://www.kittythinks.com/the-canterbury-tales-by-chaucer-the-knight-the-miller-the-reeve/)_**]**_
+
+In 1388, aged 23, Richard II. decides to rule on his own behalf. He is rather successful initially. He manages to make peace with the French and calm the struggles with the Irish.
+
+Unfortunately, he also spends large amount of florins on his household and literature. While this furthers the arts, it soon leads to megalomania.
+
+By 1397, he is busy partitioning Parliament to grant him the import tax for wool, for his personal use.  Most of England's prosperity is derived from wool, so this is a significant amount.
+
+He also banishes his cousin, Henry of Lancaster and the Duke of Norfolk without trial.
+
+When Richard leaves for Ireland in 1399, Henry of Lancaster comes back from his exile to take back his estates, and with much help, topples the king.
+
+Richard II. is kept in confinement. He dies on 14. February 1400 of starvation.

@@ -3,11 +3,11 @@ title: >-
   A History of Great Britain by Robert Balmain Mowat - CHAPTER XI - Chaucer,
   Wycliffe, and the Reign of Richard II.
 date: '2018-08-30T13:19:35+09:30'
-draft: 'true'
+draft: 'false'
 ---
 # CHAPTER XI - Chaucer, Wycliffe, and the Reign of Richard II.
 
-England in the 14th century was still highly dependent on the peasantry and their labour.
+England in the 14th century is still highly dependent on the peasantry and their labour.
 
 Most peasants are still villeins, but they are becoming more free. Instead of labouring for their lord alone, many are now paying rent for a section of their lord's land, working for themselves too.\
 By settling in a borough for 1 year and 1 day, a villeins' son would become free. The freed son may become a merchant or mayor, even even acquire an education by joining a monastery.

@@ -21,3 +21,13 @@ Of course, the remaining labourers expected doubled wages, but Parliament quickl
 This leads to resentment - so much so that the law is largely ignored and employers themselves offer higher wages to those labourers, leading to an increased production of food and higher prices.
 
 In 1381, the poorly handled situation (plus the collecting of massive taxes) culminates in the Peasant Revolt. 1500 peasants would lose their lives.
+
+Edward III. is succeeded by his son, Richard II. in 1377. Richard is 10 years of age and decisions are made by his council.
+
+His early reign is bad - the quarrel with France continues, taxes are ever increasing, and the Statue of Labourers is hugely unpopular. While the Peasant Revolt ultimately fails, it tarnishes Richard's reputation and leads to an end of vielleinage.
+
+While social structures are changing, religion too is becoming more free.
+
+This is largely due to John Wycliffe, a catholic priest, who interestingly, is critical of the catholic church, the pope and the English bishops. As far as Wycliffe is concerned, they are all too wordly and abuse their power due to the influence of too much capital.
+
+Another landscape artist is Chaucer. They has been a long period without much literary progress, until Chaucer composes the earliest, for us understandable poetry with the Canterbury Tales. [

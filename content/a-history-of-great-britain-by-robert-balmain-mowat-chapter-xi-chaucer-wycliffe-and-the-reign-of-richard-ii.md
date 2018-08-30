@@ -32,7 +32,7 @@ This is largely due to John Wycliffe, a catholic priest, who interestingly, is c
 
 Another landscape artist is Chaucer. They has been a long period without much literary progress, until Chaucer composes the earliest, for us understandable poetry with the Canterbury Tales. 
 
-[_**If you are interested, check out the entirety of the **_[_**Canterbury Tales, in summary, right here**_](https://www.kittythinks.com/the-canterbury-tales-by-chaucer-the-knight-the-miller-the-reeve/)]
+_[**If you are interested, check out the entirety of the**_ [**Canterbury Tales, in summary, right here**](https://www.kittythinks.com/the-canterbury-tales-by-chaucer-the-knight-the-miller-the-reeve/)_]_
 
 In 1388, aged 23, Richard II. decides to rule on his own behalf. He is rather successful initially. He manages to make peace with the French and calm the struggles with the Irish.
 

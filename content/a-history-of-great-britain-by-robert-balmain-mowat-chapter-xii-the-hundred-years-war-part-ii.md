@@ -61,4 +61,4 @@ She is captured by Burgundian forces seeking to ransom her to Charles, but he re
 
 In September 1435, the Duke of Bedford dies. It is on the Duke of Suffolk to make a truce with France in 1444 - he will lose his head over this but Charles VII. marries his cousin, Margaret of Anjou to Henry VI. and by 1450, the last English stronghold in Normandy is captured.
 
-English kings would style themselves "King of France" until the 1800's, this purely ceremonial title is all that these conflicts have brought.
+English kings would style themselves "King of France" until the 1800's; this purely ceremonial title is all that these conflicts have yielded.

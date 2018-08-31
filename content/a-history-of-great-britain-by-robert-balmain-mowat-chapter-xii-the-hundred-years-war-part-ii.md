@@ -37,6 +37,28 @@ The French advance with their cavalry front-line, followed by their men-at-arms 
 
 The third French battle flees and the English have won victoriously.
 
-Due to the unlikely odds, and the rousing success, the Battle of Agincourt will become legendary.
+Due to the unlikely odds, the Battle of Agincourt will become legendary.
 
-France is crippled and in 1419, Henry V. finally takes Normandy.
+France is crippled and in 1419, Henry V. finally takes Normandy and is given assurance that he would be king of France in 1420.
+
+Despite his success, Henry will return to the battle field once more after his brother is killed.
+
+The bad food and constant exposure, lead to Henry contracting dysentery and a stomach ulcer, which will kill him in his mid-thirties, in 1422. He will never become king of the French.
+
+His one-year old son, Henry VI. ascends the throne and the country is governed by Henry V.'s uncle, the Duke of Bedford.
+
+The English-French struggle continues further, but there now is a lack of enthusiasm.
+
+Meanwhile in France, a 17 year old farmer's daughter, makes her way to the court of Charles VII. in Chinon. Her story is fascinating. She wants to help Charles back on the throne and out of the English shackles - because god has told her to.
+
+Charles is intrigued and sends her to relieve Orléans in 1429.
+
+Her presence seems to have emboldened her countrymen and the English retreat from Orléans the  next day. She continues her crusade with a success in Jargean and by July, Charles VII. has her attend his coronation.
+
+Ever more convinced of her mission, the ventures out once more, this time almost by herself.
+
+She is captured by Burgundian forces seeking to ransom her to Charles, but he refuses. She is given to the English, tried by a French court and burned alive on 29. May 1431 as a heretic.
+
+In September 1435, the Duke of Bedford dies. It is on the Duke of Suffolk to make a truce with France in 1444 - he will lose his head over this but Charles VII. marries his cousin, Margaret of Anjou to Henry VI. and by 1450, the last English stronghold in Normandy is captured.
+
+English kings would style themselves "King of France" until the 1800's, this purely ceremonial title is all that these conflicts have brought.

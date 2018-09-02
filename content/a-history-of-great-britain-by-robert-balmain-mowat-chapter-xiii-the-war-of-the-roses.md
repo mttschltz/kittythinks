@@ -56,4 +56,12 @@ Margaret's son is killed and she is taken prisoner but treated honourably; she i
 
 The rest of Edward's reign is peaceful and England prospers. In 1475, he manages a treaty with France.
 
-In April 1483, Edward IV. is succeeded by his 13 year old son, Edward V. Edward IV.'s brother Richard, the Duke of Gloucester
+In April 1483, Edward IV. is succeeded by his 13 year old son, Edward V. Edward IV.'s brother Richard, the Duke of Gloucester, becomes Protector of the Kingdom until Edward V. is old enough to rule.
+
+Howbeit, Edward V. and his brother will be dead in only two short months, having died in the Tower of London. Richard is suspected as their killer.
+
+Richard III. takes the throne - but while is a thoughtful and agreeable king, the people view him as an usurper.
+
+Over the sea in Brittany still lives a descendant of Edward. A Henry Tudor. In 1485 he sets sails for England and in the final battle of the War of the Roses, Richard III. is slain.
+
+Richard was a good person, Mowat explains, but succumbed to the temptation of power.

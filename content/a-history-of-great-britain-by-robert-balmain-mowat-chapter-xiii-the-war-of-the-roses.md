@@ -21,4 +21,19 @@ Voices grow louder each day about mismanagement. The country needs a new leader 
 
 _The War of the Roses Begins_
 
-ggggg
+It's now 1453 and the king has taken ill. He appears to have lost his memory and has fallen into a state of childishness. The same year, Margaret gives birth to a son, Edward.
+
+With a king of unsound mind and a successor born, the Duke of York is declared 'Protector of the Realm'. All is well for the  next 15 months.
+
+Christmas 1454 arrives and Henry VI. regains his wits. He immediately dismisses York and reinstates Somerset.
+
+York gathers his supporters and advances on London in May, 1455.
+
+The sides are now Lancastrian versus Yorkist - the war is fought with nobles and paid men-at-arms; this will not be a people's war. However, the people are greatly effected - whenever a battle is concluded, the winning side takes administrative control until the next battle.
+
+The Duke of York has a son too, also named Edward. After his father falls, he declares himself king.\
+The people are tired of the ever-changing government and welcome Edward as a their ruler. He is now known as Edward IV.; he is 19 years of age.
+
+Henry VI. is imprisoned in the Tower of London, while Margaret and her son flee to France.
+
+Edward IV. proves an independent king from the start

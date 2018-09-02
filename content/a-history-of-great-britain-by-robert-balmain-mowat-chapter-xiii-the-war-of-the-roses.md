@@ -36,4 +36,24 @@ The people are tired of the ever-changing government and welcome Edward as a the
 
 Henry VI. is imprisoned in the Tower of London, while Margaret and her son flee to France.
 
-Edward IV. proves an independent king from the start
+Edward IV. proves an independent king from the start. In defiance of his father's adviser, the Earl of Warwick, he marries a widow of a Lancastrian supporter.
+
+Warwick is not an enemy Edward should have made. He has a similar annual revenue to the crown but with less expenses and, due to his generosity, he is popular with the people.
+
+In 1470 therefore, Warwick joins a campaign against Edward.
+
+The campaign fails however and Warwick flees to France and joins Margaret against the Yorkist king. It is a curious alliance, for it was Warwick who helped topple Margaret's husband.
+
+Warwick and Margaret's campaign takes Edward by surprise, and he is forced to flee to Burgundy for refuge. Warwick meanwhile, takes London.
+
+For the next six months, Warwick administers government under Margaret, and Henry is put on the throne as for show.
+
+Edward waits for his opportunity to take back control, which will come in 1471. A dense fogs lies of the country and Edward's forces are winning the attack. Warwick dies fighting and despite what was, Edward regrets his death.
+
+_Post-War_
+
+Margaret's son is killed and she is taken prisoner but treated honourably; she is eventually allowed to return to France.
+
+The rest of Edward's reign is peaceful and England prospers. In 1475, he manages a treaty with France.
+
+In April 1483, Edward IV. is succeeded by his 13 year old son, Edward V. Edward IV.'s brother Richard, the Duke of Gloucester

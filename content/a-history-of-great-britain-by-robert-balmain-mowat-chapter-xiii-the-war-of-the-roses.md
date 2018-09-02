@@ -50,7 +50,7 @@ For the next six months, Warwick administers government under Margaret, and Henr
 
 Edward waits for his opportunity to take back control, which will come in 1471. A dense fogs lies of the country and Edward's forces are winning the attack. Warwick dies fighting and despite what was, Edward regrets his death.
 
-_Post-War_
+_Almost Post-War_
 
 Margaret's son is killed and she is taken prisoner but treated honourably; she is eventually allowed to return to France.
 

@@ -35,4 +35,16 @@ Luther goes on to criticise other doctrines of the Catholic church and eventuall
 
 Henry VIII. is not one of those sympathetic, and he writes in defense of the sacraments of the church and Rome swiftly grants him the title of 'defensor fidei' (defender of the faith), which all English monarchs have used ever since.
 
-By 1527, Henry is sick of his wife. He openly wonders about the legality of his marriage
+By 1527, Henry is sick of his wife. He openly wonders about the legality of his marriage - she is also his sister-in-law after all, and he wants an annulment on those grounds.
+
+Pope Clement refuses and the enraged Henry declares himself supreme head of the church of England. He has effectively created a new religion.
+
+By 1536, all monastries with property valued at less than £200 a year are being dissolved. The monks there living are either absolved of their vows (if they are under 24 years of age) or given a pension.
+
+Nuns however, are only given a gown by Henry and told to work or beg.
+
+The so recouped land is either sold or given to nobles to keep under the plough.
+
+This new protestant church differs from its catholic counterpart insofar, as it encourages individuals to read scripture by themselves. Mowat appears to be skeptical, for he says:
+
+> _"The right to private judgement belongs to Protestants; but they often forget that this carries with it the duty of thinking."_

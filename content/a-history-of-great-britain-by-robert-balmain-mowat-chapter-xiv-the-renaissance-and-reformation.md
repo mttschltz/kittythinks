@@ -48,3 +48,7 @@ The so recouped land is either sold or given to nobles to keep under the plough.
 This new protestant church differs from its catholic counterpart insofar, as it encourages individuals to read scripture by themselves. Mowat appears to be skeptical, for he says:
 
 > _"The right to private judgement belongs to Protestants; but they often forget that this carries with it the duty of thinking."_
+
+After this, Henry's remaining 15 years as king are a reign of terror. Everyone who opposes him is losing their head. Non-Anglican protestants, such as Lutherans and Calvinists, are being burned as heretics and Catholics are being beheaded for treason.
+
+Henry's various wives die one after the other. Kathrine a natural death in 1536; Anne Boleyn in the same year by beheading. Jane Seymour dies in childbirth (but delivers Prince Edward) and Kathrine Howard, a wife 30 years Henry's junior, is executed for 'immoral conduct'. His last wife, Kathrine Parr, is only spared due to Henry VIII.'s death in 1547 - famously believed to be the result of obesity.

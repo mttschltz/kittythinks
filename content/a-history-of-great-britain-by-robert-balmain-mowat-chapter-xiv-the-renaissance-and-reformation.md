@@ -29,4 +29,10 @@ Henry VIII. is 18 when his father dies. He inherits a kingdom full of idle men; 
 
 Due to his marriage to a Spanish princess, Henry VIII. is soon roped in to a war with France - this conflict has no advantages for England. It is Thomas Wosley, the Archbishop of York and one of Henry's ministers who negotiates a peace with France in 1514, and it can be safely said that the Hundred Year's War is now finally over.
 
-In 1517, a German priest, Martin Luther, starts attacking the practice of 'indulgences' by the church, i.e.
+In 1517, a German priest, Martin Luther, starts attacking the practice of 'indulgences' by the church, i.e. the granting of remission of certain days in purgatory. Indulgences are being openly sold to fund church property.
+
+Luther goes on to criticise other doctrines of the Catholic church and eventually gets expelled. This marks the beginning of the Reformation in Germany, and sympathisers in England are soon to be found.
+
+Henry VIII. is not one of those sympathetic, and he writes in defense of the sacraments of the church and Rome swiftly grants him the title of 'defensor fidei' (defender of the faith), which all English monarchs have used ever since.
+
+By 1527, Henry is sick of his wife. He openly wonders about the legality of his marriage

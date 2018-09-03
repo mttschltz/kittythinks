@@ -28,3 +28,19 @@ Phillip of Spain sets out to attack England with his Great Armada. While equal i
 The English command has set eight of its small ships alight at the port in which the Spanish had anchored to refit their fleet. Panicked, the Armada retreats to open water unfitted; the remaining English ships attack.
 
 In the end, the Spanish flee and a storm seals their fate. The result is the knighting of Drake, the command of the English over the channel and the eventual freedom of the Dutch.
+
+The reality looks different for the Irish. Their are rather removed from the going-on's in England and Elizabeth is staring to fear an Irish rebellion. He will be right and the Irish cause will be supported by the Spanish.
+
+Ireland only prospers again once Elizabeth is dead.
+
+The English for all their adventures, are not content either. For them, it is religion. Some don't like being governed by bishops and some want independent congregations. Elizabeth has no interest in such complaints, her new system shall prevail.
+
+Parliament has problems as well. Elizabeth I. has given monopolies on such valuable commodities as salt, leather and gold wire to her courtiers, and parliament tries to remove those patents.
+
+On their second attempt, they succeed and Elizabeth abolishes all monopolies to keep the peace.
+
+The same parliament also grants Poor Relief to maimed soldiers and those too old or too sick to work. 
+
+Queen Elizabeth I. dies in March 1603, childless and with her the Tudor dynasty. She is succeeded by James VI. of Scotland and James I. of Ireland and England (the same man, two successions), who will star the Stuart reign.
+
+**This concludes Robert Mowat's *A History of Great Britain*, if I ever track down Part II, (1603-1918), I'll update!**

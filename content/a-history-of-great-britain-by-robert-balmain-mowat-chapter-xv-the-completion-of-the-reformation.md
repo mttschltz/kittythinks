@@ -2,8 +2,8 @@
 title: >-
   A History of Great Britain by Robert Balmain Mowat - CHAPTER XV - The
   Completion of the Reformation
-date: '2018-09-03T18:55:00+09:30'
-draft: 'true'
+date: '2018-09-05T18:55:00+09:30'
+draft: 'false'
 ---
 # CHAPTER XV - The Completion of the Reformation
 

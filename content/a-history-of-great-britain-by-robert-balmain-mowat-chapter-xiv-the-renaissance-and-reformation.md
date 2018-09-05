@@ -2,7 +2,7 @@
 title: >-
   A History of Great Britain by Robert Balmain Mowat - CHAPTER XIV - The
   Renaissance and Reformation
-date: '2018-09-03T17:06:42+09:30'
+date: '2018-09-04T17:06:42+09:30'
 draft: 'false'
 ---
 # CHAPTER XIV - The Renaissance and Reformation

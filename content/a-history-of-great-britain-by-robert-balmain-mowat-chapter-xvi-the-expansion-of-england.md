@@ -41,6 +41,6 @@ On their second attempt, they succeed and Elizabeth abolishes all monopolies to 
 
 The same parliament also grants Poor Relief to maimed soldiers and those too old or too sick to work. 
 
-Queen Elizabeth I. dies in March 1603, childless and with her the Tudor dynasty. She is succeeded by James VI. of Scotland and James I. of Ireland and England (the same man, two successions), who will star the Stuart reign.
+Queen Elizabeth I. dies in March 1603, childless and with her the Tudor dynasty. She is succeeded by James VI. of Scotland and James I. of Ireland and England (the same man, two successions), who will start the Stuart reign.
 
 **This concludes Robert Mowat's *A History of Great Britain*, if I ever track down Part II, (1603-1918), I'll update!**

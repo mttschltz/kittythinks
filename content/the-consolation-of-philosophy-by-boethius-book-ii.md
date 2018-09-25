@@ -23,4 +23,30 @@ Why does Boethius lament that his fortunes have changed but not the lost fortune
 
 Philosophy goes on to explain that things couldn't be different anyway. If every prayer led to blessings, humans would simply take them for granted. 
 
-> "Greed opens new maws."
+> _"Greed opens new maws."_
+
+Boethius has listened but is unimpressed. It is all rhetoric after all, none of this changes his feelings have being betrayed.
+
+Lady Philosophy is understanding - he is not yet responsive to the cure.
+
+She goes on to remind him of his blessings. But aren't those blessings the very reason he is so completely lacking in fortunes now?
+
+No! It is his wrong beliefs!
+
+Philosophy reminds him that he has many blessings left. His father is safe, his wife, while devastated, is alive, his two songs are consuls! Boethius cannot deny this.
+
+Progress - Boethius has acknowledge that his misfortunes are not universal.
+
+Those most blessed, are also most sensitive to adversity, since they are not used to frustrations. If happiness is to be aspired to as the highest good, and the highest good can not be taken away, then good fortunes, in their changeability, cannot supply happiness.
+
+Philosophy continues with these more in-depth ideas.
+
+What is the value of riches, she asks. Where do they come from? Money cannot be possessed by many and necessarily makes others poorer. Things that are admired are not about the owner, but about the thing itself.
+
+Good clothes might make someone look good, but it is the material and craftsmanship that is admired, not the wearer. Having good servants reflect well on them, not the employer. 
+
+It follows that all those things have nothing to do with us and thus are not ours - and if nothing admirable is owned, how can anyone bemoan its loss?
+
+Lady Philosophy herself has something to lament: humans are god-like and yet require useless trinkets to be content.
+
+> _"If a good thing is of greater worth than the person it belongs to, then, when you put all this value on things, you reduce yourself in your own estimation and become, yourself, all but valueless."_

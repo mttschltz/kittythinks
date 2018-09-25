@@ -47,6 +47,14 @@ Good clothes might make someone look good, but it is the material and craftsmans
 
 It follows that all those things have nothing to do with us and thus are not ours - and if nothing admirable is owned, how can anyone bemoan its loss?
 
-Lady Philosophy herself has something to lament: humans are god-like and yet require useless trinkets to be content.
+Lady Philosophy herself has something to lament: humans are god-like and yet require useless trinkets to be content. It must be then that humans are only god-like if they know themselves.
 
 > _"If a good thing is of greater worth than the person it belongs to, then, when you put all this value on things, you reduce yourself in your own estimation and become, yourself, all but valueless."_
+
+Her mood seems darker now and she continues:
+
+Bodies can be corrupted and overtaken. A mosquito or a worm can destroy a human body. A mind however, can not be commanded.
+
+Power can be used against a person and if those in positions of power were good, they'd not so often be held by wicked people. She explains that in nature, opposites do not attract.
+
+Boethius is not liking this train of thought. He wasn't

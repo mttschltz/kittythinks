@@ -57,4 +57,16 @@ Bodies can be corrupted and overtaken. A mosquito or a worm can destroy a human 
 
 Power can be used against a person and if those in positions of power were good, they'd not so often be held by wicked people. She explains that in nature, opposites do not attract.
 
-Boethius is not liking this train of thought. He wasn't
+Boethius is not liking this train of thought. _He_ wasn't overly ambitious, he imply wanted to share his virtuous beliefs!
+
+Philosophy is undeterred; he was only seeking recognition and fame - does he not understand how small his fame is and could only ever be? How does it stack up against people from other countries? Even Rome itself is not known beyond the Caucasus, how can a single Roman do what Rome could not?
+
+He talks of virtues - what if his virtues are not shared by other cultures?
+
+To underline her point, Philosophy tells a story. 
+
+A man claims he is a philosopher. Another man calls him a fraud. If the claimant could live a life in which he endures the injuries from fate in calm and silence, then, the skeptic will relent.\
+After years of endurance, the claimant asks the skeptic: Do you admit now that I am a philosopher?\
+The skeptic responds: I would have, if you'd kept silent!
+
+If Fortune smiles, she is always false; if she is whimsical, she is instructive.

@@ -3,7 +3,8 @@ title: The Consolation of Philosophy by Boethius - Book III
 date: '2018-10-08T16:01:29+10:30'
 draft: 'true'
 ---
-The Consolation of Philosophy - Book III
+The Consolation of Philosophy - Book II
+I
 
 Boethius has stopped worrying about punishment and is eager for Lady Philosophy to educate him further.
 
@@ -20,3 +21,9 @@ Humans are hazy on how to achieve summum bonum, so they make the mistake of only
 Wealth promises self-sufficiency, but to protect wealth, one must depend on others for protection. Those rich are also still wanting. They may be able to buy warm clothes and food, but they are still getting cold and hungry. Thus, wealth cannot obliterate need, it can only make it easier to bear.
 
 Honour promises a lack of venality (being likely to accept bribes), however, high offices that carry honour highlight the defects of bad man that otherwise would have gone unnoticed and they also taint the office, making people hate the office and thus the holder. Thus, only respectable people can make high offices honourable.
+
+Power is insufficient. Every kingdom has borders and so a powerful person is always busy protecting their power. Their whole happiness depends on the reverence of their courtiers and the hope that their protectors will not betray them. Thus, power only results in fear and worry.
+
+Fame promises happiness through praise, but it is vulgar due to being dependent on the changeable judgement of the crowd. Fame is also of uncertain origin - it may not be earned at all. Even if it is, it is limited to those close, for stranger will not know it, so it has little value. Thus fame is randomly acquired, never lasts and its only real good, is the inclination of its holders to behave better to keep it.
+
+Pleasure promises happiness through bodily contentment, but it creates pain through longing and then regret through satisfaction. Satisfying bodily pleasure often leads to pain and disease (such as obesity, STDs and addiction), which must be seen as fruits of wickedness _(A rather Christian ideal - one of the few times Boethius clearly shows his Christianity)_

@@ -1,7 +1,7 @@
 ---
 title: The Consolation of Philosophy by Boethius - Book III
 date: '2018-10-08T16:01:29+10:30'
-draft: 'true'
+draft: 'false'
 ---
 The Consolation of Philosophy - Book II
 I

@@ -26,4 +26,32 @@ Power is insufficient. Every kingdom has borders and so a powerful person is alw
 
 Fame promises happiness through praise, but it is vulgar due to being dependent on the changeable judgement of the crowd. Fame is also of uncertain origin - it may not be earned at all. Even if it is, it is limited to those close, for stranger will not know it, so it has little value. Thus fame is randomly acquired, never lasts and its only real good, is the inclination of its holders to behave better to keep it.
 
-Pleasure promises happiness through bodily contentment, but it creates pain through longing and then regret through satisfaction. Satisfying bodily pleasure often leads to pain and disease (such as obesity, STDs and addiction), which must be seen as fruits of wickedness _(A rather Christian ideal - one of the few times Boethius clearly shows his Christianity)_
+Pleasure promises happiness through bodily contentment, but it creates pain through longing and then regret through satisfaction. Satisfying bodily pleasure often leads to pain and disease (such as obesity, STDs and addiction), which must thus be seen as fruits of wickedness _(A rather Christian ideal - one of the few times Boethius clearly shows his Christianity)_
+
+Philosophy therefore concludes that all these paths lead to the wrong direction and cannot make one happy. Human's mistake is to attempt to get the whole of happiness by only pursuing one part of it.
+
+Boethius understands. But who to turn to, to achieve happiness? The answer is god.
+
+Philosophy explains that god is the perfect, highest good. The very substance of god is goodness.
+
+The supreme god is happiness. Thus, god is in its very substance goodness and thus happiness.
+
+Therefore, to pursue happiness, one must necessarily pursue divinity.
+
+We have concluded, says Philosophy, that wealth, honour, power, fame and pleasure are aspects of happiness. They are thus identical. If a thing is identical, it is one. All aspects of happiness are good. God is goodness and happiness itself and thus, god is one.
+
+It is therefore that the one and the good is the same, everything therefore, if it wants to exist and preserver, need to be in unity and is destroyed as soon as it falls apart.
+
+All things seek the good, the good is one and one is god. The one, the good and thus god, is the goal of all things.
+
+Boethius is following but wonders about the governance of god. The universe, Boethius ponders, is composed of many things and there appears to be a need of a central order to unite them or the orderly natural processes wouldn't occur.
+
+To govern the universe requires self-sufficiency. Clearly, says Philosophy, god has just that.
+
+God orders all things and because humans thrives towards happiness and happiness is goodness and goodness is god itself; god orders all things for the good.
+
+It follows that humans should voluntarily submit to god, for he is goodness and goodness is happiness, which all seek.
+
+The third book ends with a curious thought: If god is goodness itself, than it cannot do evil. If god cannot do evil, evil must be nothing, because there is nothing that god cannot do.
+
+Boethius is skeptical indeed.

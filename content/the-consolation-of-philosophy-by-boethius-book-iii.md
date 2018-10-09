@@ -3,7 +3,7 @@ title: The Consolation of Philosophy by Boethius - Book III
 date: '2018-10-08T16:01:29+10:30'
 draft: 'false'
 ---
-The Consolation of Philosophy - Book III
+## The Consolation of Philosophy - Book III
 
 Boethius has stopped worrying about punishment and is eager for Lady Philosophy to educate him further.
 

@@ -1,7 +1,7 @@
 ---
 title: The Consolation of Philosophy by Boethius - Book IV
 date: '2018-10-09T14:28:20+10:30'
-draft: 'true'
+draft: 'false'
 ---
 ## The Consolation of Philosophy - Book IV
 

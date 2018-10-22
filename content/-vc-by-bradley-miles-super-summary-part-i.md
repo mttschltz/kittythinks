@@ -21,4 +21,4 @@ The average VC stage amounts to $400 million. The average VC deal size is $18 mi
 
 _I'm already a functioning company, what comes next?_
 
-Growth Equity
+Growth Equity is possibly what is necessary

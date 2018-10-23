@@ -84,3 +84,9 @@ $250,000 received in January, with $75,000 left after 8 months.
 What is DRR?
 
 Dollar Revenue Retention. DRR is the amount of revenue retained from customers, in a given period. This is a more precise way of measuring success from revenue than the Churn Rate and largely used by industries with tiered pricing.
+
+How to Calculate DRR?
+
+Take new revenue from current period and divide it by the old revenue from the former period.
+
+An increase in the DRR can happen even if the Churn Rate increases, because it might indicate an advanced focus of the company.

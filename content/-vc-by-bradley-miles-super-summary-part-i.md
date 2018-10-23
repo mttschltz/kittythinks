@@ -19,6 +19,22 @@ A new company raises money and spends it for 3-5 years to invest in their busine
 
 The average VC stage amounts to $400 million. The average VC deal size is $18 million.
 
+What are the stages of a company, capital-wise?
+
+A company typically starts either with an Incubator (a private investor, or straight away with an Angel Investment. The difference between those two early investments lie in the expectations of the investors. While an Incubator essentially invests on good faith alone, an Angel Investor expects at least a theoretically viable idea.
+
+After this stage, Venture Capital is needed. After this point, the company can be expected to be viable.
+
+This state sees a company as ready for acquisition or ready for IPO.
+
+Both the Venture Capital and the Growth Equity stage exist to leave equity for the company for future growth rounds. Consequently, less than 50% of the company stakes are taken. This is defined as minority stakes.
+
+Beyond this, Private Equity firms may sweep in and take 100% of the stakes in the company. The company is then scaled up for 4-7 years and consequently sold for a few million to billions to a strategic buyer. To qualify for Private Equity, a company needs great free cash flow, because Private Equity firms use about 
+
+_Isn't it very risky for a Venture Capital firm to invest?_
+
+It is. Due to the high risk, Venture Capitalist seek higher return to the later, more secure Growth Equity stage. A Venture Capital firm expects only 1-2 companies in their portfolio to succeed (succeeding meaning a 8-19 time return on their investment) and have a few solid companies in the mix (one time return in their investment).
+
 _I'm already a functioning company, what comes next?_
 
-Growth Equity is possibly what is necessary
+Growth Equity is possibly what is necessary. To qualify for growth equity and its result - which is to say acquisition or going public, a company should have at least a revenue of $5 million, 20% revenue growth in the last few years and a proven business model. If qualified, the amounts one can expect range from $10 million to more than $500 million.

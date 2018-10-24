@@ -7,7 +7,7 @@ This is a bit of a different topic and summary style. **\#BreakIntoVC **by** Bra
 
 ## "VC" - _SUPER SUMMARY_ Part I
 
-**Note that I am being excessively detailed in PART I, because it is the section that needs the most in-depth explanations. This is not a short summary but a play-by-play - which I felt necessary for it to be useful. Cheers!**
+**Note that I am being excessively detailed in PART I, because it is the section that contained the most facts. This is not a short summary but a play-by-play - which I felt necessary for it to be useful. Cheers!**
 
 _What is a venture capitalist? _
 

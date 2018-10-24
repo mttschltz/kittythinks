@@ -3,9 +3,11 @@ title: '"VC" by Bradley Miles - SUPER SUMMARY Part I'
 date: '2018-10-17T15:20:51+10:30'
 draft: 'true'
 ---
-This is a bit of a different topic and summary style. #BreakIntoVC by Bradley Miles is a book about how to think specifically like a venture capitalist and generally like an investor. It targets newcomers who plan to interview for VC jobs. I summarize this book in a three part style, with questions and answers. 
+This is a bit of a different topic and summary style. **\#BreakIntoVC **by** Bradley Miles **is a book about how to think specifically like a venture capitalist and generally like an investor. It targets newcomers who plan to interview for VC jobs. I summarize this book in a three part style, with questions and answers. 
 
 ## "VC" - _SUPER SUMMARY_ Part I
+
+**Note that I am being excessively detailed in PART I, because it is the section that needs the most in-depth explanations. This is not a short summary but a play-by-play - which I felt necessary for it to be useful. Cheers!**
 
 _What is a venture capitalist? _
 
@@ -90,3 +92,52 @@ How to Calculate DRR?
 Take new revenue from current period and divide it by the old revenue from the former period.
 
 An increase in the DRR can happen even if the Churn Rate increases, because it might indicate an advanced focus of the company.
+
+What is CLV?
+
+Customer Lifetime Value. CLV defines the projected revenue that a customer will bring during their lifetime as customer.
+
+How to Calculate CLV?
+
+Take the average customer revenue per visit (e) and the average number of visits per week (n) and the multiply. 
+
+e x n = average customer value per week
+
+Now take the average profit margin per customer (p).
+
+There are 52 weeks in a year.
+
+52 x e x n x average customer lifespan x p = CLV
+
+Example:
+
+Assume (e) = $4\
+Assume (n) = $3\
+e x n = $12
+
+Assume the average customer lifespan is 25 years.\
+Assume the average profit margin is 20%. (This can be calculated in-house or by using comparable profit margins from similar companies.)
+
+52 x 4 x 3 x 25 x 0.20 = $3,120 CLV
+
+If the example company uses more than $3,120 per new customer in marketing and acquisition, the company is losing money.
+
+What is CAC?
+
+Customer Acquisition Cost. CAC is the cost of acquiring new customers through PR, advertising, sales people salaries, commissions etc.
+
+How to Calculate CAC?
+
+Take the sales and marketing costs and divide by the number of new customers acquired in a given period.
+
+The lower the CAC, the better.
+
+How to use CLV and CAC together:
+
+Customer Lifetime Value to Customer Acquisition Cost is a ratio that reveals value. The higher the CLV/CAC ratio, the better off the company.
+
+Venture Capitalists like seeing a ratio of 3:1.
+
+What is a CAC Payback Period?
+
+The time it takes to recover the cost of acquiring a customer. ideally, a startup should have recouped the cost of customer acquisition in 12 months or less.

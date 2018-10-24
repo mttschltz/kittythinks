@@ -3,17 +3,17 @@ title: '"VC" by Bradley Miles - SUPER SUMMARY Part I'
 date: '2018-10-17T15:20:51+10:30'
 draft: 'false'
 ---
-This is a bit of a different topic and summary style. **\#BreakIntoVC **by** Bradley Miles **is a book about how to think specifically like a venture capitalist and generally like an investor. It targets newcomers who plan to interview for VC jobs. I summarize this book in a three part style, with questions and answers. 
+This is a bit of a different topic and summary style. **#BreakIntoVC** by **Bradley Miles** is a book about how to think specifically like a venture capitalist and generally like an investor. It targets newcomers who plan to interview for VC jobs. I summarize this book in a three part style, with questions and answers. 
 
 ## "VC" - _SUPER SUMMARY_ Part I
 
 **Note that I am being excessively detailed in PART I, because it is the section that contained the most facts. This is not a short summary but a play-by-play - which I felt necessary for it to be useful. Cheers!**
 
-_What is a venture capitalist? _
+*What is a venture capitalist?*
 
 The answer is an investor who receives money from different sources, who did not directly own a percentage of a portfolio company.
 
-_How does venture capital investing work?_
+*How does venture capital investing work?*
 
 There are different stages of capital raising in the lifespan of a company.
 
@@ -21,7 +21,7 @@ A new company raises money and spends it for 3-5 years to invest in their busine
 
 The average VC stage amounts to $400 million. The average VC deal size is $18 million.
 
-_What are the stages of a company, capital-wise?_
+*What are the stages of a company, capital-wise?*
 
 **Incubator -> Angel Investor -> Venture Capital -> Growth Equity -> Private Equity**
 
@@ -35,31 +35,31 @@ Both the Venture Capital and the Growth Equity stage exist to leave equity for t
 
 Beyond this, **Private Equity** firms may sweep in and take 100% of the stakes in the company. The company is then scaled up for 4-7 years and consequently sold for a few million to billions to a strategic buyer. To qualify for Private Equity, a company needs great free cash flow, because Private Equity firms use about 30-40% cash and the rest  of the acquisition comes from loans. This debt financing is called a leveraged buyout.
 
-_Isn't it very risky for a Venture Capital firm to invest?_
+*Isn't it very risky for a Venture Capital firm to invest?*
 
 It is. Due to the high risk, Venture Capitalist seek higher return to the later, more secure Growth Equity stage. A Venture Capital firm expects only 1-2 companies in their portfolio to succeed (succeeding meaning a 8-19 time return on their investment) and have a few solid companies in the mix (one time return in their investment).
 
-_I'm already a functioning company, what comes next?_
+*I'm already a functioning company, what comes next?*
 
 Growth Equity is possibly what is necessary. To qualify for growth equity and its result - which is to say acquisition or going public, a company should have at least a revenue of $5 million, 20% revenue growth in the last few years and a proven business model. If qualified, the amounts one can expect range from $10 million to more than $500 million.
 
 **TERMINOLOGY and CALCULATIONS for INVESTORS**
 
-_What is MRR?_
+*What is MRR?*
 
 Monthly Recurring Revenue. MRR is all revenue in a given month that a company is contractually obligated to recur the next month.
 
-What is ARR?
+*What is ARR?*
 
 Annualized Run Rate. This is the most accurate depiction of a company's yearly revenue.
 
 MRR x 12 = ARR
 
-What is a Churn Rate?
+*What is a Churn Rate?*
 
 A Churn Rate is the number of customers lost. The term "churn" means the percentage of loss of a given category. It is also used for the rate of loss for e.g. employees, board members and cash amounts.
 
-How to Calculate the Customer Churn Rate?
+*How to Calculate the Customer Churn Rate?*
 
 Take the customers lost from last year to this year and divide by the number of customers that existed at the beginning of the year.
 
@@ -69,11 +69,11 @@ Example:
 
 An Acceptable Churn Rate per month is 0.58% or 7% annually.
 
-What is a Burn Rate?
+*What is a Burn Rate?*
 
 A Burn Rate is the amount of venture capital used in a given period by a startup. The Burn Rate is used to anticipate when a company needs to raise money again and how a company manages its money.
 
-How to Calculate the Burn Rate?
+*How to Calculate the Burn Rate?*
 
 Take the total venture cash from the start of the period and the amount at the end of the period and divide the difference by the number of actionable months.
 
@@ -83,21 +83,21 @@ $250,000 received in January, with $75,000 left after 8 months.
 
 ($250,000-$75,000)/8 months = $21,875
 
-What is DRR?
+*What is DRR?*
 
 Dollar Revenue Retention. DRR is the amount of revenue retained from customers, in a given period. This is a more precise way of measuring success from revenue than the Churn Rate and largely used by industries with tiered pricing.
 
-How to Calculate DRR?
+*How to Calculate DRR?*
 
 Take new revenue from current period and divide it by the old revenue from the former period.
 
 An increase in the DRR can happen even if the Churn Rate increases, because it might indicate an advanced focus of the company.
 
-What is CLV?
+*What is CLV?*
 
 Customer Lifetime Value. CLV defines the projected revenue that a customer will bring during their lifetime as customer.
 
-How to Calculate CLV?
+*How to Calculate CLV?*
 
 Take the average customer revenue per visit (e) and the average number of visits per week (n) and the multiply. 
 
@@ -122,22 +122,22 @@ Assume the average profit margin is 20%. (This can be calculated in-house or by 
 
 If the example company uses more than $3,120 per new customer in marketing and acquisition, the company is losing money.
 
-What is CAC?
+*What is CAC?*
 
 Customer Acquisition Cost. CAC is the cost of acquiring new customers through PR, advertising, sales people salaries, commissions etc.
 
-How to Calculate CAC?
+*How to Calculate CAC?*
 
 Take the sales and marketing costs and divide by the number of new customers acquired in a given period.
 
 The lower the CAC, the better.
 
-How to use CLV and CAC together:
+*How to use CLV and CAC together:*
 
 Customer Lifetime Value to Customer Acquisition Cost is a ratio that reveals value. The higher the CLV/CAC ratio, the better off the company.
 
 Venture Capitalists like seeing a ratio of 3:1.
 
-What is a CAC Payback Period?
+*What is a CAC Payback Period?*
 
 The time it takes to recover the cost of acquiring a customer. ideally, a startup should have recouped the cost of customer acquisition in 12 months or less.

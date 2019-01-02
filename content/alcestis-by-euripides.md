@@ -17,7 +17,6 @@ draft: 'false'
 
 * Alcestis
 * Admetus
-* Eumelus
 * Pheres
 * Male Servant
 

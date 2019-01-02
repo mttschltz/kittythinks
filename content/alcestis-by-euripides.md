@@ -39,7 +39,7 @@ The Chorus of Pheraean citizens wonders if Alcestis is really fated to die. Woul
 
 All she wants before she passes, is to see the golden sunlight one last time. Admetus obligingly leads his dying wife outside. Alcestis now dying asks of her husband but one thing: he shall never remarry, for the sake of their children. Admetus agrees gravely - he is distraught.
 
-> One who is dead is nothing. Time will soften pain.
+> "One who is dead is nothing. Time will soften pain."
 
 Once Alcestis has died, Admetus orders her funeral rites. Shorn heads and cut manes, sombre dress and 12 months with no music. The kingdom in mourning.
 

@@ -48,3 +48,16 @@ Admetus is friends to Heracles too, and bids him hello. When Heracles first sees
 Admetus now commences the funeral - but there, is father Pheres arrives. Pheres is not welcome - he who refused to die for his son, even though he is aged! Pheres too is outraged: why would he need to die for his son? Is his life less valuable because it is longer? Threats are exchanged and eventually, Pheres is kicked out and leaves.
 
 A servant assigned to Heracles laments the same's manners. Heracles, not knowing the state of the household, has feasted and made merry. The servant realizes Heracles ignorance of what had occurred and fills him in on Alcestis' death.
+
+Heracles is stunned! Admetus received him against custom - what a friend indeed! He swears to repay Admetus with the one thing he desires most.
+
+When Admetus arrives back from the funeral, he is in the throws of grief and anguish. Never should he have exchange his wife' life for his, how can he go on without her?\
+Heracles has come too and with him is a veiled woman.
+
+Heracles urges Admetus to talk about taking another wife - won't he find a new one? Admetus however, is steadfast. Alcestis will be the only one to share his bed. Heracles drops the subject and asks Admetus to watch the mysterious woman for him - he has to go on his quest and if he does not return, she shall stay in Admetus' household.
+
+Admetus is most reluctant. The stranger has the height and body of his deceased wife and his grief is too fresh. After much pushing by Heracles, he agrees. He turns his head away and extends his hand to the woman and upon touching... it is Alcestis! But how?
+
+Heracles explains that he had gone to battle with death - he won and took Alcestis back. It will be three days and she will talk again, purified.
+
+Heracles leaves for his quest, Admetus rejoiced and the Pheraeans light all the fires to the gods.

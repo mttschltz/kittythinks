@@ -1,7 +1,7 @@
 ---
 title: ALCESTIS by Euripides
 date: '2019-01-03T08:17:12+10:30'
-draft: 'true'
+draft: 'false'
 ---
 # Alcestis
 

@@ -9,22 +9,17 @@ draft: 'true'
 
 **Gods**
 
-\-Aphrodite
-
-\-Artemis
+* Aphrodite
+* Artemis
 
 **Royals**
 
-\-Hippolytus
-
-\-Theseus
-
-\-Phaedra
+* Hippolytus
+* Theseus
+* Phaedra
 
 **Feedback**
 
-\-Chorus of women of Trozen
-
-\-Nurse attending Phaedra
-
-\-Messenger
+* Chorus of women of Trozen
+* Nurse attending Phaedra
+* Messenger

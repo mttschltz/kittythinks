@@ -23,3 +23,9 @@ draft: 'true'
 * Chorus of women of Trozen
 * Nurse attending Phaedra
 * Messenger
+
+## Pre-Story
+
+The story plays out in front of the royal palace of Trozen. Theseus spends a year in voluntary exile to atone for bloodshed. Artemis and Aphrodite are present as statues.
+
+## Story

@@ -1,7 +1,7 @@
 ---
 title: IPHIGENIA OF TAURIS by Euripides
 date: '2019-01-24T11:11:15+10:30'
-draft: 'true'
+draft: 'false'
 ---
 ## Iphigenia of Tauris
 

@@ -42,5 +42,13 @@ Iphigenia accepts and Orestes grieves that his late sister will not give him the
 When Iphigenia returns, she promises Pylades safe passage but wants him to swear that he will deliver the letter. In case his ship sinks but he survives, she decides to recite the message in the letter to him, so he may be able to deliver it orally. In her recitation, she names herself and Orestes and shocks the two of them. Pylades was right!
 
 > _"Orestes, look! From your own sister I deliver you this letter."_
->
->
+
+Iphigenia does not believe, she wants her supposed brother to prove his identity with knowledge of their family. He proves it and they are overjoyed!
+
+Now however, they all must flee. They devise a plan: Iphigenia will say that Orestes is impure. He has committed matricide, Pylades has helped and then touched the sacred statue of Artemis. All need to be cleansed in the ocean.
+
+Promptly, Iphigenia meets king Thoas in the temple to tell her high tale.
+
+She is very convincing, even managing to keep them undisturbed in their business. The Greek women who heard the plan swear themselves to secrecy.
+
+Once they are gone, a messenger arrives and reports the fraud. Swiftly, Thoas wants to send his guards to recapture the escapees. Just in that time, Athena, the goddess of justice and wisdom, appears to Thoas and Orestes too and tells the former to leave the three be, for their escape is just and to release the Greek women to their home. To Orestes she commands that he may erect a temple to Artemis in Halae (where he is headed) and that Iphigenia shall be the priestess there. All agree and it is done.

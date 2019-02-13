@@ -85,7 +85,7 @@ Chess is not an indication of a high IQ.
 
 _Higher IQ helps_ picking things up _in the beginning_, but _once practice comes in_, it becomes the _only thing that counts_.
 
-Progression of ability -> _Never tried = **NON-PARTICIPANT** / ->Started but stopped or got discouraged = **AVERAGE** / -> Very good through deliberate practice = **GREATNESS** / -> Pushing the edge of one’s field = **EXPERT**_
+Progression of ability -> _Never tried = **NON-PARTICIPANT**  ->Started but stopped or got discouraged = **AVERAGE**  -> Very good through deliberate practice = **GREATNESS**  -> Pushing the edge of one’s field = **EXPERT**_
 
 **Useful Quotes:**
 

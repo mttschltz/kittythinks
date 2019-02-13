@@ -23,21 +23,19 @@ _Opt-In versus Opt-Out_ – explicit consent asks people to opt-in, presumed con
 
 Perfect Pitch is learned, not innate! Being tone-deaf is very rare.
 
-
-
-_Natural Ceiling_ – can be broken by deliberate, back-tracking practice
+_Natural Ceiling_ – can be broken by deliberate, back-tracking practice.
 
 _Repetition_ after reaching acceptable levels in something, _does NOT lead to improvement._
 
 Purposeful practice has_ well-defined, specific goals_. It needs to be focused, with full attention. It involves feedback. It requires getting out of ones comfort zone. There mustn’t be any stagnation.
 
-If stagnation occurs, don’t practice HARDER, practice DIFFERENTLY! (change technique)
+If stagnation occurs, don’t practice HARDER, practice DIFFERENTLY! 
 
-Some familiar with the problem can help a technique change. E.g. a coach.
+Someone familiar with the problem can help with a technique change. E.g. a coach.
 
 _Meaningful positive feedback_ is a **crucial** factor to maintaining motivation. Such feedback can be internal, or externally provided by others.
 
-Brain structure and brain function are NOT fixed
+Brain structure and brain function are NOT fixed.
 
 There is _no such thing as developing general skills_. One doesn’t train one’s memory, one trains one’s memory to recall.
 
@@ -45,7 +43,7 @@ Deliberate practice is the development of better mental representation. (_Mental
 
 _Better mental representation_ allows one to _spot one’s own mistakes_.
 
-Deliberate practice requires: 
+## Deliberate practice requires: 
 
 (1) An already **reasonably established field** (e.g. ballet, chess)
 
@@ -57,7 +55,7 @@ Deliberate practice requires:
 
 (5) One must develop effective **mental representation**
 
-Principles of deliberate practice can be applied to other fields:
+## Principles of deliberate practice can be applied to other fields:
 
 (a) Identify the **top performers** of the field
 
@@ -67,9 +65,9 @@ Principles of deliberate practice can be applied to other fields:
 
 Deliberate practice in business is wrought with myths such as a “I can’t” mindset, the idea that repetition is good and if one just tries hard enough, one will get better.
 
-The truth is that improvement is possible, that trying new things avoids stagnation and if one isn’t improving, one is practicing the wrong way.
+Improvement is possible, trying new things avoids stagnation and if one isn’t improving, one is practicing the wrong way.
 
-_Knowledge versus Skill _– deliberate practice emphasizes DOING over simple information gathering
+_Knowledge versus Skill _– deliberate practice emphasizes DOING over simple information gathering.
 
 _Interactive_ component _always work better than didactic_ ones , e.g. lecture versus discussion.
 
@@ -98,7 +96,7 @@ _“'Good enough' is generally good enough. However, if you wish to become signi
 _“If it doesn’t work, stop.”_
 
 _“Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.”_\
-Example: Amateur runners tend to daydream or focus on more pleasant tasks, while elite runners stay focused on their body and imagine the best form for each step (and thus recognize mistakes).
+(Example: Amateur runners tend to daydream or focus on more pleasant tasks, while elite runners stay focused on their body and imagine the best form for each step (and thus recognize mistakes)).
 
 Thus, _“it is better to train at 100% effort for less time, than at 70% effort for a longer period.”_
 

@@ -33,39 +33,39 @@ If stagnation occurs, don’t practice HARDER, practice DIFFERENTLY! (change tec
 
 Some familiar with the problem can help a technique change. E.g. a coach.
 
-Meaningful positive feedback is a crucial factor to maintaining motivation. Such feedback can be internal, or externally provided by others.
+_Meaningful positive feedback_ is a **crucial** factor to maintaining motivation. Such feedback can be internal, or externally provided by others.
 
 Brain structure and brain function are NOT fixed
 
-““Good enough” is generally good enough. However, if you wish to become significantly better at something, you can.”
+_“'Good enough' is generally good enough. However, if you wish to become significantly better at something, you can.”_
 
-There is no such thing as developing general skills. One doesn’t train one’s memory, one trains one’s memory to recall.
+There is _no such thing as developing general skills_. One doesn’t train one’s memory, one trains one’s memory to recall.
 
-Deliberate practice is the development of better mental representation. (Mental representation allows for the visualization and planning of the process one must take to reach one’s goal, it in turn helps deliberate practice).
+Deliberate practice is the development of better mental representation. (_Mental representation _allows for the _visualization and planning of the process_ one must take to reach one’s goal, it in turn helps deliberate practice).
 
-Better mental representation allows one to spot one’s own mistakes.
+_Better mental representation_ allows one to _spot one’s own mistakes_.
 
 Deliberate practice requires: 
 
-(1) An already reasonably established field (e.g. ballet, chess)
+(1) An already **reasonably established field** (e.g. ballet, chess)
 
-(2) A teach that can provide technique
+(2) A** teacher** that can provide technique
 
-(3) It needs to take place outside of one’s comfort zone
+(3) It needs to take place **outside of one’s comfort zone**
 
-(4) One must use full attention
+(4) One must use** full attention**
 
-(5) One must develop effective mental representation
+(5) One must develop effective **mental representation**
 
 Principles of deliberate practice can be applied to other fields:
 
-(a) Identify the top performers of the field
+(a) Identify the **top performers** of the field
 
-(b) Learn what makes them successful
+(b) Learn **what makes them successful**
 
-(c) Find training techniques that allows for similar success
+(c) **Find training techniques** that allows for similar success
 
-“If it doesn’t work, stop.”
+_“If it doesn’t work, stop.”_
 
 Deliberate practice in business is wrought with myths such as a “I can’t” mindset, the idea that repetition is good and if one just tries hard enough, one will get better.
 

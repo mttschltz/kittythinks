@@ -17,7 +17,7 @@ _Online interactions help minorities and vulnerable groups_ – a study found th
 
 _Opt-In versus Opt-Out_ – explicit consent asks people to opt-in, presumed consent asks people to opt-out. People are much more likely to stay in a scenario if presumed consent is the default. E.g. organ donorship between Germany (explicit consent) & Austria (presumed consent) is 12% versus 99%. It is important to remember however, that even with presumed consent, the infrastructure to act upon this consent needs to exist and work well for it to be advantageous over explicit consent.
 
-## PEAK by Anders Ericsson & Robert Pool– _concerns human ability to achieve_
+## PEAK by Anders Ericsson & Robert Pool – _concerns human ability to achieve_
 
 ![](/images/uploads/peak.jpg)
 
@@ -101,3 +101,13 @@ _“Remember: if your mind is wandering or you’re relaxed and just having fun,
 Thus, _“it is better to train at 100% effort for less time, than at 70% effort for a longer period.”_
 
 _“Once you find you can no longer focus effectively, end the session.”_
+
+## COMPETING AGAINST LUCK by Clayton M. Christensen – _concerns customer behaviour_
+
+Why do people “hire” products or services? (e.g. milkshake over bagel for a car drive to work)
+
+Who does a company really compete with? (e.g. Netflix competes with all relaxation, such as wine drinking and video games)
+
+Function versus Emotion – focusing disproportionally on function will lead to overlooking emotional and social dimensions. (e.g. adult diapers have a stigma attached, making them so that this stigma is reduced, instead of just more functional, will likely increase the customer base).
+
+Fallacy of Surface Growth – making many products for many customers and losing focus on why one started one’s company in the first place; creating more competition with les expertise (e.g. expansion of Times newspaper into local news).

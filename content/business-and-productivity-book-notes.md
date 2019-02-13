@@ -23,7 +23,7 @@ _Opt-In versus Opt-Out_ – explicit consent asks people to opt-in, presumed con
 
 Perfect Pitch is learned, not innate! Being tone-deaf is very rare.
 
-_“The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.”_
+
 
 _Natural Ceiling_ – can be broken by deliberate, back-tracking practice
 
@@ -38,8 +38,6 @@ Some familiar with the problem can help a technique change. E.g. a coach.
 _Meaningful positive feedback_ is a **crucial** factor to maintaining motivation. Such feedback can be internal, or externally provided by others.
 
 Brain structure and brain function are NOT fixed
-
-_“'Good enough' is generally good enough. However, if you wish to become significantly better at something, you can.”_
 
 There is _no such thing as developing general skills_. One doesn’t train one’s memory, one trains one’s memory to recall.
 
@@ -67,8 +65,6 @@ Principles of deliberate practice can be applied to other fields:
 
 (c) **Find training techniques** that allows for similar success
 
-_“If it doesn’t work, stop.”_
-
 Deliberate practice in business is wrought with myths such as a “I can’t” mindset, the idea that repetition is good and if one just tries hard enough, one will get better.
 
 The truth is that improvement is possible, that trying new things avoids stagnation and if one isn’t improving, one is practicing the wrong way.
@@ -76,14 +72,6 @@ The truth is that improvement is possible, that trying new things avoids stagnat
 _Knowledge versus Skill _– deliberate practice emphasizes DOING over simple information gathering
 
 _Interactive_ component _always work better than didactic_ ones , e.g. lecture versus discussion.
-
-_“Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.”_
-
-Example: Amateur runners tend to daydream or focus on more pleasant tasks, while elite runners stay focused on their body and imagine the best form for each step (and thus recognize mistakes).
-
-Thus, _“it is better to train at 100% effort for less time, than at 70% effort for a longer period.”_
-
-_“Once you find you can no longer focus effectively, end the session.”_
 
 The best way _to overcome a plateau_, is to _challenge brain or body in a new way_. Pushing oneself harder will make problems more obvious.
 
@@ -116,3 +104,18 @@ _GREATNESS_
 Pushing the edge of one’s field
 
 _EXPERT_
+
+**Useful Quotes:**
+
+_“The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.”_
+
+_“'Good enough' is generally good enough. However, if you wish to become significantly better at something, you can.”_
+
+_“If it doesn’t work, stop.”_
+
+_“Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.”_\
+Example: Amateur runners tend to daydream or focus on more pleasant tasks, while elite runners stay focused on their body and imagine the best form for each step (and thus recognize mistakes).
+
+Thus, _“it is better to train at 100% effort for less time, than at 70% effort for a longer period.”_
+
+_“Once you find you can no longer focus effectively, end the session.”_

@@ -21,15 +21,15 @@ _Opt-In versus Opt-Out_ – explicit consent asks people to opt-in, presumed con
 
 Perfect Pitch is learned, not innate! Being tone-deaf is very rare.
 
-“The right sort of practise carried out over a sufficient period of time leads to improvement. Nothing else.”
+“The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.”
 
 Natural Ceiling – can be broken by deliberate, back-tracking practise
 
 Repetition after reaching acceptable levels in something, does NOT lead to improvement
 
-Purposeful practise has well-defined, specific goals. It needs to be focused, with full attention. It involves feedback. It requires getting out of ones comfort zone. There mustn’t be any stagnation.
+Purposeful practice has well-defined, specific goals. It needs to be focused, with full attention. It involves feedback. It requires getting out of ones comfort zone. There mustn’t be any stagnation.
 
-If stagnation occurs, don’t practise HARDER, practise DIFFERENTLY! (change technique)
+If stagnation occurs, don’t practice HARDER, practice DIFFERENTLY! (change technique)
 
 Some familiar with the problem can help a technique change. E.g. a coach.
 
@@ -41,11 +41,11 @@ Brain structure and brain function are NOT fixed
 
 There is no such thing as developing general skills. One doesn’t train one’s memory, one trains one’s memory to recall.
 
-Deliberate practise is the development of better mental representation. (Mental representation allows for the visualisation and planning of the process one must take to reach one’s goal, it in turn helps deliberate practise).
+Deliberate practice is the development of better mental representation. (Mental representation allows for the visualization and planning of the process one must take to reach one’s goal, it in turn helps deliberate practice).
 
 Better mental representation allows one to spot one’s own mistakes.
 
-Deliberate practise requires: 
+Deliberate practice requires: 
 
 (1) An already reasonably established field (e.g. ballet, chess)
 
@@ -57,7 +57,7 @@ Deliberate practise requires:
 
 (5) One must develop effective mental representation
 
-Principles of deliberate practise can be applied to other fields:
+Principles of deliberate practice can be applied to other fields:
 
 (a) Identify the top performers of the field
 
@@ -67,17 +67,17 @@ Principles of deliberate practise can be applied to other fields:
 
 “If it doesn’t work, stop.”
 
-Deliberate practise in business is wrought with myths such as a “I can’t” mindset, the idea that repetition is good and if one just tries hard enough, one will get better.
+Deliberate practice in business is wrought with myths such as a “I can’t” mindset, the idea that repetition is good and if one just tries hard enough, one will get better.
 
-The truth is that improvement is possible, that trying new things avoids stagnation and if one isn’t improving, one is practising the wrong way.
+The truth is that improvement is possible, that trying new things avoids stagnation and if one isn’t improving, one is practicing the wrong way.
 
-Knowledge versus Skill – deliberate practise emphasises DOING over simple information gathering
+Knowledge versus Skill – deliberate practice emphasizes DOING over simple information gathering
 
-Interactive component always work better than didactive ones , e.g. lecture versus discussion.
+Interactive component always work better than didactic ones , e.g. lecture versus discussion.
 
 “Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.”
 
-Example: Amateur runners tend to daydream or focus on more pleasant tasks, while elite runners stay focused on their body and imagine the best form for each step (and thus recognise mistakes).
+Example: Amateur runners tend to daydream or focus on more pleasant tasks, while elite runners stay focused on their body and imagine the best form for each step (and thus recognize mistakes).
 
 Thus, “it is better to train at 100% effort for less time, than at 70% effort for a longer period.”
 
@@ -87,30 +87,30 @@ The best way to overcome a plateau, is to challenge brain or body in a new way. 
 
 Willpower is a myth.
 
-Outside of physical limitations, adults’ main issue in achieving expertise is the lack of 4-5 hours of time for deliberate practise.
+Outside of physical limitations, adults’ main issue in achieving expertise is the lack of 4-5 hours of time for deliberate practice.
 
 “Pathfinders” - people who go beyond the expert level in their field and change their field forever (e.g. Paavo Nurmi)
 
-“Savants” - they develop skills like everone else, by deliberate practise.
+“Savants” - they develop skills like everyone else, by deliberate practice.
 
 Chess is not an indication of a high IQ.
 
-Higher IQ helps picking things up in the beginning, but once practise comes in, it becomes the only thing that counts.
+Higher IQ helps picking things up in the beginning, but once practice comes in, it becomes the only thing that counts.
 
 Progression of ability:
 
 Never tried 
 
-NON-PARTICIPANT
+_NON-PARTICIPANT_
 
 Started but stopped or got discouraged
 
-AVERAGE
+_AVERAGE_
 
-Very good through deliberate practise
+Very good through deliberate practice
 
-GREATNESS
+_GREATNESS_
 
 Pushing the edge of one’s field
 
-EXPERT
+_EXPERT_

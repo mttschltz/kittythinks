@@ -67,7 +67,7 @@ Deliberate practice in business is wrought with myths such as a “I can’t” 
 
 Improvement is possible, trying new things avoids stagnation and if one isn’t improving, one is practicing the wrong way.
 
-_Knowledge versus Skill _– deliberate practice emphasizes DOING over simple information gathering.
+_Knowledge versus Skill_– deliberate practice emphasizes DOING over simple information gathering.
 
 _Interactive_ component _always work better than didactic_ ones , e.g. lecture versus discussion.
 

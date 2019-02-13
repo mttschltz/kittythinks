@@ -21,13 +21,13 @@ _Opt-In versus Opt-Out_ – explicit consent asks people to opt-in, presumed con
 
 Perfect Pitch is learned, not innate! Being tone-deaf is very rare.
 
-“The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.”
+_“The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.”_
 
-Natural Ceiling – can be broken by deliberate, back-tracking practise
+_Natural Ceiling_ – can be broken by deliberate, back-tracking practice
 
-Repetition after reaching acceptable levels in something, does NOT lead to improvement
+_Repetition_ after reaching acceptable levels in something, _does NOT lead to improvement._
 
-Purposeful practice has well-defined, specific goals. It needs to be focused, with full attention. It involves feedback. It requires getting out of ones comfort zone. There mustn’t be any stagnation.
+Purposeful practice has_ well-defined, specific goals_. It needs to be focused, with full attention. It involves feedback. It requires getting out of ones comfort zone. There mustn’t be any stagnation.
 
 If stagnation occurs, don’t practice HARDER, practice DIFFERENTLY! (change technique)
 

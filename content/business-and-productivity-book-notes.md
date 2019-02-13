@@ -5,9 +5,9 @@ draft: 'true'
 ---
 A new quick summary series on books about business and productivity. It should be understood that these are not summaries per se, but notes of interest. I've read these books with personal business interest, so those notes might not have been those others would have found most interesting.
 
-## NUDGE by Richard H. Thaler– _concerns human behaviour_
+## NUDGE by Richard H. Thaler – _concerns human behaviour_
 
-![](/images/uploads/nudge.jpg)
+![null](/images/uploads/nudge.jpg)
 
 _Framing Effect_ – it is important HOW one says things. Saying that “ninety of one hundred patients are alive” is much more reassuring than “ten of one hundred are dead”. Framing works because people are passive decision makers. Thus frames are powerful nudges.
 

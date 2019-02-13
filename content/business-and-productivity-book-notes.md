@@ -47,11 +47,11 @@ _Better mental representation_ allows one to _spot one’s own mistakes_.
 
 (1) An already **reasonably established field** (e.g. ballet, chess)
 
-(2) A** teacher** that can provide technique
+(2) A **teacher** that can provide technique
 
 (3) It needs to take place **outside of one’s comfort zone**
 
-(4) One must use** full attention**
+(4) One must use **full attention**
 
 (5) One must develop effective **mental representation**
 
@@ -67,7 +67,7 @@ Deliberate practice in business is wrought with myths such as a “I can’t” 
 
 Improvement is possible, trying new things avoids stagnation and if one isn’t improving, one is practicing the wrong way.
 
-_Knowledge versus Skill _– deliberate practice emphasizes DOING over simple information gathering.
+_Knowledge versus Skill_ – deliberate practice emphasizes DOING over simple information gathering.
 
 _Interactive_ component _always work better than didactic_ ones , e.g. lecture versus discussion.
 

@@ -71,31 +71,31 @@ Deliberate practice in business is wrought with myths such as a “I can’t” 
 
 The truth is that improvement is possible, that trying new things avoids stagnation and if one isn’t improving, one is practicing the wrong way.
 
-Knowledge versus Skill – deliberate practice emphasizes DOING over simple information gathering
+_Knowledge versus Skill _– deliberate practice emphasizes DOING over simple information gathering
 
-Interactive component always work better than didactic ones , e.g. lecture versus discussion.
+_Interactive_ component _always work better than didactic_ ones , e.g. lecture versus discussion.
 
-“Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.”
+_“Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.”_
 
 Example: Amateur runners tend to daydream or focus on more pleasant tasks, while elite runners stay focused on their body and imagine the best form for each step (and thus recognize mistakes).
 
-Thus, “it is better to train at 100% effort for less time, than at 70% effort for a longer period.”
+Thus, _“it is better to train at 100% effort for less time, than at 70% effort for a longer period.”_
 
-“Once you find you can no longer focus effectively, end the session.”
+_“Once you find you can no longer focus effectively, end the session.”_
 
-The best way to overcome a plateau, is to challenge brain or body in a new way. Pushing oneself harder will make problems more obvious.
+The best way _to overcome a plateau_, is to _challenge brain or body in a new way_. Pushing oneself harder will make problems more obvious.
 
 Willpower is a myth.
 
-Outside of physical limitations, adults’ main issue in achieving expertise is the lack of 4-5 hours of time for deliberate practice.
+Outside of physical limitations, adults’ main issue in achieving expertise is the lack of _4-5 hours of time for deliberate practice_.
 
-“Pathfinders” - people who go beyond the expert level in their field and change their field forever (e.g. Paavo Nurmi)
+_“Pathfinders”_ - people who go beyond the expert level in their field and change their field forever (e.g. Paavo Nurmi)
 
-“Savants” - they develop skills like everyone else, by deliberate practice.
+_“Savants”_ - they develop skills like everyone else, by deliberate practice.
 
 Chess is not an indication of a high IQ.
 
-Higher IQ helps picking things up in the beginning, but once practice comes in, it becomes the only thing that counts.
+_Higher IQ helps_ picking things up _in the beginning_, but _once practice comes in_, it becomes the _only thing that counts_.
 
 Progression of ability:
 

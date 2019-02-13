@@ -89,18 +89,24 @@ Progression of ability -> _Never tried = **NON-PARTICIPANT** / ->Started but sto
 
 **Useful Quotes:**
 
-_“The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.”_
-
-_“'Good enough' is generally good enough. However, if you wish to become significantly better at something, you can.”_
-
-_“If it doesn’t work, stop.”_
-
-_“Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.”_\
-(Example: Amateur runners tend to daydream or focus on more pleasant tasks, while elite runners stay focused on their body and imagine the best form for each step (and thus recognize mistakes)).
-
-Thus, _“it is better to train at 100% effort for less time, than at 70% effort for a longer period.”_
-
-_“Once you find you can no longer focus effectively, end the session.”_
+> _“The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.”_
+>
+> _“'Good enough' is generally good enough. However, if you wish to become significantly better at something, you can.”_
+>
+> _“If it doesn’t work, stop.”_
+>
+> _“Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.”_
+>
+> \
+>
+>
+> (Example: Amateur runners tend to daydream or focus on more pleasant tasks, while elite runners stay focused on their body and imagine the best form for each step (and thus recognize mistakes)).
+>
+> Thus, 
+>
+> _“it is better to train at 100% effort for less time, than at 70% effort for a longer period.”_
+>
+> _“Once you find you can no longer focus effectively, end the session.”_
 
 ## COMPETING AGAINST LUCK by Clayton M. Christensen – _concerns customer behaviour_
 

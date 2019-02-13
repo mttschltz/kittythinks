@@ -61,7 +61,7 @@ _Better mental representation_ allows one to _spot one’s own mistakes_.
 
 (b) Learn **what makes them successful**
 
-(c) **Find training techniques** that allows for similar success
+(c ) **Find training techniques** that allows for similar success
 
 Deliberate practice in business is wrought with myths such as a “I can’t” mindset, the idea that repetition is good and if one just tries hard enough, one will get better.
 

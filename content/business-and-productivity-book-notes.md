@@ -104,10 +104,12 @@ _“Once you find you can no longer focus effectively, end the session.”_
 
 ## COMPETING AGAINST LUCK by Clayton M. Christensen – _concerns customer behaviour_
 
-Why do people “hire” products or services? (e.g. milkshake over bagel for a car drive to work)
+![](/images/uploads/competing-against-luck.jpg)
 
-Who does a company really compete with? (e.g. Netflix competes with all relaxation, such as wine drinking and video games)
+_Why_ do people “**hire**” products or services? (e.g. milkshake over bagel for a car drive to work)
 
-Function versus Emotion – focusing disproportionally on function will lead to overlooking emotional and social dimensions. (e.g. adult diapers have a stigma attached, making them so that this stigma is reduced, instead of just more functional, will likely increase the customer base).
+_Who_ does a company really **compete with**? (e.g. Netflix competes with all relaxation, such as wine drinking and video games)
 
-Fallacy of Surface Growth – making many products for many customers and losing focus on why one started one’s company in the first place; creating more competition with les expertise (e.g. expansion of Times newspaper into local news).
+_Function versus Emotion_ – focusing disproportionately on function will lead to overlooking emotional and social dimensions. (e.g. adult diapers have a stigma attached, making them so that this stigma is reduced, instead of just more functional, will likely increase the customer base).
+
+_Fallacy of Surface Growth_ – making many products for many customers and losing focus on why one started one’s company in the first place; **creating more competition with less expertise** (e.g. expansion of Times newspaper into local news).

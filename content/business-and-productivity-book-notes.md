@@ -19,7 +19,7 @@ _Opt-In versus Opt-Out_ – explicit consent asks people to opt-in, presumed con
 
 ## PEAK by Anders Ericsson & Robert Pool – _concerns human ability to achieve_
 
-![](/images/uploads/peak.jpg)
+![null](/images/uploads/peak.jpg)
 
 Perfect Pitch is learned, not innate! Being tone-deaf is very rare.
 
@@ -39,11 +39,11 @@ Brain structure and brain function are NOT fixed.
 
 There is _no such thing as developing general skills_. One doesn’t train one’s memory, one trains one’s memory to recall.
 
-Deliberate practice is the development of better mental representation. (_Mental representation _allows for the _visualization and planning of the process_ one must take to reach one’s goal, it in turn helps deliberate practice).
+Deliberate practice is the development of better mental representation. (_Mental representation allows for the visualization and planning of the process_ one must take to reach one’s goal, it in turn helps deliberate practice).
 
 _Better mental representation_ allows one to _spot one’s own mistakes_.
 
-## Deliberate practice requires: 
+## Deliberate practice requires:
 
 (1) An already **reasonably established field** (e.g. ballet, chess)
 
@@ -67,7 +67,7 @@ Deliberate practice in business is wrought with myths such as a “I can’t” 
 
 Improvement is possible, trying new things avoids stagnation and if one isn’t improving, one is practicing the wrong way.
 
-_Knowledge versus Skill_– deliberate practice emphasizes DOING over simple information gathering.
+_Knowledge versus Skill _– deliberate practice emphasizes DOING over simple information gathering.
 
 _Interactive_ component _always work better than didactic_ ones , e.g. lecture versus discussion.
 
@@ -99,7 +99,6 @@ Progression of ability -> _Never tried = **NON-PARTICIPANT** / ->Started but sto
 >
 > \
 >
->
 > (Example: Amateur runners tend to daydream or focus on more pleasant tasks, while elite runners stay focused on their body and imagine the best form for each step (and thus recognize mistakes)).
 >
 > Thus, 
@@ -108,11 +107,11 @@ Progression of ability -> _Never tried = **NON-PARTICIPANT** / ->Started but sto
 >
 > _“Once you find you can no longer focus effectively, end the session.”_
 
-## COMPETING AGAINST LUCK by Clayton M. Christensen – _concerns customer behaviour_
+## COMPETING AGAINST LUCK by Clayton M. Christensen – _concerns customer behaviour_
 
-![](/images/uploads/competing-against-luck.jpg)
+![null](/images/uploads/competing-against-luck.jpg)
 
-_Why_ do people “**hire**” products or services? (e.g. milkshake over bagel for a car drive to work)
+_Why_ do people “**hire**” products or services? (e.g. milkshake over bagel for a car drive to work)
 
 _Who_ does a company really **compete with**? (e.g. Netflix competes with all relaxation, such as wine drinking and video games)
 

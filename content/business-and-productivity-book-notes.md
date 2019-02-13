@@ -19,6 +19,8 @@ _Opt-In versus Opt-Out_ – explicit consent asks people to opt-in, presumed con
 
 ## PEAK by Anders Ericsson & Robert Pool– _concerns human ability to achieve_
 
+![](/images/uploads/peak.jpg)
+
 Perfect Pitch is learned, not innate! Being tone-deaf is very rare.
 
 _“The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.”_

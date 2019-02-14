@@ -95,7 +95,8 @@ Well-roundedness = many-sided mediocrity. _“Be a monopoly of your own.”_
 
 _++ **Peter Thiel is calling out Europe for having a “vacation-mania” - fundamentally misunderstanding Europeans…**++_
 
-How can the future get better if no one plans for it? **In start-ups**: _Intelligent Design > Darwinism_
+How can the future get better if no one plans for it? \
+**In start-ups**: _Intelligent Design > Darwinism_
 
 Founders only sell when they have no concrete vision for the company anymore. 
 

@@ -1,7 +1,7 @@
 ---
 title: Business and Productivity Book Notes - PART II
 date: '2019-02-14T15:28:42+10:30'
-draft: 'true'
+draft: 'false'
 ---
 The second part of the business and productivity notes. This time, more business!
 

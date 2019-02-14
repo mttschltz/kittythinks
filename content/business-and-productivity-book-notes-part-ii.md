@@ -51,7 +51,7 @@ Focusing on ONE core transaction first, makes success more likely.
 
 There is currently no good troll and harassment tool available.
 
-Create a lightweight platform as quickly as possible to gather feedback and see if the idea works. Modify later.
+Create a_ lightweight platform as quickly as possible_ to gather feedback and see if the idea works. **Modify later**.
 
 Sustainable networks > vanity metrics (e.g. amount of users)
 
@@ -59,9 +59,9 @@ Potential new users are driven by an attraction to an existing user base.
 
 Attract marquee users in the beginning to uphold a certain quality.
 
-If one’s platform business ISN’T under scrutiny by law – maybe it isn’t big enough of an idea.
+_If one’s platform business ISN’T under scrutiny by law – maybe it isn’t big enough of an idea._
 
-Could your business sell virtual goods?
+Could your business **sell virtual goods?**
 
 Remove transaction costs – money, time OR effort.
 

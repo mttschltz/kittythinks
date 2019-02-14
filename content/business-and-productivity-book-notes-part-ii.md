@@ -75,7 +75,7 @@ Large supply, that isn’t connected, is important.
 
 ![](/images/uploads/zerotoone.jpg)
 
-**QUICK NOTE: I had a few serious issues with this book. I decided to include them in my notes. This does not take away from the useful parts.**
+**QUICK NOTE: I had a few serious issues with this book. I decided to include them in my notes. Those critical notes are in bold and italic and contain two asterisk. This does _not_ take away from the useful parts.**
 
 _“What important truth do very few people agree with you on?”_
 
@@ -95,19 +95,19 @@ Sequencing is underrated. Dominate a _specific niche first_ and then scale to ad
 
 Well-roundedness = many-sided mediocrity. _“Be a monopoly of your own.”_
 
-_**Peter Thiel is calling out Europe for having a “vacation-mania” - fundamentally misunderstanding Europeans…**_
+_\*\* **Peter Thiel is calling out Europe for having a “vacation-mania” - fundamentally misunderstanding Europeans… **\*\*_
 
-How can the future get better if no one plans for it? In start-ups: intelligent design > Darwinism
+How can the future get better if no one plans for it? **In start-ups**: I_ntelligent Design > Darwinism_
 
 Founders only sell when they have no concrete vision for the company anymore. 
 
-Largely unconnected philosophy undergrad ramble about the evils of not believing in “secrets”
+\*\* _**Largely unconnected philosophy undergrad ramble about the evils of not believing in “secrets”. **\*\*_
 
 A start-up which messes up its foundation, cannot be fixed.
 
-Unless a company is publicly held, its board should never exceed 5 people and is ideally comprised of 3 people.
+Unless a company is publicly held, its _board should never exceed 5 people_ and is ideally comprised of 3 people.
 
-Thiel decries employees who ask for an actual salary instead of  those taking equity as payment...
+\*\* _**Thiel decries employees who ask for an actual salary instead of  those taking equity as payment... **\*\*_
 
 Attract good employees by explaining why your mission is compelling.
 

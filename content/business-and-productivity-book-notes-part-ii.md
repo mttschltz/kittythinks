@@ -165,46 +165,46 @@ Reduce (confusion), Eliminate (varying interfaces), Create (ease-of-use interfac
 
 ## 
 
-“Customers don’t care about your solution. They care about their problems.” by Dave McClure, 500 Startups
+_“Customers don’t care about your solution. They care about their problems.”_ by Dave McClure, 500 Startups
 
 How to get the product right:
 
-(1) Have a problem worth solving.
+(1) Have a **problem worth solving.**
 
-(2) Define smallest possible solution.
+(2) Define **smallest possible solution**.
 
-(3) Build (small).
+(3) **Build** (small).
 
-(4) Verify at a large scale.
+(4) **Verify** at a large scale.
 
 How to get customers:
 
-(1) Who has the ‘pain’.
+(1) **Who** has the ‘pain’.
 
-(2) Find early adopters.
+(2) Find **early adopters**.
 
-(3) Outbound channels are ok.
+(3)** Outbound channels are ok**.
 
-(4) Build scalable inbound channels asap.
+(4) Build **scalable inbound channels asap**.
 
 Building a viable business:
 
-(1) Identify your competition and set a price.
+(1) **Identify your competition** and set a price.
 
-(2) See what customers think of your pricing (verbally).
+(2) See **what customers think** **of** your **pricing** (verbally).
 
-(3) Test what customers actually do with your pricing.
+(3) Test **what customers actually do with** your **pricing**.
 
-(4) Optimise pricing.
+(4) **Optimize** pricing.
 
-“Content precedes design. Design in the absence of content is not design, it’s decoration.” by Jeffrey Zeldman, A List Apart
+_“Content precedes design. Design in the absence of content is not design, it’s decoration.”_ by Jeffrey Zeldman, A List Apart
 
-Multisided Product – connects buyers and sellers and provides value by reducing transaction friction.
+_Multi-sided Product _– connects buyers and sellers and provides value by reducing transaction friction.
 
-Build only necessary features first. Short coding sessions only.
+Build _only necessary features _first. **Short coding sessions only.**
 
-80% should be spend optimising necessary features
+_80%_ should be _spend optimizing necessary features._
 
-If one’s company has both customers and users, two Lean Canvases are necessary.
+If one’s company has _both customers and users, two Lean Canvases_ are necessary.
 
-Charge from day 1.
+**Charge from day 1.**

@@ -137,10 +137,12 @@ Highly visible success can attract highly visible attacks.
 
 
 
-BLUE OCEAN STRATEGY by W. Chan Kim & Renée Mauborgne – concerns market space
+## BLUE OCEAN STRATEGY by W. Chan Kim & Renée Mauborgne – _concerns market space_
+
+![](/images/uploads/blueoceanstrategy.jpg)
 
 
 
 Reduce (confusion), Eliminate (varying interfaces), Create (ease-of-use interface), Raise (price)
 
-Red Ocean = market with lots of competition, Blue Ocean = new market.
+**Red Ocean** = market with lots of competition, **Blue Ocean** = new market.

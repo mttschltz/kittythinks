@@ -93,57 +93,43 @@ Sequencing is underrated. Dominate a _specific niche first_ and then scale to ad
 
 Well-roundedness = many-sided mediocrity. _“Be a monopoly of your own.”_
 
-_\*\* **Peter Thiel is calling out Europe for having a “vacation-mania” - fundamentally misunderstanding Europeans…
- **\*\*_
+_\*\* **Peter Thiel is calling out Europe for having a “vacation-mania” - fundamentally misunderstanding Europeans…**\*\*_
 
-How can the future get better if no one plans for it? **In start-ups**: I_ntelligent Design > Darwinism
-_
+How can the future get better if no one plans for it? **In start-ups**: _Intelligent Design > Darwinism_
 
 Founders only sell when they have no concrete vision for the company anymore. 
 
-\*\* _**Largely unconnected philosophy undergrad ramble about the evils of not believing in “secrets”
-. **\*\*_
+\*\* _**Largely unconnected philosophy undergrad ramble about the evils of not believing in “secrets”.**\*\*_
 
 A start-up which messes up its foundation, cannot be fixed.
 
 Unless a company is publicly held, its _board should never exceed 5 people_ and is ideally comprised of 3 people.
 
-\*\* _**Thiel decries employees who ask for an actual salary instead of  those taking equity as payment...
- **\*\*_
+\*\* _**Thiel decries employees who ask for an actual salary instead of  those taking equity as payment...**\*\*_
 
 Attract good employees by explaining why your mission is compelling.
 
 Distribution is essential to the design of a product – start-ups should not attempt to compete (in design) with big companies.
 
-_Clean up your digital footprint!
-_
+_Clean up your digital footprint!_
 
-Computers won’t replace humans, but complement them. \*\* _**(Thiel forgets jobs that are not IT; those will unquestionably be replaced, and so will all simple IT jobs, e.g. data entry, admin etc.)
- **\*\*_
+Computers won’t replace humans, but complement them. \*\* _**(Thiel forgets jobs that are not IT; those will unquestionably be replaced, and so will all simple IT jobs, e.g. data entry, admin etc.)**\*\*_
 
-(1) The Engineering Question: **Can you create a breakthrough?
-**
+(1) The Engineering Question: **Can you create a breakthrough?**
 
-(2) The Timing Question: **Is this the right time?
-**
+(2) The Timing Question: **Is this the right time?**
 
-(3) The Monopoly Question: **Are you starting with a big share?
-**
+(3) The Monopoly Question: **Are you starting with a big share?**
 
-(4) The People Question: **Are you starting with the right team?
-**
+(4) The People Question: **Are you starting with the right team?**
 
-(5) The Distribution Question: **Do you know how to sell?
-**
+(5) The Distribution Question: **Do you know how to sell?**
 
-(6) The Disability Question: **Is your idea still feasible in 10 to 20 years?
-**
+(6) The Disability Question: **Is your idea still feasible in 10 to 20 years?**
 
-(7) The Secret Question:** Is your idea unique?
-**
+(7) The Secret Question:** Is your idea unique?**
 
-_“Real technologists wear T-shirts and jeans”_ \*\* _**(ok?...Thiel should read up on gatekeeping.)
- **\*\*_
+_“Real technologists wear T-shirts and jeans”_ \*\* _**(ok?...Thiel should read up on gatekeeping.)**\*\*_
 
 Highly visible success can attract highly visible attacks.
 
@@ -179,7 +165,7 @@ How to get customers:
 
 (2) Find **early adopters**.
 
-(3)** Outbound channels are ok**.
+(3) **Outbound channels are ok**.
 
 (4) Build **scalable inbound channels asap**.
 
@@ -195,7 +181,7 @@ Building a viable business:
 
 _“Content precedes design. Design in the absence of content is not design, it’s decoration.”_ by Jeffrey Zeldman, A List Apart
 
-_Multi-sided Product _– connects buyers and sellers and provides value by reducing transaction friction.
+_Multi-sided Product_ – connects buyers and sellers and provides value by reducing transaction friction.
 
 Build _only necessary features _first. **Short coding sessions only.**
 

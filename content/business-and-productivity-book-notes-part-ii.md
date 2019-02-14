@@ -128,7 +128,7 @@ Computers won’t replace humans, but complement them. ++ _**(Thiel forgets jobs
 
 (6) The Disability Question: **Is your idea still feasible in 10 to 20 years?**
 
-(7) The Secret Question:** Is your idea unique?**
+(7) The Secret Question: **Is your idea unique?**
 
 _“Real technologists wear T-shirts and jeans”_ ++ _**(ok?...Thiel should read up on gatekeeping.)**++_
 

@@ -77,25 +77,25 @@ Large supply, that isn’t connected, is important.
 
 **QUICK NOTE: I had a few serious issues with this book. I decided to include them in my notes. This does not take away from the useful parts.**
 
-“What important truth do very few people agree with you on?”
+_“What important truth do very few people agree with you on?”_
 
 Dot-com bubble while crazy, had an upside – it showed optimism about a technological future.
 
-To make money – Monopoly > Perfect Competition. Monopolies own their market, while competitors have to price-gauge through the market.
+To make money – _Monopoly > Perfect Competition_. Monopolies own their market, while competitors have to price-gauge through the market.
 
-“In business, equilibrium means stasis, and stasis means death.” - If one’s in competition, one’s demise won’t be felt. One needs to be indispensable.
+_“In business, equilibrium means stasis, and stasis means death.”_ - If one’s in competition, one’s demise won’t be felt. One needs to be** indispensable**.
 
-The more one competes, the less on gains. War is costly business.
+The more one competes, the less on gains. _War is costly business._
 
-Proprietary technology must be at least 10x better than the closest competitor. How? By making something completely new.
+Proprietary technology must be at least 10 x better than the closest competitor. How? By making something completely new.
 
-Every start-up should start with a very small market. After = monopolise.
+Every start-up should _start with a very small market_. After = monopolize.
 
-Sequencing is underrated. Dominate a specific niche first and then scale to adjacent markets.
+Sequencing is underrated. Dominate a _specific niche first_ and then scale to adjacent markets.
 
-Well-roundedness = many-sided mediocrity. “Be a monopoly of your own.”
+Well-roundedness = many-sided mediocrity. _“Be a monopoly of your own.”_
 
-Peter Thiel calling out Europe for having a “vacation-mania” - fundamentally misunderstanding Europeans…
+_**Peter Thiel is calling out Europe for having a “vacation-mania” - fundamentally misunderstanding Europeans…**_
 
 How can the future get better if no one plans for it? In start-ups: intelligent design > Darwinism
 

@@ -113,27 +113,25 @@ Attract good employees by explaining why your mission is compelling.
 
 Distribution is essential to the design of a product – start-ups should not attempt to compete (in design) with big companies.
 
-Clean up your digital footprint!
+_Clean up your digital footprint!_
 
-Computers won’t replace humans, but complement them. (Thiel forgets jobs  that are not IT, those will unquestionably be replaced.)
+Computers won’t replace humans, but complement them. \*\* _**(Thiel forgets jobs that are not IT; those will unquestionably be replaced, and so will all simple IT jobs, e.g. data entry, admin etc.) **\*\*_
 
+(1) The Engineering Question: **Can you create a breakthrough?**
 
+(2) The Timing Question: **Is this the right time?**
 
-(1) The Engineering Question: Can you create a breakthrough?
+(3) The Monopoly Question: **Are you starting with a big share?**
 
-(2) The Timing Question: Is this the right time?
+(4) The People Question: **Are you starting with the right team?**
 
-(3) The Monopoly Question: Are you starting with a big share?
+(5) The Distribution Question: **Do you know how to sell?**
 
-(4) The People Question: Are you starting with the right team?
+(6) The Disability Question: **Is your idea still feasible in 10 to 20 years?**
 
-(5) The Distribution Question: Do you know how to sell?
+(7) The Secret Question:** Is your idea unique?**
 
-(6) The Disability Question: Is your idea still feasible in 10 to 20 years?
-
-(7) The Secret Question: Is your idea unique?
-
-“Real technologists wear T-shirts and jeans” (ok?...Thiel should read up on gatekeeping.)
+_“Real technologists wear T-shirts and jeans”_ \*\* _**(ok?...Thiel should read up on gatekeeping.) **\*\*_
 
 Highly visible success can attract highly visible attacks.
 

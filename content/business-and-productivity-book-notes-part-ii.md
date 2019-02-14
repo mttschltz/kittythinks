@@ -9,7 +9,7 @@ The second part of the business and productivity notes. This time, more business
 
 ![null](/images/uploads/monopolies.jpg)
 
-While the internet is open, every activity has to go through a** platform**.
+While the internet is open, every activity has to go through a **platform**.
 
 The old business model – Product/Service = Distribution = Customer
 
@@ -51,7 +51,7 @@ Focusing on ONE core transaction first, makes success more likely.
 
 There is currently no good troll and harassment tool available.
 
-Create a_ lightweight platform as quickly as possible_ to gather feedback and see if the idea works. **Modify later**.
+Create a _lightweight platform as quickly as possible_ to gather feedback and see if the idea works. **Modify later**.
 
 Sustainable networks > vanity metrics (e.g. amount of users)
 
@@ -73,11 +73,9 @@ Large supply, that isn’t connected, is important.
 
 ![null](/images/uploads/zerotoone.jpg)
 
-**
-QUICK NOTE: I had a few serious issues with this book. I decided to include them in my notes. Those critical notes are in bold and italic and contain two asterisk. This does _not_ take away from the useful parts.**
+**QUICK NOTE: I had a few serious issues with this book. I decided to include them in my notes. Those critical notes are in bold and italic and contain two asterisk. This does _not_ take away from the useful parts.**
 
-_“What important truth do very few people agree with you on?”
-_
+_“What important truth do very few people agree with you on?”_
 
 Dot-com bubble while crazy, had an upside – it showed optimism about a technological future.
 
@@ -85,8 +83,7 @@ To make money – _Monopoly > Perfect Competition_. Monopolies own their market,
 
 _“In business, equilibrium means stasis, and stasis means death.”_ - If one’s in competition, one’s demise won’t be felt. One needs to be** indispensable**.
 
-The more one competes, the less on gains. _War is costly business.
-_
+The more one competes, the less on gains. _War is costly business._
 
 Proprietary technology must be at least 10 x better than the closest competitor. How? By making something completely new.
 
@@ -94,8 +91,7 @@ Every start-up should _start with a very small market_. After = monopolize.
 
 Sequencing is underrated. Dominate a _specific niche first_ and then scale to adjacent markets.
 
-Well-roundedness = many-sided mediocrity. _“Be a monopoly of your own.”
-_
+Well-roundedness = many-sided mediocrity. _“Be a monopoly of your own.”_
 
 _\*\* **Peter Thiel is calling out Europe for having a “vacation-mania” - fundamentally misunderstanding Europeans…
  **\*\*_

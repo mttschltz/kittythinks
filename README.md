@@ -1,6 +1,8 @@
 # kittythinks.com Blog
 Code and content for the kittythinks.com blog: https://www.kittythinks.com
 
+Content by the scholarly Kitty: https://twitter.com/kittythinks
+
 ## Tech stack
 * [Hugo](https://gohugo.io/) static site generator
 * [Netlify CMS](https://www.netlifycms.org/)

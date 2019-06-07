@@ -21,6 +21,8 @@ Nothing says "a bit extra" like a subscription to an organic, artisan beard oil 
 
 > _"\[...] The predictable stream of future profits means she is willing to pay a significant premium over what she would give for a traditional company. \[...] Some of the biggest premiums today go to companies in the software industry."_
 
+Some math for very small companies (the ones I'm interested in):
 
+24-48 x MRR (monthly recurring revenue), which is 2-4 times the ARR (annual recurring revenue). That's a modest growth rate and Warrillow (through Zane Tarence) estimates a church rate of 2-4% per month.
 
->
+What that means is that even a small software company has pretty nifty benefits when using a subscription model.

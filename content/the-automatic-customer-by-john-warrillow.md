@@ -1,7 +1,7 @@
 ---
-title: The Automatic Customer by John Warrillow
+title: The Automatic Customer by John Warrillow Part I
 date: '2019-06-07T10:49:45+09:30'
-draft: 'true'
+draft: 'false'
 ---
 Another business book - what way to run a business is the best one? The one that doesn't make you stress out 24/7. In this spirit, a very short summary of the most interesting points of:
 
@@ -9,11 +9,11 @@ Another business book - what way to run a business is the best one? The one that
 
 > _"The biggest factor in driving up your Sellability Score is the degree to which your company can run without you, the owner."_
 
-Warrillow starts off with the most important point of the entire book: if you, the owner, have to do very little to get recurring revenue, you are doing it right. If you want to be attractive for financial buyers, your future stream of profit better look smashing.
+Warrillow starts off with the most important point of the entire book: if you, the owner, have to do very little to get recurring revenue, you are doing it right. If you want to be attractive for financial buyers, your future stream of profit better look smashing. **Drive up the value of your company**.
 
 > _"Data has become an asset, and nobody has more customer information than a subscription business."_
 
-Subscribing means giving someone your mail, your name, perhaps you age, family status, like and dislikes, your social circle... Warrillow points out that traditional companies are launching subscription services JUST for the data alone.
+Subscribing means giving someone your mail, your name, perhaps you age, family status, like and dislikes, your social circle... Warrillow points out that traditional companies are launching subscription services JUST for the data alone. **Cut the cost of customer market research**.
 
 > _"Customers want to express their individuality, and increasingly they are using subscription to do that."_
 
@@ -23,18 +23,22 @@ Nothing says "a bit extra" like a subscription to an organic, artisan beard oil 
 
 Some math for very small companies (the ones I'm interested in):
 
-24-48 x MRR (monthly recurring revenue), which is 2-4 times the ARR (annual recurring revenue). That's a modest growth rate and Warrillow (through Zane Tarence) estimates a church rate of 2-4% per month.
+24-48 x MRR (monthly recurring revenue), which is 2-4 times the ARR (annual recurring revenue). That's a modest growth rate and Warrillow (through Zane Tarence) estimates a churn rate of 2-4% per month.
 
-What that means is that even a small software company has pretty nifty benefits when using a subscription model. Warrillow estimates 2.6 times pretax profit.
+What that means is that even a small software company has pretty nifty benefits when using a subscription model. Warrillow estimates 2.6 times pretax profit. **Increase the lifetime value of your customers**.
 
-> _"Knowing within a few  percentage points how many customers you will have next month helps ensure you have the right number of staff and adequate supplies."_
->
+> _"Knowing within a few percentage points how many customers you will have next month helps ensure you have the right number of staff and adequate supplies."_
+
+**Automate the collection of receiveables**.
+
 > _"\[...] a subscription model means you get paid on the day you're supposed to get paid."_
 >
 > _"Subscribers knowingly enter into an agreement in which the convenience of uninterrupted automatic service is exchanged for their future loyalty."_
->
+
+**Lock in your most promiscuous customers (those who are always looking for a deal and who will switch for a small price advantage).**
+
 > _"When you create a steady flow of recurring revenue, you insulate yourself from the worst of a potential recession."_
 
-
+# _to be continued..._
 
 >

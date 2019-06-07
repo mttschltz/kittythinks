@@ -25,4 +25,16 @@ Some math for very small companies (the ones I'm interested in):
 
 24-48 x MRR (monthly recurring revenue), which is 2-4 times the ARR (annual recurring revenue). That's a modest growth rate and Warrillow (through Zane Tarence) estimates a church rate of 2-4% per month.
 
-What that means is that even a small software company has pretty nifty benefits when using a subscription model.
+What that means is that even a small software company has pretty nifty benefits when using a subscription model. Warrillow estimates 2.6 times pretax profit.
+
+> _"Knowing within a few  percentage points how many customers you will have next month helps ensure you have the right number of staff and adequate supplies."_
+>
+> _"\[...] a subscription model means you get paid on the day you're supposed to get paid."_
+>
+> _"Subscribers knowingly enter into an agreement in which the convenience of uninterrupted automatic service is exchanged for their future loyalty."_
+>
+> _"When you create a steady flow of recurring revenue, you insulate yourself from the worst of a potential recession."_
+
+
+
+>

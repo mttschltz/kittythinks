@@ -78,3 +78,15 @@ _How_: Major curating skills and the ability to source new and unique items.
 _Best Customer_: The curious with disposable income.
 
 _Extra_: Complex fulfillment and logistics. Competition!
+
+**The Simplifier Model**
+
+_What_: A service that makes a necessary activity easier. (e.g. pet grooming, tutoring, bookkeeping)
+
+_For Whom_: Those responsible enough to do what the customer wants to forget.
+
+_How_: Interview your target customer to find out what their to-do lists have that they dislike thinking about.
+
+_Best Customer_: People with busy lives and a large income. The richer, the higher the need to simplify.
+
+_Extra_: Consider cross-selling and upselling once your customer already associates "annoying tasks fixed" with you.

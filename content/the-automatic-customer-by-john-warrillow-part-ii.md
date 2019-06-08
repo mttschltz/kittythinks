@@ -55,14 +55,20 @@ _Best Customer_: Existing subscribers.
 
 _Extra_: For some people, waiting in line is catastrophic!
 
+**The Consumables Model**
 
+_What_: Replenish necessary items for a customer.
 
-_What_:
+_For Whom_: Those with access to annoying to replenish items.
+
+_How_: People must love your brand so as to compete with massive e-tailers. 
+
+_Best Customer_: Stressed out people.
+
+_Extra_: Logistical challenge. Requires stead supply or control of manufacturing.
+
+**The Surprise Box Model**
+
+_What: _A curated package of items, sent every month.
 
 _For Whom_:
-
-_How_:
-
-_Best Customer_:
-
-_Extra_:

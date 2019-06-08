@@ -90,3 +90,15 @@ _How_: Interview your target customer to find out what their to-do lists have th
 _Best Customer_: People with busy lives and a large income. The richer, the higher the need to simplify.
 
 _Extra_: Consider cross-selling and upselling once your customer already associates "annoying tasks fixed" with you.
+
+**The Network Model**
+
+_What_: A platform for people-interaction. The more subscribe, the more better the value. (e.g. WhatsApp)
+
+_For Whom_: Those able to offer an unusually great experience, compelling people to join.
+
+_How_: Focus on limited resources on aa small, 
+
+_Best Customer_: Tech-savvy, sociable customers.
+
+_Extra_:

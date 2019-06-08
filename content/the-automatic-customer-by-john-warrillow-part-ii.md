@@ -30,3 +30,39 @@ _How_: Offer an ultimatum - subscribe to the whole library or get nothing.
 _Best Customer_: Everyone.
 
 _Extra_: Requires a lot of money upfront!
+
+**The Private Club Model**
+
+_What_: Ongoing access to something rare.
+
+_For Whom_: Those with access to something in limited supply, like a service or an experience, that affluent consumers want.
+
+_How_: Do not offer access to anyone but only to those willing to pay for a long-term secret.
+
+_Best Customer_: The rich.
+
+_Extra_: Offering something rare, also risks that the rare thing runs out. There are also only so many rich people.
+
+**The Front-of-the-Line Model**
+
+_What_: Priority access to a group of customers.
+
+_For Whom_: Those requiring an additional income stream to an existing subscription model.
+
+_How_: Important that you have an existing baseline service. Works best in small and mid-sized businesses.
+
+_Best Customer_: Existing subscribers.
+
+_Extra_: For some people, waiting in line is catastrophic!
+
+
+
+_What_:
+
+_For Whom_:
+
+_How_:
+
+_Best Customer_:
+
+_Extra_:

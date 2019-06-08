@@ -102,3 +102,17 @@ _How_: Focus on limited resources on a small, tightly defined group of early-ado
 _Best Customer_: Tech-savvy, sociable customers.
 
 _Extra_: The high cost of initial implementation shields one from competitors, but the expectations of the tech-savvy are high and can flip quickly.
+
+**The Piece-of-Mind Model**
+
+_What_: Insurance against something a customer hope she'll never need.
+
+_For Whom_: The savvy enough to allow the absorption of cost of a claim by leveraging their existing assets rather than paying out cash (e.g. through existing equipment and labour).
+
+_How_: Make sure you have the infrastructure and resources to honour the commitment made to a customer should they require your services.
+
+_Best Customer_: The worried.
+
+_Extra_: Challenging to gauge how frequently the customer needs the service.
+
+# _to be continued…_

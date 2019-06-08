@@ -69,6 +69,12 @@ _Extra_: Logistical challenge. Requires stead supply or control of manufacturing
 
 **The Surprise Box Model**
 
-_What: _A curated package of items, sent every month.
+_What_: A curated package of items, sent every month.
 
-_For Whom_:
+_For Whom_: Those able to talk manufacturers into giving them discounts for adding their products. An ability to curate.
+
+_How_: Major curating skills and the ability to source new and unique items. 
+
+_Best Customer_: The curious with disposable income.
+
+_Extra_: Complex fulfillment and logistics. Competition!

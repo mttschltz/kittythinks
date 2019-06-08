@@ -95,10 +95,10 @@ _Extra_: Consider cross-selling and upselling once your customer already associa
 
 _What_: A platform for people-interaction. The more subscribe, the more better the value. (e.g. WhatsApp)
 
-_For Whom_: Those able to offer an unusually great experience, compelling people to join.
+_For Whom_: Those able to offer an unusually great experience, compelling people to join and have either a lot of capital or are good at raising it.
 
-_How_: Focus on limited resources on aa small, 
+_How_: Focus on limited resources on a small, tightly defined group of early-adopting customers.
 
 _Best Customer_: Tech-savvy, sociable customers.
 
-_Extra_:
+_Extra_: The high cost of initial implementation shields one from competitors, but the expectations of the tech-savvy are high and can flip quickly.

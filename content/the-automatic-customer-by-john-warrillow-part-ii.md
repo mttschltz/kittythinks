@@ -11,7 +11,7 @@ We've learned _why_ the subscription model is better, but what are the different
 
 _What_: Publish your content behind a paywall that requires members to buy access.
 
-_For Whom_:  Highly specialized information that keeps changing over time. Niche market.
+_For Whom_:  Those with highly specialized information that keeps changing over time. Niche market.
 
 _How_: Multiple formats.
 
@@ -21,12 +21,12 @@ _Extra_: Hard to only live of subscriber monetization. Additional services, e.g.
 
 **The All-You-Can-Eat Library Model**
 
-_What_: 
+_What_: Unlimited access to large amount of knowledge that the consumer can rent. Not designed for the possibility to consume all its value.
 
-_For Whom_:
+_For Whom_: Those with access to, or the ability to acquire, a library of content (e.g. Netflix). Existing fans.
 
-_How_:
+_How_: Offer an ultimatum - subscribe to the whole library or get nothing.
 
-_Best Customer_:
+_Best Customer_: Everyone.
 
-_Extra_:
+_Extra_: Requires a lot of money upfront!

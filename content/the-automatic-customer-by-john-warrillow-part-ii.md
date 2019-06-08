@@ -1,7 +1,7 @@
 ---
 title: The Automatic Customer by John Warrillow Part II
 date: '2019-06-08T17:27:09+09:30'
-draft: 'true'
+draft: 'false'
 ---
 We've learned _why_ the subscription model is better, but what are the different subscription models (well, nine of them)?
 

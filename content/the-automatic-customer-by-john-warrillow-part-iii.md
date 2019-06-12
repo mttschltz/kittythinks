@@ -85,3 +85,11 @@ Another interesting churn-lowering idea is to provide "happiness bombs". Little 
 More conservative approaches: target larger businesses for more stability or go "evergreen", meaning instead of opting in, a customer has to opt out. The evergreen method **does not work** for expensive subscriptions to large companies.
 
 Finally, websites Warrillow recommends (and his own):
+
+Warrillow's Forbes Blog: [Warrilow for Forbes](https://www.forbes.com/sites/johnwarrillow/#6101346f1ce3)
+
+Warrillow's Value Builder Site: [Valuebuildersystem.com](https://valuebuildersystem.com/)
+
+David Skok's Blog: [Forentrepreneurs.com](https://www.forentrepreneurs.com/)
+
+Jason Cohen's Blog: [Smartbear.com](https://smartbear.com/blog/)

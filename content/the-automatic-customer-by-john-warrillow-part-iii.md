@@ -1,7 +1,7 @@
 ---
 title: The Automatic Customer by John Warrillow Part III
 date: '2019-06-12T17:43:17+09:30'
-draft: 'true'
+draft: 'false'
 ---
 The why and the what is covered - onto the how.
 

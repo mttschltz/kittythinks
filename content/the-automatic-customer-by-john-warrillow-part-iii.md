@@ -49,7 +49,7 @@ Customer are starting to experience fatigue. They realized that they're likely t
 4. Freemium - a free taste of what's to come (continuously available).
 5. The Trial - Like a freemium, but with a start and end date.
 6. The Gift - bank on customers' need to be nice to others.
-7.  Fire! - To prevent subscription stagnation, create artificial FOMO (e.g. through _"If you subscribe until X time, you will get your subscription for Y price! Limited time only!"_)
+7. Fire! - To prevent subscription stagnation, create artificial FOMO (e.g. through _"If you subscribe until X time, you will get your subscription for Y price! Limited time only!"_)
 
 One's first sale is to one's employees and partners. Warrillow's knock-out argument is that working for a subscription company makes workloads more predictable.
 
@@ -61,4 +61,23 @@ The higher the churn, the less LTV one can capture (as shown below):
 
 ![The higher the churn, the less LTV one can capture.](/images/uploads/img_20190612_182815.jpg)
 
-> _A little bit of churn will always happen, and trying to winnow down your churn to zero is a futile battle._
+> "
+>
+> _A little bit of churn will always happen, and trying to winnow down your churn to zero is a futile battle."_
+
+To lower churn, identify why people leave and how to improve the offering. The highest churn rate is for subscriptions that insert themselves into a customers' daily life. To prevent them leaving, the subscription must become part of their routine.
+
+Warrillow further explains the 90 day clock idea to lower churn: Once a customer is reeled in, one has 90 days to onboard them. To get the highest customer lifetime value, consider:
+
+* expectation of high levels of interaction
+* expectation to be asked for personal information
+* open to new offers ("switch mode")
+* likely to defect
+
+The biggest reason why people unsubscribe is lack of use. 90-day markers are useful tools to check if you changes has changed their behaviour. How-To: Provide a quick win to up motivation to learn more
+
+> Charging upfront also lowers churn (unless one provides refunds). 
+>
+> _"\[...] the more your customers pay up front, the more motivated they are to make the behavioral change needed to "get their money's worth"."_
+>
+>

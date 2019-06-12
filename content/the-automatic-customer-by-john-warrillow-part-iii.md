@@ -74,10 +74,14 @@ Warrillow further explains the 90 day clock idea to lower churn: Once a customer
 * open to new offers ("switch mode")
 * likely to defect
 
-The biggest reason why people unsubscribe is lack of use. 90-day markers are useful tools to check if you changes has changed their behaviour. How-To: Provide a quick win to up motivation to learn more
+The biggest reason why people unsubscribe is lack of use. 90-day markers are useful tools to check if you changes has changed their behaviour. How-To: Provide a quick win to up motivation to learn more.
 
-> Charging upfront also lowers churn (unless one provides refunds). 
->
 > _"\[...] the more your customers pay up front, the more motivated they are to make the behavioral change needed to "get their money's worth"."_
->
->
+
+Charging upfront also lowers churn (unless one provides refunds). 
+
+Another interesting churn-lowering idea is to provide "happiness bombs". Little unexpected treats for a/some customers. E.g. Barkbox providing extra treats for dog who lost playmate.
+
+More conservative approaches: target larger businesses for more stability or go "evergreen", meaning instead of opting in, a customer has to opt out. The evergreen method **does not work** for expensive subscriptions to large companies.
+
+Finally, websites Warrillow recommends (and his own):

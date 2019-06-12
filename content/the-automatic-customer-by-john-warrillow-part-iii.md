@@ -55,4 +55,10 @@ One's first sale is to one's employees and partners. Warrillow's knock-out argum
 
 > _"Churn is often ignored in the early days of subscription businesses because lost revenue from customers who leave is easily made up by new customers. But the larger the company becomes, the more corrosive effect churn has."_
 
-Churn = the number of customers who cancel the subscription.
+Churn = the number of customers who cancel the subscription. 
+
+The higher the churn, the less LTV one can capture (as shown below):
+
+![The higher the churn, the less LTV one can capture.](/images/uploads/img_20190612_182815.jpg)
+
+> _A little bit of churn will always happen, and trying to winnow down your churn to zero is a futile battle._

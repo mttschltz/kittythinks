@@ -50,3 +50,9 @@ Customer are starting to experience fatigue. They realized that they're likely t
 5. The Trial - Like a freemium, but with a start and end date.
 6. The Gift - bank on customers' need to be nice to others.
 7.  Fire! - To prevent subscription stagnation, create artificial FOMO (e.g. through _"If you subscribe until X time, you will get your subscription for Y price! Limited time only!"_)
+
+One's first sale is to one's employees and partners. Warrillow's knock-out argument is that working for a subscription company makes workloads more predictable.
+
+> _"Churn is often ignored in the early days of subscription businesses because lost revenue from customers who leave is easily made up by new customers. But the larger the company becomes, the more corrosive effect churn has."_
+
+Churn = the number of customers who cancel the subscription.

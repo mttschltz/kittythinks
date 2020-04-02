@@ -32,9 +32,9 @@ _Abortive _ = Miscarriage
 
 _Aged _
 
-_Ague_
+_Ague = Malaria_
 
-_Apoplexie_
+_Apoplexie = Stroke_
 
 _Bedridden_
 
@@ -42,13 +42,13 @@ _Blasted_
 
 _Bleeding_
 
-_Bloody Flux_
+_Bloody Flux = Dysentry_
 
 _Broken Legge_
 
 _Bruised_
 
-_Calenture_
+_Calenture = Heatstroke_
 
 _Cancer_
 
@@ -56,21 +56,21 @@ _Canker_
 
 _Childbed_
 
-_Chrisomes_
+_Chrisomes = Child dead in its first month of life_
 
 _Cold_
 
 _Collick_
 
-_Consumption_
+_Consumption = Tuberculosis_
 
 _Convulsions_
 
 _Cough_
 
-_Distracted_
+_Distracted = Perhaps senility?_
 
-_Dropsie_
+_Dropsie = Edema_
 
 _Executed_
 
@@ -80,21 +80,21 @@ _Fistula_
 
 _Flox and Small-pox_
 
-_French-pox_
+_French-pox = Syphilis_
 
 _Frighted_
 
 _Gangrene_
 
-_Gowt_
+_Gowt = Gout_
 
 _Grief_
 
-_Griping in the Guts_
+_Griping in the Guts = Abdominal Cramps_
 
 _Headache_
 
-_Head-Mould-Shot_
+_Head-Mould-Shot = Craniosynostosis_
 
 _Jaundice/Jaundies_
 

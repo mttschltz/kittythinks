@@ -138,7 +138,7 @@ _Rupture_
 
 _Sciatica = Pain in the Hip & Back (death by treatment?)_
 
-_Diarrhea_
+_Scowring = Diarrhea_
 
 _Scurvy_
 
@@ -154,11 +154,11 @@ _Sore Throat_
 
 _Spleen_
 
-_Spotted Feaver_
+_Spotted Feaver = Either Typhus or Meningitis_
 
 _Stilborn_
 
-_Strangury_
+_Strangury = Inability to Urinate (symptom for UTI's or Kidney Issues)_
 
 _Stone_
 

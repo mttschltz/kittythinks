@@ -132,13 +132,13 @@ _Quinsie = Suffocation by Tonsilitis_
 
 _Rickets_
 
-_Rising of the Lights = _
+_Rising of the Lights = Croup_
 
 _Rupture_
 
-_Sciatica_
+_Sciatica = Pain in the Hip & Back (death by treatment?)_
 
-_Scowring_
+_Diarrhea_
 
 _Scurvy_
 

@@ -26,7 +26,7 @@ Problematically, these are most certainly not the real numbers of death at the t
 
 It must be assumed that the real number of deaths during this time is around 100.000.
 
-## All Other Causes of Death in _London's Dreadful Visitation_
+## All Other Causes of Death in _London's Dreadful Visitation (and a quick explanation of the most curious ones)_
 
 _Abortive_ = Miscarriage
 

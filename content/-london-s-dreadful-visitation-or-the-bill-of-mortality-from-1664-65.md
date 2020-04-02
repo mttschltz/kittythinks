@@ -32,9 +32,9 @@ _Abortive _ = Miscarriage
 
 _Aged _
 
-_Ague = Malaria_
+_Ague = _Malaria
 
-_Apoplexie = Stroke_
+_Apoplexie = _Stroke
 
 _Bedridden_
 
@@ -42,13 +42,13 @@ _Blasted_
 
 _Bleeding_
 
-_Bloody Flux = Dysentry_
+_Bloody Flux = _Dysentry
 
 _Broken Legge_
 
 _Bruised_
 
-_Calenture = Heatstroke_
+_Calenture = _Heatstroke
 
 _Cancer_
 
@@ -56,21 +56,21 @@ _Canker_
 
 _Childbed_
 
-_Chrisomes = Child dead in its first month of life_
+_Chrisomes = _Child dead in its first month of life
 
 _Cold_
 
 _Collick_
 
-_Consumption = Tuberculosis_
+_Consumption = _Tuberculosis
 
 _Convulsions_
 
 _Cough_
 
-_Distracted = Perhaps senility?_
+_Distracted = _Perhaps senility?
 
-_Dropsie = Edema_
+_Dropsie = _Edema
 
 _Executed_
 
@@ -80,47 +80,47 @@ _Fistula_
 
 _Flox and Small-pox_
 
-_French-pox = Syphilis_
+_French-pox = _Syphilis
 
 _Frighted_
 
 _Gangrene_
 
-_Gowt = Gout_
+_Gowt = _Gout
 
 _Grief_
 
-_Griping in the Guts = Abdominal Cramps_
+_Griping in the Guts = _Abdominal Cramps
 
 _Headache_
 
-_Head-Mould-Shot = Craniosynostosis (crushed soft plate in newborns)_
+_Head-Mould-Shot = _Craniosynostosis (crushed soft plate in newborns)
 
 _Jaundice/Jaundies_
 
-_Imposthume = Abscess (filled with pus)_
+_Imposthume = _Abscess (filled with pus)
 
-_Infants = Yet unable to Speak_
+_Infants = _Yet unable to Speak
 
 _Barking_
 
-_Kingsevil = Scrufola (Tuberculosis of the Neck_
+_Kingsevil = _Scrufola (Tuberculosis of the Neck
 
 _Lethargy_
 
-_Livergrown = Enlarged Liver_
+_Livergrown = _Enlarged Liver
 
-_Meagrome = Migraine_
+_Meagrome = _Migraine
 
 _Measles_
 
-_Mother = Childbed Fever?_
+_Mother = _Childbed Fever?
 
-_Mouldfallen = Craniosynostosis (crushed soft plate in newborns)_
+_Mouldfallen = _Craniosynostosis (crushed soft plate in newborns)
 
-_Overlaid = Crushed (likely a baby by an adult)_
+_Overlaid = _Crushed (likely a baby by an adult)
 
-_Palsie = Paralysis_
+_Palsie = _Paralysis
 
 _Plannet = _Death by misaligned Planets
 

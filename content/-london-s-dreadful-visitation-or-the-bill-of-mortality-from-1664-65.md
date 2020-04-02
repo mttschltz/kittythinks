@@ -1,5 +1,5 @@
 ---
-title: '"London''s Dreadful Visitation" or the Bill of Mortality from 1664-65'
+title: London's Dreadful Visitation or the Bill of Mortality from 1664-65
 date: '2020-04-02T13:57:17+10:30'
 draft: 'false'
 ---

@@ -1,7 +1,7 @@
 ---
 title: '"London''s Dreadful Visitation" or the Bill of Mortality from 1664-65'
 date: '2020-04-02T13:57:17+10:30'
-draft: 'true'
+draft: 'false'
 ---
 Something a bit different. In light of the current pandemic, I thought it would be interesting to review how pandemics were handled in olden times. This is concerning the Great Plague of London in 1665, cause by a bacterium, Yersinia pestis. 
 

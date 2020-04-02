@@ -166,23 +166,23 @@ _Stopping of the Stomach = Tenesmus (inability to vacate bowels)_
 
 _Suddenly = Better than Slowly?_
 
-_Surfeit_
+_Surfeit = Excess of - unclear what the excess was here_
 
 _Teeth_
 
-_Thrush_
+_Thrush = Fungal Infection_
 
-_Timpany_
+_Timpany = Bloating of the Digestive Tract_
 
-_Tissick_
+_Tissick = Lung Problems (Asthma, Bronchitis, Tuberculosis)_
 
 _Ulcer_
 
 _Vomiting_
 
-_Wen_
+_Wen = Abnormal Growth on the Skin_
 
-_Winde_
+_Winde = Gastrointestinal Issue_
 
 _Wormes_
 

@@ -28,13 +28,13 @@ It must be assumed that the real number of deaths during this time is around 100
 
 ## All Other Causes of Death in _London's Dreadful Visitation_
 
-_Abortive _ = Miscarriage
+_Abortive_ = Miscarriage
 
-_Aged _
+_Aged_
 
-_Ague = _Malaria
+_Ague_ = Malaria
 
-_Apoplexie = _Stroke
+_Apoplexie_ = Stroke
 
 _Bedridden_
 
@@ -42,13 +42,13 @@ _Blasted_
 
 _Bleeding_
 
-_Bloody Flux = _Dysentry
+_Bloody Flux_ = Dysentry
 
 _Broken Legge_
 
 _Bruised_
 
-_Calenture = _Heatstroke
+_Calenture_ = Heatstroke
 
 _Cancer_
 
@@ -56,21 +56,21 @@ _Canker_
 
 _Childbed_
 
-_Chrisomes = _Child dead in its first month of life
+_Chrisomes_ = Child dead in its first month of life
 
 _Cold_
 
 _Collick_
 
-_Consumption = _Tuberculosis
+_Consumption_ = Tuberculosis
 
 _Convulsions_
 
 _Cough_
 
-_Distracted = _Perhaps senility?
+_Distracted_ = Perhaps senility?
 
-_Dropsie = _Edema
+_Dropsie_ = Edema
 
 _Executed_
 
@@ -80,65 +80,65 @@ _Fistula_
 
 _Flox and Small-pox_
 
-_French-pox = _Syphilis
+_French-pox_ = Syphilis
 
 _Frighted_
 
 _Gangrene_
 
-_Gowt = _Gout
+_Gowt_ = Gout
 
 _Grief_
 
-_Griping in the Guts = _Abdominal Cramps
+_Griping in the Guts_ = Abdominal Cramps
 
 _Headache_
 
-_Head-Mould-Shot = _Craniosynostosis (crushed soft plate in newborns)
+_Head-Mould-Shot_ = Craniosynostosis (crushed soft plate in newborns)
 
 _Jaundice/Jaundies_
 
-_Imposthume = _Abscess (filled with pus)
+_Imposthume_ = Abscess (filled with pus)
 
-_Infants = _Yet unable to Speak
+_Infants_ = Yet unable to Speak
 
 _Barking_
 
-_Kingsevil = _Scrufola (Tuberculosis of the Neck
+_Kingsevil_ = Scrufola (Tuberculosis of the Neck
 
 _Lethargy_
 
-_Livergrown = _Enlarged Liver
+_Livergrown_ = Enlarged Liver
 
-_Meagrome = _Migraine
+_Meagrome_ = Migraine
 
 _Measles_
 
-_Mother = _Childbed Fever?
+_Mother_ = Childbed Fever?
 
-_Mouldfallen = _Craniosynostosis (crushed soft plate in newborns)
+_Mouldfallen_ = Craniosynostosis (crushed soft plate in newborns)
 
-_Overlaid = _Crushed (likely a baby by an adult)
+_Overlaid_ = Crushed (likely a baby by an adult)
 
-_Palsie = _Paralysis
+_Palsie_ = Paralysis
 
-_Plannet = _Death by misaligned Planets
+_Plannet_ = Death by misaligned Planets
 
-_Plurisie = _Inflammation of the Lungs
+_Plurisie_ = Inflammation of the Lungs
 
-_Purples = _Blood underneath the Skin
+_Purples_ = Blood underneath the Skin
 
-_Quinsie = _Suffocation by Tonsilitis
+_Quinsie_ = _uffocation by Tonsilitis
 
 _Rickets_
 
-_Rising of the Lights = _Croup
+_Rising of the Lights_ = Croup
 
 _Rupture_
 
-_Sciatica = _Pain in the Hip & Back (death by treatment?)
+_Sciatica_ = Pain in the Hip & Back (death by treatment?)
 
-_Scowring = _Diarrhea
+_Scowring_ = Diarrhea
 
 _Scurvy_
 
@@ -154,35 +154,35 @@ _Sore Throat_
 
 _Spleen_
 
-_Spotted Feaver = _Either Typhus or Meningitis
+_Spotted Feaver_ = Either Typhus or Meningitis
 
 _Stilborn_
 
-_Strangury = _Inability to Urinate (symptom for UTI's or Kidney Issues)
+_Strangury_ = Inability to Urinate (symptom for UTI's or Kidney Issues)
 
 _Stone_
 
-_Stopping of the Stomach = _Tenesmus (inability to vacate bowels)
+_Stopping of the Stomach_ = Tenesmus (inability to vacate bowels)
 
-_Suddenly = _Better than Slowly?
+_Suddenly_ = Better than Slowly?
 
-_Surfeit = _Excess of - unclear what the excess was here
+_Surfeit_ = Excess of - unclear what the excess was here
 
-_Teeth = _Possibly death during teething in an infant
+_Teeth_ = Possibly death during teething in an infant
 
-_Thrush = _Fungal Infection
+_Thrush_ = Fungal Infection
 
-_Timpany = _Bloating of the Digestive Tract
+_Timpany_ = Bloating of the Digestive Tract
 
-_Tissick = _Lung Problems (Asthma, Bronchitis, Tuberculosis)
+_Tissick_ = Lung Problems (Asthma, Bronchitis, Tuberculosis)
 
 _Ulcer_
 
 _Vomiting_
 
-_Wen = _Abnormal Growth on the Skin
+_Wen_ = Abnormal Growth on the Skin
 
-_Winde = _Gastrointestinal Issue
+_Winde_ = Gastrointestinal Issue
 
 _Wormes_
 

@@ -162,9 +162,9 @@ _Strangury = Inability to Urinate (symptom for UTI's or Kidney Issues)_
 
 _Stone_
 
-_Stopping of the Stomach_
+_Stopping of the Stomach = Tenesmus (inability to vacate bowels)_
 
-_Suddenly_
+_Suddenly = Better than Slowly?_
 
 _Surfeit_
 

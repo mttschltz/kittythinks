@@ -122,23 +122,23 @@ _Overlaid = Crushed (likely a baby by an adult)_
 
 _Palsie = Paralysis_
 
-_Plannet = Death by misaligned Planets_
+_Plannet = _Death by misaligned Planets
 
-_Plurisie = Inflammation of the Lungs_
+_Plurisie = _Inflammation of the Lungs
 
-_Purples = Blood underneath the Skin_
+_Purples = _Blood underneath the Skin
 
-_Quinsie = Suffocation by Tonsilitis_
+_Quinsie = _Suffocation by Tonsilitis
 
 _Rickets_
 
-_Rising of the Lights = Croup_
+_Rising of the Lights = _Croup
 
 _Rupture_
 
-_Sciatica = Pain in the Hip & Back (death by treatment?)_
+_Sciatica = _Pain in the Hip & Back (death by treatment?)
 
-_Scowring = Diarrhea_
+_Scowring = _Diarrhea
 
 _Scurvy_
 
@@ -154,35 +154,35 @@ _Sore Throat_
 
 _Spleen_
 
-_Spotted Feaver = Either Typhus or Meningitis_
+_Spotted Feaver = _Either Typhus or Meningitis
 
 _Stilborn_
 
-_Strangury = Inability to Urinate (symptom for UTI's or Kidney Issues)_
+_Strangury = _Inability to Urinate (symptom for UTI's or Kidney Issues)
 
 _Stone_
 
-_Stopping of the Stomach = Tenesmus (inability to vacate bowels)_
+_Stopping of the Stomach = _Tenesmus (inability to vacate bowels)
 
-_Suddenly = Better than Slowly?_
+_Suddenly = _Better than Slowly?
 
-_Surfeit = Excess of - unclear what the excess was here_
+_Surfeit = _Excess of - unclear what the excess was here
 
-_Teeth_
+_Teeth = _Possibly death during teething in an infant
 
-_Thrush = Fungal Infection_
+_Thrush = _Fungal Infection
 
-_Timpany = Bloating of the Digestive Tract_
+_Timpany = _Bloating of the Digestive Tract
 
-_Tissick = Lung Problems (Asthma, Bronchitis, Tuberculosis)_
+_Tissick = _Lung Problems (Asthma, Bronchitis, Tuberculosis)
 
 _Ulcer_
 
 _Vomiting_
 
-_Wen = Abnormal Growth on the Skin_
+_Wen = _Abnormal Growth on the Skin
 
-_Winde = Gastrointestinal Issue_
+_Winde = _Gastrointestinal Issue
 
 _Wormes_
 

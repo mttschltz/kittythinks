@@ -94,7 +94,7 @@ _Griping in the Guts = Abdominal Cramps_
 
 _Headache_
 
-_Head-Mould-Shot = Craniosynostosis_
+_Head-Mould-Shot = Craniosynostosis (crushed soft plate in newborns)_
 
 _Jaundice/Jaundies_
 
@@ -114,13 +114,13 @@ _Meagrome = Migraine_
 
 _Measles_
 
-_Mother_
+_Mother = Childbed Fever?_
 
-_Mouldfallen_
+_Mouldfallen = Craniosynostosis (crushed soft plate in newborns)_
 
-_Overlaid_
+_Overlaid = Crushed (likely a baby by an adult)_
 
-_Palsie_
+_Palsie = Paralysis_
 
 _Plannet_
 

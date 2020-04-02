@@ -122,17 +122,17 @@ _Overlaid = Crushed (likely a baby by an adult)_
 
 _Palsie = Paralysis_
 
-_Plannet_
+_Plannet = Death by misaligned Planets_
 
-_Plurisie_
+_Plurisie = Inflammation of the Lungs_
 
-_Purples_
+_Purples = Blood underneath the Skin_
 
-_Quinsie_
+_Quinsie = Suffocation by Tonsilitis_
 
 _Rickets_
 
-_Rising of the Lights_
+_Rising of the Lights = _
 
 _Rupture_
 

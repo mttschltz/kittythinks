@@ -98,19 +98,19 @@ _Head-Mould-Shot = Craniosynostosis_
 
 _Jaundice/Jaundies_
 
-_Imposthume_
+_Imposthume = Abscess (filled with pus)_
 
-_Infants_
+_Infants = Yet unable to Speak_
 
 _Barking_
 
-_Kingsevil_
+_Kingsevil = Scrufola (Tuberculosis of the Neck_
 
 _Lethargy_
 
-_Livergrown_
+_Livergrown = Enlarged Liver_
 
-_Meagrome_
+_Meagrome = Migraine_
 
 _Measles_
 

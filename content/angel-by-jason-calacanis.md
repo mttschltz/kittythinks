@@ -30,11 +30,11 @@ Other potential outcomes are so called **acquihires**, in which a company is acq
 
 _Angel Skills:_
 
-1. _Money _(have it)
-2. _Time _(give it)
-3. _Network _(connect them)
+1. _Money_(have it)
+2. _Time_(give it)
+3. _Network_(connect them)
 4. _Expertise_ (teach them)
-5. _People Skills _(read them)
+5. _People Skills_(read them)
 
 >
 
@@ -82,7 +82,7 @@ How to **meet a founder**:
 * Businesses made from bits > businesses made from atoms
 * It is easier to know what won't work
 
-How to** judge a founder**:
+How to **judge a founder**:
 
 * Question why a founder doesn't want to do certain jobs
 * Question why they think they will have "balance" in their life
@@ -91,11 +91,11 @@ Write **deal memos**.
 
 Insist on **monthly updates**.
 
-Bad founders are revealed in** year 2**.
+Bad founders are revealed in **year 2**.
 
 "**Feature Death March**" - the belief that just adding two or three more features will surely help to make a company big.
 
-If **the press **calls, tell the founder and avoid answering the journalist.
+If **the press** calls, tell the founder and avoid answering the journalist.
 
 Some angels **bet on founders**, some **on problems**, some **on delight** and some **on markets**. Decide.
 
@@ -107,7 +107,7 @@ Some angels **bet on founders**, some **on problems**, some **on delight** and s
 4. Write on Paper
 5. Demand monthly updates
 
-**Useful Quotes:**
+**Useful Quotes**:
 
 > _"When you first start investing, you should meet with as many people as possible but invest in as few deals as possible."_
 >

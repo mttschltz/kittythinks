@@ -109,8 +109,7 @@ Some angels **bet on founders**, some **on problems**, some **on delight** and s
 4. Write on Paper
 5. Demand monthly updates
 
-**Useful Quotes
-**:
+**Useful Quotes**:
 
 > _"When you first start investing, you should meet with as many people as possible but invest in as few deals as possible."_
 >

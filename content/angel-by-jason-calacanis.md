@@ -89,6 +89,8 @@ How to judge a founder:
 
 Write deal memos.
 
-
+Insist on monthly updates.
 
 > _"Your challenge isn't writing checks, it's convincing the right founders to cash them."_
+>
+> _"Avoid the liars. Embrace the delusional."_

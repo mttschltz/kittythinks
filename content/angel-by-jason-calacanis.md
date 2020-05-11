@@ -36,7 +36,7 @@ _Angel Skills:_
 4. _Expertise_ (teach them)
 5. _People Skills _(read them)
 
-> _"When you first start investing, you should meet with as many people as possible but invest in as few deals as possible."_
+>
 
 _Angel How-To's:_
 
@@ -48,9 +48,9 @@ Your time is valuable.
 
 **Angel Syndicates** are groups of investors willing to pool together under a leader, to invest together. They is a **carry**, or carried interest, and it is the share of profits that go to the syndicate lead.
 
-New Angels should do 10 small syndicate investments first before direct investing. This may get you a return, or if nothing else, a reputation.
+New Angels should do **10 small syndicate investments** first before direct investing. This may get you a return, or if nothing else, a reputation.
 
-On how to choose an investment while using a syndicate: 
+On **how to choose an investment** while using a syndicate: 
 
 1. Lead has at least 5 years investing experience and one unicorn investment.
 2. Situated in Silicon Valley.
@@ -60,16 +60,16 @@ On how to choose an investment while using a syndicate:
 6. Notable Investors.
 7. Post-funding, 18 months runway.
 
-On building 'social currency' with other angels:
+On building '**social currency**' with other angels:
 
 * Create spreadsheet of all co-investors in ten startups invested in (~600 investors)
 * Add LinkedIn, Syndicate, Twitter & Facebook URLs
 * Connect with each on all platforms
 * Make Twitter list titled "co_investors" and add all investors, fav, retweet & reply to fellow investors' tweets 1-2 times daily
 
-Don't fall for artificial deadlines and scarcity.
+**Don't fall for artificial deadlines and scarcity.**
 
-How to meet a founder:
+How to **meet a founder**:
 
 * 1h minimum + 30 minutes
 * Full attention
@@ -82,15 +82,35 @@ How to meet a founder:
 * Businesses made from bits > businesses made from atoms
 * It is easier to know what won't work
 
-How to judge a founder:
+How to** judge a founder**:
 
 * Question why a founder doesn't want to do certain jobs
 * Question why they think they will have "balance" in their life
 
-Write deal memos.
+Write **deal memos**.
 
-Insist on monthly updates.
+Insist on **monthly updates**.
 
+Bad founders are revealed in** year 2**.
+
+"**Feature Death March**" - the belief that just adding two or three more features will surely help to make a company big.
+
+If **the press **calls, tell the founder and avoid answering the journalist.
+
+Some angels **bet on founders**, some **on problems**, some **on delight** and some **on markets**. Decide.
+
+**SUPER SUMMARY**
+
+1. Only Silicon Valley
+2. Always Meet
+3. Due Diligence
+4. Write on Paper
+5. Demand monthly updates
+
+**Useful Quotes:**
+
+> _"When you first start investing, you should meet with as many people as possible but invest in as few deals as possible."_
+>
 > _"Your challenge isn't writing checks, it's convincing the right founders to cash them."_
 >
 > _"Avoid the liars. Embrace the delusional."_

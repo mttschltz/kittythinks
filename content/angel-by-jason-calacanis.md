@@ -69,6 +69,26 @@ On building 'social currency' with other angels:
 
 Don't fall for artificial deadlines and scarcity.
 
+How to meet a founder:
+
+* 1h minimum + 30 minutes
+* Full attention
+* "Let me turn off my phone"
+* Pen & paper
+* Conference room > Coffee Shop
+* Asking for more detail shows beforehand shows that you are focused on things that matter
+* Never say Yes or No during a pitch
+* Go for big ideas & strong founders
+* Businesses made from bits > businesses made from atoms
+* It is easier to know what won't work
+
+How to judge a founder:
+
+* Question why a founder doesn't want to do certain jobs
+* Question why they think they will have "balance" in their life
+
+Write deal memos.
+
+
+
 > _"Your challenge isn't writing checks, it's convincing the right founders to cash them."_
->
->

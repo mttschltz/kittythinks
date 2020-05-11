@@ -111,9 +111,9 @@ Some angels **bet on founders**, some **on problems**, some **on delight** and s
 
 **Useful Quotes**:
 
->  _"When you first start investing, you should meet with as many people as possible but invest in as few deals as possible."_
+>  
 >
-> _<!>_
+> _<!"When you first start investing, you should meet with as many people as possible but invest in as few deals as possible.">_
 >
 > _"Your challenge isn't writing checks, it's convincing the right founders to cash them."_
 >

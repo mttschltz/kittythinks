@@ -13,7 +13,7 @@ In the fashion of previous business book summaries, I will keep this to the poin
 _Founding Rounds for Businesses (rarely all observed):_
 
 * _Sweat Equity_ = founders work or free
-* _Bootstrapping_ = money found outside o investors (e.g. clients willing to finance product)
+* _Bootstrapping_ = money found outside of investors (e.g. clients willing to finance product)
 * _Friends & Family_
 * _Self-funding_
 * _Incubator Funding =_ 5-10% seed funding (25k-150k)
@@ -24,9 +24,9 @@ _Founding Rounds for Businesses (rarely all observed):_
 
 _For Whom Angel Investing Is:_
 
-Angel investing is done for businesses **less than three years** old, with **no traction**, which are **looking for product or market fit**.
+Angel investing is done for businesses **less than three years** old, with **no traction**, which are **looking for product or market fit**. That is, when direct investing. Syndicate investing will be discussed below.
 
-If a business has achieved monetization, it is either bought by a bigger company or it goes public. Both of these outcomes, which are giving investors a return on their money, are known as **exit**.
+If a business has achieved sufficient monetization, it is either bought by a bigger company or it goes public. Both of these outcomes, which are giving investors a return on their money, are known as **exit**.
 
 Other potential outcomes are so called **acquihires**, in which a company is acquired specifically to hire it's talent, and **unicorn** companies which manage to get a value of 1 billion USD.
 
@@ -113,10 +113,6 @@ Some angels **bet on founders**, some **on problems**, some **on delight** and s
 
 >  _"When you first start investing, you should meet with as many people as possible but invest in as few deals as possible."_
 >
->
->
 > _"Your challenge isn't writing checks, it's convincing the right founders to cash them."_
->
->
 >
 > _"Avoid the liars. Embrace the delusional."_

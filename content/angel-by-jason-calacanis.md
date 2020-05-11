@@ -8,6 +8,8 @@ This book concerns angel investing, the early stage of raising cash for startups
 
 In the fashion of previous business book summaries, I will keep this to the point, for easy perusing.
 
+![](/images/uploads/angel.jpg)
+
 _Founding Rounds for Businesses (rarely all observed):_
 
 * _Sweat Equity_ = founders work or free
@@ -107,7 +109,8 @@ Some angels **bet on founders**, some **on problems**, some **on delight** and s
 4. Write on Paper
 5. Demand monthly updates
 
-**Useful Quotes**:
+**Useful Quotes
+**:
 
 > _"When you first start investing, you should meet with as many people as possible but invest in as few deals as possible."_
 >

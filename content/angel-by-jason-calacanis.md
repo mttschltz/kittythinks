@@ -35,3 +35,40 @@ _Angel Skills:_
 3. _Network _(connect them)
 4. _Expertise_ (teach them)
 5. _People Skills _(read them)
+
+> _"When you first start investing, you should meet with as many people as possible but invest in as few deals as possible."_
+
+_Angel How-To's:_
+
+Pro rata means continued investing in subsequent round so one may maintain one's original percentage in a company. It is advised to insist on** pro rata rights** in contracts with companies.
+
+Relocate to Silicon Valley or Sweden.
+
+Your time is valuable.
+
+**Angel Syndicates** are groups of investors willing to pool together under a leader, to invest together. They is a **carry**, or carried interest, and it is the share of profits that go to the syndicate lead.
+
+New Angels should do 10 small syndicate investments first before direct investing. This may get you a return, or if nothing else, a reputation.
+
+On how to choose an investment while using a syndicate: 
+
+1. Lead has at least 5 years investing experience and one unicorn investment.
+2. Situated in Silicon Valley.
+3. At least 2 founders.
+4. Product or service is already in the market.
+5. Either 6 months of continuous user growth or 6 months of revenue.
+6. Notable Investors.
+7. Post-funding, 18 months runway.
+
+On building 'social currency' with other angels:
+
+* Create spreadsheet of all co-investors in ten startups invested in (~600 investors)
+* Add LinkedIn, Syndicate, Twitter & Facebook URLs
+* Connect with each on all platforms
+* Make Twitter list titled "co_investors" and add all investors, fav, retweet & reply to fellow investors' tweets 1-2 times daily
+
+Don't fall for artificial deadlines and scarcity.
+
+> _"Your challenge isn't writing checks, it's convincing the right founders to cash them."_
+>
+>

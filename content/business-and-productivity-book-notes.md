@@ -89,13 +89,19 @@ Progression of ability - _Never tried = **NON-PARTICIPANT**  - Started but stopp
 
 **Useful Quotes:**
 
-> _“The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.”_
+> **\>**_“The right sort of practice carried out over a sufficient period of time leads to improvement. Nothing else.”_
 >
-> _“'Good enough' is generally good enough. However, if you wish to become significantly better at something, you can.”_
+> _<br>_
 >
-> _“If it doesn’t work, stop.”_
+> _\>“'Good enough' is generally good enough. However, if you wish to become significantly better at something, you can.”_
 >
-> _“Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.”_
+> _<br>_
+>
+> _\>“If it doesn’t work, stop.”_
+>
+> _<br>_
+>
+> _\>“Remember: if your mind is wandering or you’re relaxed and just having fun, you probably won’t improve.”_
 >
 > \
 >

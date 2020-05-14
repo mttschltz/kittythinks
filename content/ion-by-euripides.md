@@ -5,7 +5,7 @@ draft: 'true'
 ---
 Ion
 
-![](/images/uploads/ioncreusaathene.jpg)
+![null](/images/uploads/ioncreusaathene.jpg)
 
 **The Victims**
 
@@ -26,9 +26,31 @@ Hermes arrives in Delphi to announce that Creusa, daughter of King Erechtheus, h
 
 Hermes is tasked by his brother Apollo, to save the baby and lie him at Apollo's temple entrance. The child thus grows up as temple guardian.
 
-When Creusa and her husband Xuthus conveive no children, Xuthus goes to Apollo's temple and meets Ion. Apollo tells Xuthus that the child is his. \
+When Creusa and her husband Xuthus conveive no children, Xuthus goes to Apollo's temple.\
+\
 Creusa too comes to the temple soon after and openly weeps. When ask by the Chorus, she cryptically tells of the wickedness of the gods. When Creusa wants to speak to Apollo, she has to do so through Ion. She asks for Apollo to tell her what might have befallen the child. Ion is reluctant to ask his master, for he knows that Apollo does not like his honour hurt.
 
 Meanwhile, Xuthus arrives. Creusa quickly wants to know if her and her husband will have any children together. Xuthus, now in the know about Ion, tells his wife that they won't return home childless.
 
 Ion, conflicted still about Creusa's accusation towards Apollo, is starting to question his faith.
+
+> "
+>
+> _How can it be right for you to make laws for men, and appear as lawbreaker yourself?"_
+
+When Xuthus returns from praying to Apollo, he has an oracle that says the first man he meets is his son. He meets Ion and wants to embrace him. \
+Ion is sceptical however: he must have been born out of wedlock, and is a foreigner in Athens, and furthermore, Xuthus wife will now be childless by herself and surely hate Ion for his existence. Also, Ion doesn't want to be king, he likes his simple temple servant life. 
+
+The Chorus, serving Creusa, is torn: should they tell their mistress about this mysterious son and risk their own lives?
+
+To celebrate, Xuthus gives a feast for Apollo in his temple. At the feast, Creusa speaks to the Chorus who reveal to her that Xuthus got a son from Apollo, but she got nothing. Frenzied, Creusa decides she must kill this son. She has magic drops made of the blood of a Gorgon - one drop kills and one drop heals. She tasks a slave to add the drops to Ion's drink at the feast.
+
+She is found out however, and is condemned to die. Creusa is advised to pray at the altar of Apollo, for one praying there can not be killed. Ion is rightly outraged - this woman has tried to assassinate him! She should die!
+
+The Priestess of the temple interfere however and reminds Ion that his rage is a sin. She has come to  give him a parting gift, the cradle he was brought in as a baby. With this in hand, Ion can now go and find his mother.
+
+Creusa insists on having a look and cries out when she sees the cradle - it is the one she put her baby in all those years ago!
+
+Ion is understandably suspicious and devises and simple test: if Creusa is who she claims to be, she must know intimately what the items in the cradle are. Creusa does. She describes the unfinished woven clothes with a Gorgon's head on it and golden serpents and an olive wreath, still perfectly preserved. 
+
+Ion is now as shocked as Creusa - they are long lost mother and son!

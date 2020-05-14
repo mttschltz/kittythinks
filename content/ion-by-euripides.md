@@ -3,7 +3,7 @@ title: ION by Euripides
 date: '2020-05-14T17:08:26+09:30'
 draft: 'false'
 ---
-Ion
+## Ion
 
 ![null](/images/uploads/ioncreusaathene.jpg)
 
@@ -34,9 +34,7 @@ Meanwhile, Xuthus arrives. Creusa quickly wants to know if her and her husband w
 
 Ion, conflicted still about Creusa's accusation towards Apollo, is starting to question his faith.
 
-> "
->
-> _How can it be right for you to make laws for men, and appear as lawbreaker yourself?"_
+> "_How can it be right for you to make laws for men, and appear as lawbreaker yourself?"_
 
 When Xuthus returns from praying to Apollo, he has an oracle that says the first man he meets is his son. He meets Ion and wants to embrace him. \
 Ion is sceptical however: he must have been born out of wedlock, and is a foreigner in Athens, and furthermore, Xuthus wife will now be childless by herself and surely hate Ion for his existence. Also, Ion doesn't want to be king, he likes his simple temple servant life. 
@@ -55,7 +53,7 @@ Ion is understandably suspicious and devises and simple test: if Creusa is who s
 
 Ion is now as shocked as Creusa - they are long lost mother and son!
 
-> _"Can a moment change despair to ecstasy?" \[...] After today, nothing can ever again seem strange or unexpected."_
+> _"Can a moment change despair to ecstasy?" \[...] "After today, nothing can ever again seem strange or unexpected."_
 
 Ion still has a problem: is he low-born or Xuthus' son? Neither, Creusa admits, he is the product of Apollo's lust. 
 

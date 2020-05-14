@@ -54,3 +54,14 @@ Creusa insists on having a look and cries out when she sees the cradle - it is t
 Ion is understandably suspicious and devises and simple test: if Creusa is who she claims to be, she must know intimately what the items in the cradle are. Creusa does. She describes the unfinished woven clothes with a Gorgon's head on it and golden serpents and an olive wreath, still perfectly preserved. 
 
 Ion is now as shocked as Creusa - they are long lost mother and son!
+
+> _"Can a moment change despair to ecstasy?" \[...] After today, nothing can ever again seem strange or unexpected."_
+
+Ion still has a problem: is he low-born or Xuthus' son? Neither, Creusa admits, he is the product of Apollo's lust. 
+
+Athene now appears, just when Ion contemplates his fate, and tells Creusa and Ion that Apollo send her to prophesy thusly: Creusa must spare Xuthus with the true fatherhood of Ion, so that he may have an heir proper, and for this, Creusa and Xuthus will have children after all; both sons will be come rulers.\
+Ion too will have sons. His four children will become the originators of the four tribes of Greece and their sons will make cities through the land.
+
+Boht Ion and Creusa are thankful.
+
+> _"You have changed your curses into blessings: you do well. The ways of gods are slow; but in the end their power is shown."_

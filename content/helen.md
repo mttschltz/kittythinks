@@ -52,4 +52,4 @@ When Theoclymenus arrives from a hunting trip, he finds Helen dressed in mournin
 
 The ship is eventually away and soon, the ruse is uncovered. Theoclymenus is outraged, especially about his sister! In his rage, he decides to go and kill her, but a messenger stops him.
 
-Suddenly, the Dioscori appear.
+Suddenly, the Dioscori, a pair of deified brothers, appear. They agree with the brave messenger that Theonoe mustn't be harmed, and tell Theoclymenus that all the things that happened where indeed what fate had wanted. Theoclymenus accepts.

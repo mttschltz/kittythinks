@@ -31,4 +31,6 @@ Cassandra soon come forth to face her future, she has heard of a prophecy regard
 
 Menelaus, the general of the Greek army arrives as well. He is looking for Helen, his wife and the reason for the destruction of Troy. Helen tells her husband that she has been a bargaining chip of a goddess and been promised to Paris, another of Hecabe's sons. Menelaus does not believe the story and accuses Helen of adultery.
 
-Andromache's son
+In the interim, Andromache's son has been killed and his body is brought back to be buried. Hecabe is to do it.
+
+> _"What would the poet write for you as epitaph? 'This child the Argives killed because they feared him.' An inscription to make Hellas blush."_

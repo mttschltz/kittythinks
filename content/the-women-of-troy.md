@@ -5,6 +5,8 @@ draft: 'false'
 ---
 The Women of Troy
 
+![](/images/uploads/the-killing-of-astyanax.jpg)
+
 **The Divine**
 
 Poseidon\

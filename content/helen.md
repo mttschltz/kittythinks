@@ -22,9 +22,9 @@ The Dioscori
 
 **Story**
 
-Helen is in Egypt. She tells of her unusual origins. Zeus had raped her mother, Leda, while disguised as a swan. This divine descent made Helen a great beauty. All Zeus's daughters, Aphrodite, Hera and Athene, were beautiful, and in a fight over which was the prettiest, Aphrodite secures the win by bargaining Helen to Paris, a son of the king of Troy. 
+Helen is in Egypt. She tells of her unusual origins. Zeus had raped her mother, Leda, while disguised as a swan. This divine descent made Helen a great beauty. All Zeus's daughters, Aphrodite, Hera and Athene, were beautiful, and in a fight over which was the prettiest, Aphrodite secures the win by bargaining Helen to Paris, a son of the king of Troy.
 
-Helen's husband, Menelaus, believes her to be in Troy with Paris. He sails to find her and will start the Troyan War due to believing her to have willingly gone, this will make Helen reviled throughout Greece. Helen however, is not actually there - Zeus has put her into the palace of Proteus in Egypt. In her stead, Zeus has sent an illusion to Troy.
+Helen's husband, Menelaus, believes her to be in Troy with Paris. He sails to find her and will start the Troyan War due to believing her to have willingly gone, this will make Helen reviled throughout Greece. Helen however, is not there - Zeus has put her into the palace of Proteus in Egypt. In her stead, Zeus has sent an illusion to Troy.
 
 When Proteus dies, his son Theoclymenus inherits the throne and wants to marry Helen.
 
@@ -42,11 +42,11 @@ Meanwhile, Menelaus is shipwrecked upon an unknown shore. He is alive, but his j
 
 He comes upon a great house and calls out. The door is answered and he learns that he is at the palace of Proteus, now ruled by Theoclymenus, in Egypt. He also learns of a Helen being there.
 
-Helen is back from Theonoe with good news: her husband is alive! In fact, she sees him but does not recognize him. She thinks this man in rags must be an escort from Theocylmenus, come to capture her. Soon however, husband and wife realize their respective identities. Menelaus had been confused, but a messenger from the cave had reported that the Helen he brought had but disappeared. 
+Helen is back from Theonoe with good news: her husband is alive! She sees him but does not recognize him. She thinks this man in rags must be an escort from Theocylmenus, come to capture her. Soon however, husband and wife realize their respective identities. Menelaus had been confused, but a messenger from the cave had reported that the Helen he brought had but disappeared. 
 
 Now they have to escape - the only chance seems to be Theonoe, if she would lie to her brother, they could get away. Both plead with her, Helen through appealing to kindness, Menelaus by appeal to justice. Theonoe is swayed.
 
-To get away, Helen proposes a ruse to get a ship: she will  say Menelaus died at sea and that it is Greek custom to give a cenotaph to the waves.She will pretend that Menelaus, in his rags unrecognizable, is a survivour of Menelaus' crew and told her thus.
+To get away, Helen proposes a ruse to get a ship: she will say Menelaus died at sea and that it is Greek custom to give a cenotaph to the waves.She will pretend that Menelaus, in his rags unrecognizable, is a survivour of Menelaus' crew and told her thus.
 
 When Theoclymenus arrives from a hunting trip, he finds Helen dressed in mourning dress. She tells her tale and gives her consent to marry him. The ruse precedes flawlessly, as Theoclymenus is besotted with his now willing fiancé and agrees to everything she asked.
 

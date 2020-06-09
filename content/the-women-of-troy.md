@@ -34,3 +34,7 @@ Menelaus, the general of the Greek army arrives as well. He is looking for Helen
 In the interim, Andromache's son has been killed and his body is brought back to be buried. Hecabe is to do it.
 
 > _"What would the poet write for you as epitaph? 'This child the Argives killed because they feared him.' An inscription to make Hellas blush."_
+
+The remaining Greek soldiers are tasked to burn down the ruins of Troy and Helen attempts to fling herself in the fire. She is stopped however, and led to the ships that will take away from her home and her position.
+
+> _"Come, trembling aged feet, you must not fail me now. There your way lies: forward into slavery!"_

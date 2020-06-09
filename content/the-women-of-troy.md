@@ -5,7 +5,7 @@ draft: 'false'
 ---
 The Women of Troy
 
-![](/images/uploads/the-killing-of-astyanax.jpg)
+![null](/images/uploads/the-killing-of-astyanax.jpg)
 
 **The Divine**
 
@@ -27,7 +27,7 @@ It has been two days since the city of Troy fell and Poseidon weeps. He accuses 
 
 > _"I mean to make their homeward journey - unfortunate."_
 
-Meanwhile, Hecabe, the king's window, is grieving her fate. Cassandra will become bride to Agamemnon, king of Greece and Hecabe will be married to the king of Ithaca, Odysseus
+Meanwhile, Hecabe, the king's window, is grieving her fate. Cassandra will become bride to Agamemnon, king of Greece and Hecabe will be married to the king of Ithaca, Odysseus.
 
 Cassandra soon comes forth to face her future, she has heard of a prophecy regarding Odysseus and is unconcerned. Andromache too is devastated. Her husband, a son of Hecabe, is dead and her son has been taken from her. The Greek herald Talthybius soon comes to tell her that her infant son is destined to die.
 

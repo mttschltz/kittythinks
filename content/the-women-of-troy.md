@@ -27,4 +27,8 @@ It has been two days since the city of Troy fell and Poseidon weeps. He accuses 
 
 Meanwhile, Hecabe, the king's window, is grieving her own fate. Cassandra will become bride to Agamemnon, king of Greece and she herself will be married to the king of Ithaca, Odysseus
 
-Cassandra soon come forth to face her future, she has heard of a prophecy regarding Odysseus and is unconcerned. Andromache too is devastated. Her husband, a son of Hecabe, is dead and her son has been taken from her.
+Cassandra soon come forth to face her future, she has heard of a prophecy regarding Odysseus and is unconcerned. Andromache too is devastated. Her husband, a son of Hecabe, is dead and her son has been taken from her. The Greek herald Talthybius soon comes to tell her that her infant son is destined to die. 
+
+Menelaus, the general of the Greek army arrives as well. He is looking for Helen, his wife and the reason for the destruction of Troy. Helen tells her husband that she has been a bargaining chip of a goddess and been promised to Paris, another of Hecabe's sons. Menelaus does not believe the story and accuses Helen of adultery.
+
+Andromache's son

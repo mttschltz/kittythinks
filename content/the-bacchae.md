@@ -1,7 +1,7 @@
 ---
 title: THE BACCHAE
 date: '2020-06-16T14:13:33+09:30'
-draft: 'true'
+draft: 'false'
 ---
 The Bacchae
 
@@ -38,3 +38,12 @@ Even now, Pentheus is only intrigued but not changed. He wants to see the women 
 Soon, a messenger comes to the palace. Pentheus, he reports, is dead. When Pentheus and Dionysus went to the mountains, Dionysus made Pentheus climb a pine tree, and when the women heard Dionysus call out that the woman in the tree is in fact a man and here to spy on their sacred dances, they attacked the tree, had Pentheus fall to the ground and be mutilated by the assembled.
 
 > _"Women, here is the man who made a mock of you, and me, and of my holy rites. Now punish him."_
+
+Eventually, Agauē appears at the palace with her son's head in her hands - she does not know him, she thinks she is carrying a lions' head.
+
+Cadmus, anguished by what his daughter has done, slowly makes her see the truth. When Agauē realizes what she has done, she is rightly shocked and quickly begins funeral rites. 
+
+Dionysus now comes to pass judgement on them all. Agauē and her sister will be exiled forever. Cadmus and his wife will be turned into snakes, they will roam the land and destroy many places, but eventually, they will ascend to immortal life. \
+Father and daughter depart in sorrow to face their respective fate.
+
+> _"Poor child! I cannot tell how you can **fare well**; yet I say, Farewell!"_

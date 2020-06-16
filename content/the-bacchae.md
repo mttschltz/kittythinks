@@ -24,3 +24,7 @@ The god Dionysus, also known as Bacchus, is come and describes his background. H
 In Thebes rules king Pentheus, son of Cadmus. He is cousin to Dionysus, but believes the rumors of his inferior birth. Dionysus is determined to show that he is who he says he is.
 
 > _"Therefore I will demonstrate to him, and to all Thebes, that I am a god."_
+
+A seer, Teiresias, has come to meet his friend Cadmus. The two want to give libations to Dionysus. Meanwhile, Pentheus has captured some of the women, but many, including his mother Agauē, are still on the loose. He has heard of an oriental wizard who entices young women to Bacchism. Pentheus plans to behead this man - he is also cross with his father and Teiresias.
+
+> _"Listen: your grey hairs are your protection; otherwise you'd be sitting now in prison with all these crazy females, for promoting pernicious practices."_

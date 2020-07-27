@@ -7,7 +7,7 @@ _Plants can heal and plants can kill._
 
 _Mythology, history and cryptobotany have also produced plants that can do much more._
 
-_This is an overview of a small selection of mythtical plants, what they are, what they can do, how to get them and if there might be some reality behind the myth!_
+_Here's a small selection of mythtical plants - what they are, what they can do, how to get them and if there might be some reality behind the myth!_
 
 # 
 

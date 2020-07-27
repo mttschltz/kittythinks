@@ -9,6 +9,35 @@ _Mythology, history and cryptobotany have also produced plants that can do much 
 
 _This is an overview of a small selection of mythtical plants, what they are, what they can do, how to get them and if there might be some reality behind the myth!_
 
+# 
+
+# Barnacle Tree
+
+![null](/images/uploads/barnacle-tree-drawing.png)
+
+**Origin Story**
+
+Spontaneous evolution, the idea that an organism could originate without similar organisms, was a commonly believed hypothesis from antiquity to the mid-19th century. The idea of a tree bearing seashells and ultimately birds was reported and accepted in the Middle Ages until the 18th century. 
+
+**What the plant can do**
+
+The tree grows elongated barnacles, which in time will split open and reveal the legs of a bird. Slowly, the bird will mature and hang on the tree by its bill - then drop into the sea. "_\[...] where it gathereth feathers, and groweth to a foule, bigger than a Mallard, and lesser than a Goose_." (John Gerard in his Herball, or Generall Historie of Plantes, published in 1597). 
+
+The described bird is likely the Barnacle goose (Branta leicopsis), which, due to this myth, was considered "not of flesh" and thus eligible to be eaten on days in which meat was forbidden in Christianity. However, emperor Frederick II was highly sceptical of the origin story and put out when he was served the goose on a fast-day in 1456.
+
+**How to procure it**
+
+Found in Britain, most likely in the coastal areas in Lancashire. 
+
+**Is it real?**
+
+MAYBE! 
+A couple in Cornwall found one barnacle tree (sans baby birds) in 2011 and photographed it. The tree does indeed have goose barnacles (_Lepas anatifera_) on it.
+
+![null](/images/uploads/barnacletree1_smaller.png)
+
+![null](/images/uploads/barnacletree2_smaller.png)
+
 # Yggdrasil
 
 ![null](/images/uploads/yggdrasil-drawing.png)
@@ -37,33 +66,6 @@ To get to Yggdrasil, one must travel via Bifröst (the bridge of the gods) and t
 **Is it real?** 
 
 Probably not. We have too much evidence that the word isn't held up by a tree.
-
-# Barnacle Tree
-
-![null](/images/uploads/barnacle-tree-drawing.png)
-
-**Origin Story**
-
-Spontaneous evolution, the idea that an organism could originate without similar organisms, was a commonly believed hypothesis from antiquity to the mid-19th century. The idea of a tree bearing seashells and ultimately birds was reported and accepted in the Middle Ages until the 18th century. 
-
-**What the plant can do**
-
-The tree grows elongated barnacles, which in time will split open and reveal the legs of a bird. Slowly, the bird will mature and hang on the tree by its bill - then drop into the sea. "_\[...] where it gathereth feathers, and groweth to a foule, bigger than a Mallard, and lesser than a Goose_." (John Gerard in his Herball, or Generall Historie of Plantes, published in 1597). 
-
-The described bird is likely the Barnacle goose (Branta leicopsis), which, due to this myth, was considered "not of flesh" and thus eligible to be eaten on days in which meat was forbidden in Christianity. However, emperor Frederick II was highly sceptical of the origin story and put out when he was served the goose on a fast-day in 1456.
-
-**How to procure it**
-
-Found in Britain, most likely in the coastal areas in Lancashire. 
-
-**Is it real?**
-
-MAYBE! 
-A couple in Cornwall found one barnacle tree (sans baby birds) in 2011 and photographed it. The tree does indeed have goose barnacles (_Lepas anatifera_) on it.
-
-![null](/images/uploads/barnacletree1_smaller.png)
-
-![null](/images/uploads/barnacletree2_smaller.png)
 
 # Razkovnik
 

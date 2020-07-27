@@ -3,17 +3,15 @@ title: Curious Greens - A Brief Look At Some Mythical Plants
 date: '2020-07-27T11:25:52+09:30'
 draft: 'false'
 ---
-_Plants can heal and plants can kill._\
-_
-Mythology, history and cryptobotany have also produced plants that can do much more._\
-_
-This is an overview of a small selection of mythtical plants, what they are, what they can do, how to get them and if there might be some reality behind the myth!_
+_Plants can heal and plants can kill._
+
+_Mythology, history and cryptobotany have also produced plants that can do much more._
+
+_This is an overview of a small selection of mythtical plants, what they are, what they can do, how to get them and if there might be some reality behind the myth!_
 
 # Yggdrasil
 
-![](/images/uploads/yggdrasil-drawing.png)
-
-
+![null](/images/uploads/yggdrasil-drawing.png)
 
 **Origin Story**
 In Norse mythology, trees play a central role. After the gods kill the giant Ymir, they make of him all things; the first tree made is Yggdrasil. Yggdrasil is the tree that connects the (nine) worlds. It has three roots, leading to different wells and a spring. Creatures live in it (such as a dragon) and the Æsir (the pantheon of Norse gods), hold 'things' - the Germanic word for court hearings - at its base.
@@ -38,7 +36,7 @@ Probably not. We have too much evidence that the word isn't held up by a tree.
 
 # Barnacle Tree
 
-![](/images/uploads/barnacle-tree-drawing.png)
+![null](/images/uploads/barnacle-tree-drawing.png)
 
 **Origin Story**
 Spontaneous evolution, the idea that an organism could originate without similar organisms, was a commonly believed hypothesis from antiquity to the mid-19th century. The idea of a tree bearing seashells and ultimately birds was reported and accepted in the Middle Ages until the 18th century. 
@@ -80,7 +78,7 @@ _Marsilea quadrifolia_ has been proposed as a candidate. Notably, it's used to t
 
 # Moly
 
-![](/images/uploads/moly-drawing.png)
+![null](/images/uploads/moly-drawing.png)
 
 **Origin Story & What the plant can do for you**
 This herb is mentioned in Homer's _Odyssey._ It says that when Hermes seeks to protect Odysseus from Circe's magic, he hands him a plant with white flowers and black roots.
@@ -91,11 +89,11 @@ It is said to be dangerous to acquire by mortals but easy for "deathless gods". 
 
 **Is it real?**
 Hard to tell! To test its protective ability, one would first need to prove the existence of magic.
-Varying species have been proposed, such as _Peganum harmala_, a noxious weed poisonous to livestock or _Atriplex halimus_ or the snowdrop *_(_Galanthus*). In the Italian Renaissance, it was identified as potentially being a member of the allium family.
+Varying species have been proposed, such as _Peganum harmala_, a noxious weed poisonous to livestock or _Atriplex halimus_ or the snowdrop __(_Galanthus_). In the Italian Renaissance, it was identified as potentially being a member of the allium family.
 
 # Aglaophotis
 
-![](/images/uploads/aglophotis-drawing.png)
+![null](/images/uploads/aglophotis-drawing.png)
 
 **Origin Story**
 
@@ -116,7 +114,7 @@ As Dioscordies places it with peonies, it has been speculated to be the species 
 
 # Fernflower
 
-![](/images/uploads/fernflower-drawing.png)
+![null](/images/uploads/fernflower-drawing.png)
 
 **Origin Story**
 

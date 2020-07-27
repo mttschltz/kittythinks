@@ -3,9 +3,11 @@ title: Curious Greens - A Brief Look At Some Mythical Plants
 date: '2020-07-27T11:25:52+09:30'
 draft: 'true'
 ---
-Plants can heal and plants can kill. 
-Mythology, history and cryptobotany have also produced plants that can do much more.
-This is an overview of a small selection of mythtical plants, what they are, what they can do, how to get them and if there might be some reality behind the myth!
+_Plants can heal and plants can kill._\
+_
+Mythology, history and cryptobotany have also produced plants that can do much more._\
+_
+This is an overview of a small selection of mythtical plants, what they are, what they can do, how to get them and if there might be some reality behind the myth!_
 
 # Yggdrasil
 

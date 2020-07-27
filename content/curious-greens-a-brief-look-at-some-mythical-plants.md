@@ -1,7 +1,7 @@
 ---
 title: Curious Greens - A Brief Look At Some Mythical Plants
 date: '2020-07-27T11:25:52+09:30'
-draft: 'true'
+draft: 'false'
 ---
 _Plants can heal and plants can kill._\
 _

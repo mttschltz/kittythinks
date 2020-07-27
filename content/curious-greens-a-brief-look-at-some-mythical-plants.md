@@ -47,6 +47,75 @@ Found in Britain, most likely in the coastal areas in Lancashire.
 MAYBE! 
 A couple in Cornwall found one barnacle tree (sans baby birds) in 2011 and photographed it. The tree does indeed have goose barnacles (_Lepas anatifera_) on it.
 
-![](/images/uploads/barnacletree1_smaller.png)
+![null](/images/uploads/barnacletree1_smaller.png)
 
-![](/images/uploads/barnacletree2_smaller.png)
+![null](/images/uploads/barnacletree2_smaller.png)
+
+# Razkovnik
+
+**Origin Story**
+A common theme in Slavic folklore is something hidden in nature. Razkovnik is a small magical herb resembling a four-leaf clover. It grows in meadows. 
+
+**What the plant can do**
+Razkovnik unlocks or uncovers all that is locked or hidden. In some regions in Serbia, a treasure can be found with it, guarded by a black man in chains. The razkovnik will break the chains and the man would disappear, leaving a cauldron filled with gold coins in his stead. 
+Razkovnik may also be alchemical, turning iron into gold.
+
+**How to procure it**
+The herb is notoriously hard to find. Only chtonic (subterranean) animals, such as tortoises, hedgehogs and snakes can find the razkovnik. To get the magical plant through these animals, one must trick them. A popular method is to build a fence around the nest of one of those animals when they are away. When they come back and cannot reach their eggs, they will go and find the razkovnik to open the fence. In the case of hedgehogs, one must be particularly quick, for the hedgehog will eat the herb once it is finished removing the obstacle.
+
+Another method from Serbia tells of a merchant that locked an old woman in leg irons and made her walk in a field at night - when the irons unlocked, the merchant knew the place of the herb.
+
+**Is it real?**
+
+Perhaps.
+*Marsilea quadrifolia* has been proposed as a candidate. Notably, it's used to treat snakebites.
+
+# Moly
+
+**Origin Story & What the plant can do for you**
+This herb is mentioned in Homer's *Odyssey.* It says that when Hermes seeks to protect Odysseus from Circe's magic, he hands him a plant with white flowers and black roots.
+The plant grows from the blood of the giant killed by Helios, Circe's father.
+
+**How to procure it**
+It is said to be dangerous to acquire by mortals but easy for "deathless gods". It only grows where a giant has been slain.
+
+**Is it real?**
+Hard to tell! To test its protective ability, one would first need to prove the existence of magic.
+Varying species have been proposed, such as *Peganum harmala*, a noxious weed poisonous to livestock or *Atriplex halimus* or the snowdrop **(*Galanthus*). In the Italian Renaissance, it was identified as potentially being a member of the allium family.
+
+# Aglaophotis
+
+**Origin Story**
+
+The name means "brightly shining" and the plant was mentioned by Greek botanist and physician Dioscorides. He placed aglaophotis as part of the peony family, Paeoniaceae. 
+Unlike most magical plants, Aglaophotis was assumed to be a real medical and protective species. The plant features in the *De Materia Medica*, the grand medical book of Dioscorides. This work is the prime historical source of pharmacological information used by the Greeks, Romans, and other cultures of antiquity and the precursor to all modern pharmacopoeia. 
+
+**What the plant can do**
+According to Dioscorides, the herb was used for warding off fever, demons, and witchcraft.
+
+**How to procure it**
+
+Aglaophotis is said to grow in the deserts in Arabia. 
+
+Is it real?
+
+Probably! It is, however, unlikely to help ward against demons and witchcraft.
+As Dioscordies places it with peonies, it has been speculated to be the species *Paenia officialis* (European peony).
+
+# Fernflower
+
+**Origin Story**
+
+Fernflowers are known in Slavic, Estonian and Baltic mythology. The flower blooms only around the summer solstice in late June, according to Estonian and Baltic beliefs, but in slavic countries it is connected to Ivan Kupala Day on the 7th of July. On this day, couples go into the forest to find the fernflower. The girls wear wreath and when they come out of the forest without it - having given it to the boy, they are engaged to be married. In this particular version, the flower is considered to be *Chervona ruta* , which is yellow but turns red on Ivan Kupala Day.
+
+In the Baltics and Estonia, the flower only appears during the solstice.
+It should be noted that ferns don't bloom, but some varieties have fronds that can resemble flowers.
+
+**What the plant can do**
+The flower will bring good fortune to those who find it. It will, however, also bring earthly riches which are warned against, as they have "never benefited anyone".
+
+**How to procure it**
+The fernflower can only be found on very specific dates and is sometimes said to be guarded by evil spirits. 
+
+**Is it real?**
+Perhaps. Ferns that appear to flower exist and finding one, and selling it, may make one quite rich!

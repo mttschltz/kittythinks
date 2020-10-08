@@ -3,7 +3,7 @@ title: THE SECRET HISTORY by Procopius - PREQUEL
 date: '2020-10-08T16:52:52+10:30'
 draft: 'false'
 ---
-> ![](/images/uploads/thesecrethistory.png)
+ ![](/images/uploads/thesecrethistory.png)
 
 > I'm writing this prequel to _The Secret History_ summary to introduce who Procopius is and who he is writing about, to make the summary that will follow easier to understand.
 

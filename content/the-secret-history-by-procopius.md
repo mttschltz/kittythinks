@@ -23,8 +23,8 @@ _Procopius's Major Players_
 **Justinian** - Emperor of the Eastern Roman Empire. He reigned from 527 to 565 and Procopius likely published his _Secret History_ in the latter part of his reign (in 550).\
 While history seeds Justinian as the "last Roman" due to his quest to restore the power of the Roman Empire, Procopius sets out to expose Justinian as corrupt, incompetent and as a spendthrift.
 
-**Theodora **- Empress of the Eastern Roman Empire, wife of Justinian.  Theodora, according to Procopius, is conniving, unfair and cruel. She is also described as very much a "lustful" woman - she was an actress afterall, which at the time meant something close to a prostitute.
+**Theodora**- Empress of the Eastern Roman Empire, wife of Justinian.  Theodora, according to Procopius, is conniving, unfair and cruel. She is also described as very much a "lustful" woman - she was an actress afterall, which at the time meant something close to a prostitute.
 
-**Belisarius **- General in the Byzantine army. He was appointed by Justinian to reclaim territories lost to the Romans - he was quite successful. Procopius portrays him as a coward, obsessed with his wife.
+**Belisarius**- General in the Byzantine army. He was appointed by Justinian to reclaim territories lost to the Romans - he was quite successful. Procopius portrays him as a coward, obsessed with his wife.
 
-**Antonina **- Wife of Belisarius. She was, according to Procopius, able to bewitch her husband. Another actress (and thus lustful), she has an ongoing affair with _Theodosius_, her husband's godson. She is also best friends with Empress Theodora.
+**Antonina**- Wife of Belisarius. She was, according to Procopius, able to bewitch her husband. Another actress (and thus lustful), she has an ongoing affair with _Theodosius_, her husband's godson. She is also best friends with Empress Theodora.

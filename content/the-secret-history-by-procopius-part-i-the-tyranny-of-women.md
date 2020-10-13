@@ -30,10 +30,12 @@ Not satisfied yet, Theodora vies for Belisarius' wealth. She wants Belisarius's 
 
 Alas, before the plan can be worked out, Theodora dies.
 
-The two teenagers had actually fallen in love, but now without the Empress' maneuvering, Antonia (the daughters' mother), would insist on separation and re-marriage. Technically, under Roman law, her daughters' previous relationship would have been considered prostitution, but Antonia cared little about this.
+The two teenagers had actually fallen in love, but now without the Empress' manoeuvering, Antonia (the daughters' mother), would insist on separation and re-marriage. Technically, under Roman law, her daughters' previous relationship would have been considered prostitution, but Antonia cared little about this.
 
 Antonia was regarded as heartless as a consequence, but to save her own reputation, she makes Belisarius take the blame.
 
 This leads to his ultimate disgrace.
 
 > > _"Then at last he was repudiated by everyone, was made the target of endless gossip and was dismissed with contempt as a hopeless fool."_
+
+There is also a suitor to Antonia's granddaughter. This man, Sergius, is a serial killer, having killed 80 ambassadors. Yet, Procopius calls his "effeminate and unwarlike", perhaps because he blames him for the destruction of Roman authority in Libya - or more likely because Sergius (and his brother) are acquitted for their crimes by the Emperor and Empress.

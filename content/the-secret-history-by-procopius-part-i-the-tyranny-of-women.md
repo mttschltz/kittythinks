@@ -25,3 +25,15 @@ Belisarius' bewitchment and Antonia's magic is further shown when Belisarius, on
 
 Next, Procopius tells us of Empress Theodora. She is cruel and immoral - not respecting the sanctaty of churches and imprisioning people for little reason. \
 Theodora eventually rids Belisarius of his rank as a General and scatters his men-at-arms to effectively disable his power. In Roman law, this made him a private citizen.
+
+Not satisfied yet, Theodora vies for Belisarius' wealth. She wants Belisarius's daughter to marry her grandson - which would make the daughters' wealth her husbands'. Despite the vehement protest, Theodora devises a simple plan: The two would be made to live together, unmarried, and once the girl lost her virginity, she had no choice but to marry Theodora's grandson.
+
+Alas, before the plan can be worked out, Theodora dies.
+
+The two teenagers had actually fallen in love, but now without the Empress' maneuvering, Antonia (the daughters' mother), would insist on separation and re-marriage. Technically, under Roman law, her daughters' previous relationship would have been considered prostitution, but Antonia cared little about this.
+
+Antonia was regarded as heartless as a consequence, but to save her own reputation, she makes Belisarius take the blame.
+
+This leads to his ultimate disgrace.
+
+> > _"Then at last he was repudiated by everyone, was made the target of endless gossip and was dismissed with contempt as a hopeless fool."_

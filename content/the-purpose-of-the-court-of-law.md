@@ -5,6 +5,8 @@ draft: 'false'
 ---
 # The Purpose of the Court of Law
 
+![](/images/uploads/justitia_smaller.png)
+
 ## The role of courts and law is **not to punish**. It is **not to impose moral judgement** and it is **not to teach lessons**. _The role of the judiciary is to protect society from objective, tangible harm._
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__

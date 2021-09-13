@@ -1,11 +1,9 @@
 ---
 title: Norse Mythology Shorts
 date: '2021-09-13T15:10:54+09:30'
-draft: 'true'
+draft: 'false'
 ---
 **Here are 2 tiny essays about Norse Mythology, featuring youth goddess _Iðunn_, the giant _Þjazi,_ and the trickster god _Loki._**
-
-
 
 # Preserving Lifespan
 
@@ -23,7 +21,7 @@ When the other gods see the falcon approach, they quickly make a great fire. Lok
 
 If we all worked together to protect those that can help us from growing old prematurely – namely doctors, scientists, and thinkers, perhaps we too, can defeat the relentless wings of time.
 
-![](/images/uploads/standard_compressed_he_flapped_away_with_her__magic_apples_and_all_by_elmer_boyd_smith.jpg)
+![null](/images/uploads/standard_compressed_he_flapped_away_with_her__magic_apples_and_all_by_elmer_boyd_smith.jpg)
 
 # The Mead of Poetry
 
@@ -105,4 +103,4 @@ Diluted, polluted, now intruded
 
 To make skalds of our kin.
 
-![](/images/uploads/olav_den_helliges_saga_-_skalden_berse_-_c._krogh.jpg)
+![null](/images/uploads/olav_den_helliges_saga_-_skalden_berse_-_c._krogh.jpg)

@@ -7,13 +7,13 @@ draft: 'false'
 
 When I worry about things, I read philosophy and learn something new. Halfway through 2020, quarantine inspired me to learn Finnish. This led to some neat deep dives into Finnish mythology.
 
-**Otso on karhu.**(_Otso is a bear._) – Otso means “the brown-one”. It is a common name for pets in Finland.
+**Otso on karhu.** (_Otso is a bear._) – Otso means “the brown-one”. It is a common name for pets in Finland.
 
 Otso was a bear spirit. Every effort was made to circumvent naming him directly. It was thought that Otso was a human who was transformed by the forest’s power to become a bear.
 
 To ensure that the spirit was kept tame bear hunts concluded with the head being placed in a sacred clearing and sacrifices were made.
 
-**Pelkään ukkosta!**(_I’m afraid of thunder!_) - Ukko was the god of the sky. When he struck his axe, the sparks became lightning. When people found stone axes, they believed them to be Ukko’s weapons. The Finnish word for thunder is thereby “ukkonen”.
+**Pelkään ukkosta!** (_I’m afraid of thunder!_) - Ukko was the god of the sky. When he struck his axe, the sparks became lightning. When people found stone axes, they believed them to be Ukko’s weapons. The Finnish word for thunder is thereby “ukkonen”.
 
 **Onko shamaani kuollut?** (_Is the shaman dead?_) - Shamans were central to Finno-Ugric folk religions. They could talk to the dead and move between worlds. If a shaman needed guidance from the forefathers, they could enter Tuonela, the place of the dead. The soul of the shaman had to trick the guards into thinking that he was dead to enter. 
 

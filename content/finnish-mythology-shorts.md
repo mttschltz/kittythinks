@@ -45,4 +45,4 @@ The Sámi religion has since been exterminated.
 
 > _Sámi society was stable and autonomous for thousands of years. Unfortunately the ineluctable expansion of the Germanic peoples’ territories \[...] has proved a disaster._
 >
->  - Alan Holloway
+>  by Alan Holloway

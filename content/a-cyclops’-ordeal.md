@@ -3,13 +3,11 @@ title: A Cyclops’ Ordeal
 date: '2021-09-15T13:01:26+09:30'
 draft: 'false'
 ---
-**Polyphemus is likely the most famous of all the Clyclops. He is Polyphemus is likely the most famous of all the Clyclops. He is curiously portrayed as both wild and untamed, but also as caring (towards his sheep) and worthy of pity.**
+**Polyphemus is likely the most famous of all the one-eyed giants. He is Polyphemus is likely the most famous of all the Cyclops. He is curiously portrayed as both wild and untamed, but also as caring (towards his sheep) and worthy of pity.**
 
 **Odysseus likewise, is portrayed as both foolhardy and cruel.**
 
-![](/images/uploads/737px-guido_reni_-_polyphemus_-_google_art_project.jpg)
-
-
+![null](/images/uploads/737px-guido_reni_-_polyphemus_-_google_art_project.jpg)
 
 The son of Poseidon and nymph Thoosa lounges on the rocky shores, gigantic limbs outstretched. A sound alerts him, but it is not any of his sheep. Standing up, he blinks his single eye: someone has dared to come ashore the Cyclops’ Kingdom! Hurriedly, he follows the band of intruders; they have invaded his cave. He takes a big stone, ushers his flock into the cave, and seals it from inside. 
 

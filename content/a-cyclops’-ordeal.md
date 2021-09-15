@@ -1,7 +1,7 @@
 ---
 title: A Cyclops’ Ordeal
 date: '2021-09-15T13:01:26+09:30'
-draft: 'true'
+draft: 'false'
 ---
 **Polyphemus is likely the most famous of all the Clyclops. He is Polyphemus is likely the most famous of all the Clyclops. He is curiously portrayed as both wild and untamed, but also as caring (towards his sheep) and worthy of pity.**
 

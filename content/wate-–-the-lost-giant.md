@@ -3,7 +3,8 @@ title: Wate – The Lost Giant
 date: '2021-09-16T13:35:58+09:30'
 draft: 'false'
 ---
-**Chaucer's editor, Thomas Speght, wrote this about the mention of Wade in Chaucer's _Merchant Tale_** (<https://www.kittythinks.com/the-canterbury-tales-by-chaucer-the-summoner-the-cleric-the-merchant/>)
+**Chaucer's editor, Thomas Speght, wrote this about the mention of Wade in Chaucer's _Merchant Tale_** 
+(<https://www.kittythinks.com/the-canterbury-tales-by-chaucer-the-summoner-the-cleric-the-merchant/>)
 
 > _"Concerning Wade and his bote called Guingelot, and also his strange exploits in the same, because the matter is long and fabulous, I pass it over"_
 >

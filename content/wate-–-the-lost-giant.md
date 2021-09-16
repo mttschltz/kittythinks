@@ -25,6 +25,6 @@ The giant has a boat named Guingelot. He likely used it for some more explicit e
 
 Perhaps, this is a reference to an origin story. We know of a passage in which Wate has made a pool of water in which all that falls in becomes different races (human, elven, adder). 
 
-_**Was Wate the source of some primordial soup?**_
+**_Was Wate the source of some primordial soup?_**
 
 Wate dies in a great landslide caused by an earthquake. His son thought the dwarves he apprenticed with responsible because they had been reluctant to release their charge. So Wayland kills the dwarves and builds himself a ship to sail to great King Nithad – to begin a better-known adventure.

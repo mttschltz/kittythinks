@@ -5,7 +5,7 @@ draft: 'false'
 ---
 **Giant Water Lily Legend** – The Brazilian moon goddess Jaci comes at night to turn the most beautiful virgins into stars. Naiá sought out the goddess each night, to become a star. After resting at a lake one night she saw the reflection of the moon. Naiá dove in and drowned. The goddess recognised her sacrifice and turned her into a star different from all the rest – a giant water lily.
 
-**_Its merit _**: Victoria amazonica only opens its flowers at night. White first, rosé later. The myth illustrates the power of devotion. And it shows what it takes to become a star!
+**_Its merit_**: Victoria amazonica only opens its flowers at night. White first, rosé later. The myth illustrates the power of devotion. And it shows what it takes to become a star!
 
 ![null](/images/uploads/lily-945878_640.jpg)
 

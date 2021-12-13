@@ -1,13 +1,15 @@
 ---
 title: Pliny and the Garden
 date: '2021-12-13T15:31:31+10:30'
-draft: 'true'
+draft: 'false'
 ---
 ![](/images/uploads/caius_plinius_secundus._lithograph_by_dumont._wellcome_v0004718.png)
 
-Pliny the Elder is famous for having thought on and about virtually every plant and plant-like thing that one could conceivably imagine in his area of the world. 
+Pliny the Elder is famous for having thought about many interesting topics: from healing plants to politics.
 
-I have a tiny vegetable and herb garden with common varieties and this will be an exploration of what Pliny has to say about them.
+An exploration of some of his vast knowledge will follow. 
+
+First up: **_Garden plants and their healing properties!_**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -101,40 +103,58 @@ _**People are places Pliny mentions:**_ [Chrysippus](https://www.google.com/sear
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Apples and Pears 
+## Garlic
 
-![](/images/uploads/pexels-plato-terentev-9963286.jpg)
+![](/images/uploads/pexels-engin-akyurt-1460862.jpg)
 
 _**Pliny's health advice: **_
 
-_**Pliny's entertaining anecdotes: **_
++ beneficial against **ailments caused by changes of water and of location**
 
-_**People are places Pliny mentions:**_ Sextus Papinius, Emperor Augustus, 
+_**Pliny's entertaining anecdotes: **The smell of garlic drives away snakes and scorpions (and according to some, any kind of wild beast)_
+
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+## Cucumbers 
+
+![](/images/uploads/cucumbers-gdacf559b2_640.jpg)
+
+_**Pliny's health advice: **_
+
++ treat **poor eyesight**, **styes** on the lids, other** eye diseases** (via wild cucumber seeds, which have been crushed and coagulated in the sun, and pressed in tablets)
+
++ heals** impetigo, scabies, ringworm, and psoriasis** (dried and pounded cucumber roots, with resin)
+
++ helps **fainting problems **(the smell is restorative)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Thyme 
+
+![](/images/uploads/thyme-g399486104_640.jpg)
+
+_**Pliny's health advice: **_
+
++ **beneficial to the sight** (both when used as medication and when eaten)
+
++ good for **inveterate (unchanging) coughs**
+
++ **prevent the blood from coagulating** (when taken with honey)
+
++ dispels **chronic fluxes** (when applied externally with mustard)
+
++ various **problems with the bowels** (must be used in moderation)
+
++ **against melancholy and the alienation of the senses**
+
++ **epilepsy **(the smell revives patients)
+
++ **asthma**
+
+_**Pliny's entertaining anecdotes: **Survival of Attic thyme was thought to depend on the sea breeze. This view was held of all thyme "in olden times" according to Pliny (!)_
+
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 
 
-_**Pliny's health advice:**_
-
-_**Pliny's entertaining anecdotes: **_
-
-_**People are places Pliny mentions:**_
-
-
-
-
-
-_**Pliny's health advice:**_
-
-_**Pliny's entertaining anecdotes: **_
-
-_**People are places Pliny mentions:**_
-
-
-
-
-
-_**Pliny's health advice:**_
-
-_**Pliny's entertaining anecdotes: **_
-
-_**People are places Pliny mentions:**_
+## _... more knowledge by Pliny coming soon!_

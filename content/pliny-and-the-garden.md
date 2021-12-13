@@ -17,7 +17,7 @@ First up: **_Garden plants and their healing properties!_**
 
 ![](/images/uploads/onion-g98e1c5cb3_640.jpg)
 
-_**Pliny's health advice: **_
+_**Pliny's health advice:**_
 
 + a cure for **poor vision** through the tears caused by the smell
 
@@ -42,7 +42,7 @@ _**Pliny's entertaining anecdotes:**_ _Onions do not grow wild (!)_
 
 
 
-_**People are places Pliny mentions: **_[Asclepiades](https://en.wikipedia.org/wiki/Asclepiades_of_Bithynia)
+_**People are places Pliny mentions:**_[Asclepiades](https://en.wikipedia.org/wiki/Asclepiades_of_Bithynia)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -50,7 +50,7 @@ _**People are places Pliny mentions: **_[Asclepiades](https://en.wikipedia.org/w
 
 ![](/images/uploads/lettuce_vegetables_food_eat-1-.jpg)
 
-_**Pliny's health advice: **_
+_**Pliny's health advice:**_
 
 + **soporific** (sleep-inducing
 
@@ -68,7 +68,7 @@ _**Pliny's health advice: **_
 
 + **stimulates _AND_ diminishes appetite**, depending on the amount (too much loosens the bowels, a moderate amount causes constipation)
 
-_**Pliny's entertaining anecdotes: **_ _Lettuce can check sexual appetite (!)_
+_**Pliny's entertaining anecdotes:**_ _Lettuce can check sexual appetite (!)_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -76,7 +76,7 @@ _**Pliny's entertaining anecdotes: **_ _Lettuce can check sexual appetite (!)_
 
 ![](/images/uploads/cabbage_vegetables_food_healthy-1-.jpg)
 
-_**Pliny's health advice: **_
+_**Pliny's health advice:**_
 
 + **headaches**,** impaired vision**, **spots** before the eyes, **spleen** & stomach, **hypochondria** are cured by a mix of cabbage with oxymel (a mixture of raw honey, vinegar, and herbs), coriander, rue, mint, and silphium root (silphium is a now-extinct plant, likely from the Ferula family - it can be substituted with asafoetida) taken in the morning
 
@@ -107,11 +107,11 @@ _**People are places Pliny mentions:**_ [Chrysippus](https://www.google.com/sear
 
 ![](/images/uploads/pexels-engin-akyurt-1460862.jpg)
 
-_**Pliny's health advice: **_
+_**Pliny's health advice:**_
 
 + beneficial against **ailments caused by changes of water and of location**
 
-_**Pliny's entertaining anecdotes: **The smell of garlic drives away snakes and scorpions (and according to some, any kind of wild beast)_
+_**Pliny's entertaining anecdotes:** The smell of garlic drives away snakes and scorpions (and according to some, any kind of wild beast)_
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
@@ -119,13 +119,13 @@ _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 ![](/images/uploads/cucumbers-gdacf559b2_640.jpg)
 
-_**Pliny's health advice: **_
+_**Pliny's health advice:**_
 
-+ treat **poor eyesight**, **styes** on the lids, other** eye diseases** (via wild cucumber seeds, which have been crushed and coagulated in the sun, and pressed in tablets)
++ treat **poor eyesight**, **styes** on the lids, other **eye diseases** (via wild cucumber seeds, which have been crushed and coagulated in the sun, and pressed in tablets)
 
-+ heals** impetigo, scabies, ringworm, and psoriasis** (dried and pounded cucumber roots, with resin)
++ heals **impetigo, scabies, ringworm, and psoriasis** (dried and pounded cucumber roots, with resin)
 
-+ helps **fainting problems **(the smell is restorative)
++ helps **fainting problems**(the smell is restorative)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -133,7 +133,7 @@ _**Pliny's health advice: **_
 
 ![](/images/uploads/thyme-g399486104_640.jpg)
 
-_**Pliny's health advice: **_
+_**Pliny's health advice:**_
 
 + **beneficial to the sight** (both when used as medication and when eaten)
 
@@ -147,11 +147,11 @@ _**Pliny's health advice: **_
 
 + **against melancholy and the alienation of the senses**
 
-+ **epilepsy **(the smell revives patients)
++ **epilepsy** (the smell revives patients)
 
 + **asthma**
 
-_**Pliny's entertaining anecdotes: **Survival of Attic thyme was thought to depend on the sea breeze. This view was held of all thyme "in olden times" according to Pliny (!)_
+_**Pliny's entertaining anecdotes:** Survival of Attic thyme was thought to depend on the sea breeze. This view was held of all thyme "in olden times" according to Pliny (!)_
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 

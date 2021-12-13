@@ -5,7 +5,7 @@ draft: 'true'
 ---
 ![](/images/uploads/caius_plinius_secundus._lithograph_by_dumont._wellcome_v0004718.png)
 
- Pliny the Elder is famous for having thought on and about virtually every plant and plant-like thing that one could conceivably imagine in his area of the world. 
+Pliny the Elder is famous for having thought on and about virtually every plant and plant-like thing that one could conceivably imagine in his area of the world. 
 
 I have a tiny vegetable and herb garden with common varieties and this will be an exploration of what Pliny has to say about them.
 
@@ -101,17 +101,15 @@ _**People are places Pliny mentions:**_ [Chrysippus](https://www.google.com/sear
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+## Apples and Pears 
 
+![](/images/uploads/pexels-plato-terentev-9963286.jpg)
 
-
-
-
-
-_**Pliny's health advice:**_
+_**Pliny's health advice: **_
 
 _**Pliny's entertaining anecdotes: **_
 
-_**People are places Pliny mentions:**_
+_**People are places Pliny mentions:**_ Sextus Papinius, Emperor Augustus, 
 
 
 

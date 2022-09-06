@@ -54,6 +54,10 @@ Having lost its power status, and having turned into a moral obligation, bestowi
 
 If a person was suspected to be a slave, but could not be conclusively identified as such, the judge would decide in favour of the suspect. This was important, for a freed slave was free forever. This does not mean that the Romans recognised that what they did in holding slaves was wrong, but rather that they feared putting slavery on an equal.
 
-> _"To hate judicial errors is not to challenge the sanctity of justice but to uohold it."_
+> _"To hate judicial errors is not to challenge the sanctity of justice but to uphold it."_
 
-A slave was not, however, able to ask for her own freedom. They could approach a freed person and beg them to ask their master for their freedom on their behalf. Only peers could ask for clemency. It was seen as a moral thing to free a slave, but not as an obligation - the institution was slavery was not questioned
+A slave was not, however, able to ask for her own freedom. They could approach a freed person and beg them to ask their master for their freedom on their behalf. Only peers could ask for clemency. It was seen as a moral thing to free a slave, but not as an obligation - the institution was slavery was not questioned. That was also true for the later Christian era. even slaves themselves did not realistically envision a society without slaves but were rather just concerned with not being one themselves.
+
+> _"No slave, no master, was ever able to imagine a world in which the institution of slavery did not exist."_
+
+Interestingly, despite this inability to see a slavery-free world, Roman society at large was not based on slavery. The exception being southern Italy and Sicily.

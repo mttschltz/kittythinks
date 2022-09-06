@@ -71,3 +71,5 @@ We get taught furthermore that as time went on, especially in the later 3 centur
 This did not mean murder, in general, was outlawed towards slaves, but rather a distinction was made between murder and lawful execution. Had a master decided their slave deserved death, and could justify it, they were legally in the green.
 
 This very minor moralising effect in the law can be attributed to the rise of stoicism. Just like in the section on changing marriages, this was not an appeal to the natural goodness of humanity, but rather a new way to "save face".
+
+This is nicely explained when examples of cruelty towards slaves are given in the book. No matter the atrocities committed, the master was only condemned for his moral failings, not the master class as a whole, for their very existence.

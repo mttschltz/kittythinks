@@ -3,7 +3,7 @@ title: >-
   A History of Private Life, Volume I: From Pagan Rome to Byzantium by Paul
   Veyne, Phillipe Ariès, Georges Duby - PART I
 date: '2022-09-06T13:59:01+09:30'
-draft: 'true'
+draft: 'FALSE'
 ---
 _There are a lot of books about Roman history. The topic is one of the most popular ones, even among people who have only a cursory interest in history. However, many history books suffer from 'lecture syndrome', in which they simply state the progression of events, or they are opinion pieces that do not age well._
 
@@ -11,7 +11,13 @@ _This book is different. It takes aspects of Roman life and examines them from a
 
 _I will summarise those parts of the book that made me go "huh!"._
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+**This is Part I**
+
+![](/images/uploads/peter-chiykowski-oah6e5s1fvu-unsplash.jpg)
+
+
 
 ## SCHOOL
 
@@ -77,3 +83,7 @@ This is nicely explained when examples of cruelty towards slaves are given in th
 Stoicism also brought about a different view on the self of the slave. Where she was formerly seen as childish and concerned only with her duty to her masters, now she was conceived of as conscientious enough to obey her master due to a moral obligation in general. 
 
 The slaves were now considered equal moral agents with all the duties that come with it, but were still considered unequal in their place in the world. Apart from marriage, this did allow them to be buried with the proper rights - but again, the masters did so due to _their _moral duties, not due to the goodness of their hearts.
+
+
+
+# _To be continued..._

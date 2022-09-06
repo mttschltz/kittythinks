@@ -34,3 +34,11 @@ This chapter contained an interesting nod to Tacitus, who was a Roman historian 
 The authors quote Tacitus: 
 
 > "_\[The Germans] know love only late in life, so that the strength of youth in them is not drained."_
+
+## PATRICIDE
+
+The authors explain that one peculiarity of Roman law that baffled the Greeks, was that male children regardless of age or status, remained under the authority of their fathers until their death. Only then could they become patresfamilias, and thus, full Roman citizens.
+
+## CHASTE SPOUSES
+
+Stoicism introduced new morality (and inauthenticity) to marriages. While marriages had been a status symbol prior and were purely about power dynamics, the stoics wanted marriages to be friendships. Similar to Christianity, it forced the coupled to attempt to emulate an ideal that was not realistic (as the status of women had not changed).

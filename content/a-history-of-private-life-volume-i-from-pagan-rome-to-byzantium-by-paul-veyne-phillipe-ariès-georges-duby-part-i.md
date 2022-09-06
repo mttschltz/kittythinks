@@ -1,7 +1,5 @@
 ---
-title: >-
-  A History of Private Life, Volume I: From Pagan Rome to Byzantium by Paul
-  Veyne, Phillipe Ariès, Georges Duby - PART I
+title: 'A History of Private Life, Volume I by Veyne, Ariès, Duby - PART I'
 date: '2022-09-06T13:59:01+09:30'
 draft: 'FALSE'
 ---

@@ -10,3 +10,17 @@ _There are a lot of books about Roman history. The topic is one of the most popu
 _This book is different. It takes aspects of Roman life and examines them from a factual, social, and philosophical perspective. _
 
 _I will summarise those parts of the book that made me go "huh!"._
+
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+## SCHOOL
+
+
+
+The authors made an interesting distinction between Roman and Greek syllabi. The major difference between these two educations was that sport took up half of the study time of the Greek student. 
+
+The schedule also included the study of Greek, Homer, Rhetoric, a little Philosophy, and a lot of Music. School lasted for 16 years and was immediately followed by two more years. 
+
+Interesting quote from this section:
+
+> _" \[...] teacher of literature they studied classical authors and mythology (of which they believed not a word, but knowledge of mythology was the mark of a cultured person)."_

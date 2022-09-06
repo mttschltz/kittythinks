@@ -73,3 +73,7 @@ This did not mean murder, in general, was outlawed towards slaves, but rather a 
 This very minor moralising effect in the law can be attributed to the rise of stoicism. Just like in the section on changing marriages, this was not an appeal to the natural goodness of humanity, but rather a new way to "save face".
 
 This is nicely explained when examples of cruelty towards slaves are given in the book. No matter the atrocities committed, the master was only condemned for his moral failings, not the master class as a whole, for their very existence.
+
+Stoicism also brought about a different view on the self of the slave. Where she was formerly seen as childish and concerned only with her duty to her masters, now she was conceived of as conscientious enough to obey her master due to a moral obligation in general. 
+
+The slaves were now considered equal moral agents with all the duties that come with it, but were still considered unequal in their place in the world. Apart from marriage, this did allow them to be buried with the proper rights - but again, the masters did so due to _their _moral duties, not due to the goodness of their hearts.

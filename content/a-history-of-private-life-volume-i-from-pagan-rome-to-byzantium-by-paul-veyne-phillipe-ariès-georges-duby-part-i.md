@@ -42,3 +42,18 @@ The authors explain that one peculiarity of Roman law that baffled the Greeks, w
 ## CHASTE SPOUSES
 
 Stoicism introduced new morality (and inauthenticity) to marriages. While marriages had been a status symbol prior and were purely about power dynamics, the stoics wanted marriages to be friendships. Similar to Christianity, it forced the coupled to attempt to emulate an ideal that was not realistic (as the status of women had not changed).
+
+## SLAVERY
+
+This section had a lot of interesting and new (to me) information. It also underlined the ability of the authors to make truly neoteric observations.
+
+They state that slaves were not considered things. They were not treated like livestock. The idea (especially at the begging of the Roman Empire) was that a slave was equivalent to a child. And like a child, the slave's shortcomings were faulty features, but moral failings. 
+
+This would be further changed when the empire matured. Around A.D. 200, slaves were allowed to marry. This had been unthinkable earlier, as slaves were considered childlike, but was now felt to be a right as the nature of marriage had changed. \
+Having lost its power status, and having turned into a moral obligation, bestowing the right of marriage to slaves was now not a loss of power over them, but instead, a burden to put on them. Slaves were required to care for their spouses and their children - despite those children being the property of their masters.
+
+If a person was suspected to be a slave, but could not be conclusively identified as such, the judge would decide in favour of the suspect. This was important, for a freed slave was free forever. This does not mean that the Romans recognised that what they did in holding slaves was wrong, but rather that they feared putting slavery on an equal.
+
+> _"To hate judicial errors is not to challenge the sanctity of justice but to uohold it."_
+
+A slave was not, however, able to ask for her own freedom. They could approach a freed person and beg them to ask their master for their freedom on their behalf. Only peers could ask for clemency. It was seen as a moral thing to free a slave, but not as an obligation - the institution was slavery was not questioned

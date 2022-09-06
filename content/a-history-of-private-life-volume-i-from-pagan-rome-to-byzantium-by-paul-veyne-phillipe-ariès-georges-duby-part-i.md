@@ -11,11 +11,9 @@ _This book is different. It takes aspects of Roman life and examines them from a
 
 _I will summarise those parts of the book that made me go "huh!"._
 
-_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## SCHOOL
-
-
 
 The authors made an interesting distinction between Roman and Greek syllabi. The major difference between these two educations was that sport took up half of the study time of the Greek student. 
 
@@ -25,17 +23,13 @@ Interesting quote from this section:
 
 > _" \[...] teacher of literature they studied classical authors and mythology (of which they believed not a word, but knowledge of mythology was the mark of a cultured person)."_
 
-
-
 ## ADOLESCENCE
-
-
 
 Civic and professional matters were learned on the job, while culture was studied in school. What a reversal compared to today!
 
 ## YOUTH
 
-This chapter contained an interesting nod to Tacitus, who was a Roman historian and famously wrote _Germania_, one of the best sources for the Germanic tribal culture of the day.
+This chapter contained an interesting nod to Tacitus, who was a Roman historian and famously wrote _Germania_, one of the best sources for the Germanic tribal culture of the day. He comments on the differences between Roman attitudes to youthful dalliances, and Germanic customs. The fact that Tacitus felt compelled to comment on this, maybe due to changing feelings in light of the rise of stoicism.
 
 The authors quote Tacitus: 
 

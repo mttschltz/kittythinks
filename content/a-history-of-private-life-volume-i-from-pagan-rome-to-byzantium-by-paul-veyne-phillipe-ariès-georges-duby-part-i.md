@@ -24,3 +24,19 @@ The schedule also included the study of Greek, Homer, Rhetoric, a little Philoso
 Interesting quote from this section:
 
 > _" \[...] teacher of literature they studied classical authors and mythology (of which they believed not a word, but knowledge of mythology was the mark of a cultured person)."_
+
+
+
+## ADOLESCENCE
+
+
+
+Civic and professional matters were learned on the job, while culture was studied in school. What a reversal compared to today!
+
+## YOUTH
+
+This chapter contained an interesting nod to Tacitus, who was a Roman historian and famously wrote _Germania_, one of the best sources for the Germanic tribal culture of the day.
+
+The authors quote Tacitus: 
+
+> "_\[The Germans] know love only late in life, so that the strength of youth in them is not drained."_

@@ -44,7 +44,7 @@ Hippocras (spiced wine) and wafers
 
 > First Course Recipe from _Forme of Cury _(England, 1390)
 >
-> _**'Leche Lombard' **_
+> **_'Leche Lombard' _**
 >
 > Ground pork and add eggs.
 >
@@ -63,11 +63,37 @@ Hippocras (spiced wine) and wafers
 > Now add pepper and cloves to taste and bring everything to a boil. 
 >
 > Finally add cinnamon and ginger.
->
->
+
+## _The Monks_
+
+The monastery had a head, officers and average monks. This looked on the surface like a similar arrangement to the houses of Kings and Lords. However, the reality was that the leader of a monastery was not chosen by divine right (ironically), but by election. The same was true for the offices. All monks were equal until their positions changed.
+
+It is also important to understand that at least in the High Middle Ages, monks came from the very upper crust they would go on to spiritually serve. This had consequences for their diet.
+
+Technically, most monasteries were basing their rules on those laid out by St. Benedict in the 6th century. One of those rules was that no flesh from quadruplets shall be eaten (on the days in which fish isn't already the law).\
+With the monks being used to eating meat on the daily, however, few wanted to abstain.
+
+The rule was circumvented in two ways:\
+a) Semantics - Benedict said that flesh of quadruplets shall not be eaten _within the refectory_ (the dining room), therefore, many monasteries simply build a second dining room, the misericord ("place of mercy"), in which they could indulge\
+b) Offal - the Benedictine rule does not strictly forbid flesh from _inside_ a four-legged animal, thus, offal was seen as permissible. 
+
+Pope Benedict XII (1334-42) eventually conceded to the problem and allowed offal and poultry to be eaten, and dictated that if at least 50% of monks ate at the refectory (and adhered to the meat-free rule), that would be in the spirit enough.
+
+The monastic menu (on meat days) looked therefore something like this:
+
+1st course: Beef. \
+2nd course: Beef, pork, lamb, mutton, geese... with mutton being the most common
+
+Both those courses would come with extras, for example, sheep entrails would be cooked in ale and breadcrumbs ("umble"), while minced meat would be mixed with eggs and milk ("charlet"). Cheese flan and custard were common in the refectory, and on meat-free days, it was fish for dinner and seafood such as cockles, for supper.
 
 ## _The Peasantry_
 
-## 
+## _Famine_
 
-## Tudors
+Famines were still very common during the High Middle Ages. While crop failure would affect primarily the peasant class, sieges were a type of artificial famine that could even topple monks and the high-borne.
+
+When crops failed, the rural population was the first to suffer. The King's primary supportive measure was to lower the grain import prices, but the rural peasants were simply not able to get to the city to buy grain (and even then, would have been unlikely to afford it). A two-year crop failure spelled death for entire families.
+
+During famines, peasants ate anything digestible. Acorns, herbs and bark were some of the better ones, grass and darnel (a potentially fatal toxic weed resembling wheat) were of the more desperate kind. 
+
+Tudors

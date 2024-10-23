@@ -94,7 +94,13 @@ Both those courses would come with extras, for example, sheep entrails would be 
 
 Peasants are not all one class. This is really true for all medieval people, but it is most obvious on this level.
 
-Generalisation is still necessary, so we will divide into three: the slave, the villeins and the yeoman.
+Generalisation is still necessary, so we will divide it into three: the villeins, the freeman. 
+
+A villeins too, was a complicated status. It was a bonded person who did not own her own land but cultivated the land of a Lord. Unlike slavery, however, villeinage was not the owning of a person per se, as much as a person being beholden to a piece of property. A villein could become a freemen and could not be sold.
+
+So what did these classes eat?
+
+
 
 ## _Famine_
 

@@ -24,6 +24,10 @@ Coarse bread and simple pottage were fare not tolerated by the upper crust.
 
 I will focus on the High Middle Ages (AD 1000 to 1300) and central and western Europe.
 
+To start of, the medieval era tended to eat two meals and no snacks. IF breakfast was eaten (by the rich who had the time or the better-off when planning a very long horse ride), it was bread and cheese. 
+
+The more common first meal was dinner. This was consumed at around 10 am to 11 am. The second meal was supper taken between 4 pm and 5 pm.
+
 ## _The Upper Crust_
 
 As in all periods (including ours), the well-to-do liked to show off. During the medieval period that meant a show of what could be hunted and what could be purchased from exotic locations.\
@@ -88,12 +92,22 @@ Both those courses would come with extras, for example, sheep entrails would be 
 
 ## _The Peasantry_
 
+Peasants are not all one class. This is really true for all medieval people, but it is most obvious on this level.
+
+Generalisation is still necessary, so we will divide into three: the slave, the villeins and the yeoman.
+
 ## _Famine_
 
 Famines were still very common during the High Middle Ages. While crop failure would affect primarily the peasant class, sieges were a type of artificial famine that could even topple monks and the high-borne.
 
-When crops failed, the rural population was the first to suffer. The King's primary supportive measure was to lower the grain import prices, but the rural peasants were simply not able to get to the city to buy grain (and even then, would have been unlikely to afford it). A two-year crop failure spelled death for entire families.
+When crops failed, the rural population was the first to suffer. The King's primary supportive measure was to lower the grain import prices, but the rural peasants were simply not able to get to the city to buy grain (and even then, would have been unlikely to afford it). A two-year crop failure spelt death for entire families.
 
 During famines, peasants ate anything digestible. Acorns, herbs and bark were some of the better ones, grass and darnel (a potentially fatal toxic weed resembling wheat) were of the more desperate kind. 
 
-Tudors
+Medieval peasants' favourite time of the year was likely autumn. Vegetables, fruit and grain would be harvested in abundance and animals would be slaughtered to prevent having to feed them in the lean winter. Summer was alright too, as it meant more fish options.
+
+But spring, while a welcome to signal the end of winter, also meant rain, and sometimes too much of it. During 1315, spring was so wet and multiple crop failures occured. The harvest did not recover until 1322 in some areas of Europe. The death toll was some 7,500,000 souls.
+
+
+
+## _Tudors_

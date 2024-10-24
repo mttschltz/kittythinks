@@ -30,7 +30,7 @@ The more common first meal was dinner. This was consumed at around 10 am to 11 a
 
 Here is a _very_ rudimentary illustration of the different medieval classes:
 
-![](/images/uploads/medieval-classes.png)
+![null](/images/uploads/medieval-classes_small.png)
 
 ## _The Upper Crust_
 
@@ -52,7 +52,7 @@ Hippocras (spiced wine) and wafers
 
 > First Course Recipe from _Forme of Cury _(England, 1390)
 >
-> **_'Leche Lombard' _**
+> _**'Leche Lombard' **_
 >
 > Ground pork and add eggs.
 >
@@ -98,13 +98,30 @@ Both those courses would come with extras, for example, sheep entrails would be 
 
 Peasants are not all one class. This is really true for all medieval people, but it is most obvious on this level.
 
-Generalisation is still necessary, so we will divide it into three: the villeins, the freeman. 
+Generalisation is still necessary, so we will divide it into two: the villeins and the freeman. 
 
 A villeins too, was a complicated status. It was a bonded person who did not own her own land but cultivated the land of a Lord. Unlike slavery, however, villeinage was not the owning of a person per se, as much as a person being beholden to a piece of property. A villein could become a freemen and could not be sold.
 
 So what did these classes eat?
 
+Both classes will have a personal garden. Here they grow cabbages, beans and peas, onions and garlic, leeks, parsley and sage. It was also prudent to grow turnips, as they stored well, were nourishing to both humans and animals and therefore got a lot of people through food shortages. 
 
+The better gardeners also had fruit trees. Apples were the most abundant, but pears, cherries, plums and damsons were also grown and favoured.
+
+Those gardens provided the primary ingredients for the most common peasant meal: pottage.\
+At its most basic, pottage is a stew made from meat stock, herbs, oats and salt. The meat stock did not mean a ready supply of meat - bones were generally used to make stock and this would be kept as long as possible.
+
+The villeins in particular may have never tasted meat in her life.
+
+The freemen on the other hand, may have wild fowl or an old hen that stopped laying. But generally, peasants will rather keep their animals for their better, more continuing purposes; Birds for eggs, sheep for wool, cows and goats for milk. Even freebies, such as the rare gift of fresh fish to the villein employed by his Lord as a fisherman, would likely rather sell the fish than eat it. (Fish was eaten by peasants, but not fresh. It would be consumed pickled or smoked, especially herring and sometimes cod.)
+
+Back to the pottage! Virtually anything could be added to a pottage. Vegetables of all kinds were common, especially cabbage (it was believed that green vegetables were unhealthy for humans when unboiled). Thick pottages often had grains and almond milk added, while thin pottages were based on peas. 
+
+With pottage, the peasant had bread. In the beginning of the High Middle Ages, dark rye bread would have dominated. Later a bread called "maslin", made from a mixture of rye and wheat, was available to the freeman. Breads based on oats or barley were also common. The villein would only have the coarsest rye bread to eat.
+
+When bread became stale, it was converted into trenchers and bowls. The fluids from the food would soften the bread enough to either be eaten by people or given to the pigs.
+
+The other animals may be given "horse bread", made of ground peas, beans and bran. In desperate times, this may also feed humans.
 
 ## _Famine_
 
@@ -117,7 +134,5 @@ During famines, peasants ate anything digestible. Acorns, herbs and bark were so
 Medieval peasants' favourite time of the year was likely autumn. Vegetables, fruit and grain would be harvested in abundance and animals would be slaughtered to prevent having to feed them in the lean winter. Summer was alright too, as it meant more fish options.
 
 But spring, while a welcome to signal the end of winter, also meant rain, and sometimes too much of it. During 1315, spring was so wet and multiple crop failures occured. The harvest did not recover until 1322 in some areas of Europe. The death toll was some 7,500,000 souls.
-
-
 
 ## _Tudors_

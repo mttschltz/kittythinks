@@ -28,6 +28,10 @@ To start of, the medieval era tended to eat two meals and no snacks. IF breakfas
 
 The more common first meal was dinner. This was consumed at around 10 am to 11 am. The second meal was supper taken between 4 pm and 5 pm.
 
+Here is a _very_ rudimentary illustration of the different medieval classes:
+
+![](/images/uploads/medieval-classes.png)
+
 ## _The Upper Crust_
 
 As in all periods (including ours), the well-to-do liked to show off. During the medieval period that meant a show of what could be hunted and what could be purchased from exotic locations.\

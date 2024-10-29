@@ -15,6 +15,49 @@ Diets have and still differ between eras and countries. It isn't always easy to 
 
 ## Romans & Greeks
 
+Was it all wine, oil and bread? The answer is maybe!\
+\
+The Graeco-Roman period, a time between 8th century BCE to the 5th century CE, was marked by great deeds and interesting people, but it was also a period of culinary curiosity, which was the very foundation of the now-lauded Mediterranean diet. 
+
+I do dare to lump the Greeks and the Romans together, but of course, it must be understood that there were differences. Whatever such differences may be, it is easy to find commonalities in literature of the time. Both nations loved to write about food and customs surrounding it, therefore, let's begin!
+
+As in every age, Graeco-Romans were divided by class, region and custom.
+
+ It was especially important for these Ancients to eat the _right_ things at the _proper_ time. \
+The elite was besotted with roasted meat, especially beef. This had mythical connection: it had been believed that the first humans, those still divine, were solely sustaining themselves from what the Earth had given them, but when humans invented boundaries and attempted to tame the soil beneath, they invited misery to their doors. Thus, the gods had to intervene. 
+
+Cattle were brought to the Romans via Hercule in one of his labours. Consequently, it was considered a gift from the gods. Similar stories con be found for grain and wine.
+
+So this is the basis of the Ancient Mediterranean diet: Grain (and additionally legumes, which can be grown in the same field in succession), grapes (especially in the form of wine) and olives (especially as oil). In addition, those who could afford it, supplemented their tables with meat, fish, vegetables and fruit.
+
+How much of each category were consumed, depended on both location and occupation. 
+
+Grain grew well in the Mediterranean climate, you could expect wheat, barley, millet, rye, spelt, emmer and oats. Greek physician Galen ranked barley and wheat as the most nutritious.
+
+Grain was primarily made into bread and cakes. This laborious process fell to slaves and women. The basis of nutrition was relegated to the lowest-ranking people in society, a theme that is common in the Ancient world. Status was everything.
+
+Wheat, depending on its quality, could either make raised loaves or flat cakes. Barley was used in biscuits and as gruel.
+
+Rural Ancients ate wheat as a porridge, either mixed with milk or water, and if possible with the addition of honey and wine.
+
+The other grains, such as barley, emmer and spelt, were used for different purposes in the two countries. Barley grew better in Greece than Italy, so barley features more prominently there. To the Romans, it was used more commonly for ritual practises, such as a sacrifice in the form of a salted cake.
+
+The Greeks in particular made a simple porridge from barley that most anyone could afford. When barley was roasted (which must have been common as a law from the 6th century BCE required Athenian brides to bring a _phrygetron,_ a barley roaster into the marriage), it was ground into flour and mixed with milk or oil to make _maza_, an uncooked cake.
+
+> ## _Ancient Greek Barley Cakes_
+>
+> 20lbs of **barley**, soaked overnight
+>
+> 3 lbs of **flax seeds**
+>
+> 1/2 lb of **coriander seeds**
+>
+> 1/8th of a pint of **salt**
+>
+> 1. Roast all the ingredients lightly and grind in a mill.
+> 2. Now mix with **milk** **or wine** into a cake.
+> 3. This can be eaten wet or let dry.
+
 ## Middle Ages
 
 The Middle Ages technically comprise three eras. While the early Middle Ages were still reminiscent of the Pagan age that preceded it, and the attitudes towards communal eating, the High Middle Ages were strictly separated affairs. During the late medieval period, the norms changed again. 
@@ -52,7 +95,7 @@ Hippocras (spiced wine) and wafers
 
 > First Course Recipe from _Forme of Cury _(England, 1390)
 >
-> _**'Leche Lombard' **_
+> **_'Leche Lombard' _**
 >
 > Ground pork and add eggs.
 >

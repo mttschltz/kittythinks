@@ -40,7 +40,7 @@ Wheat, depending on its quality, could either make raised loaves or flat cakes. 
 
 Rural Ancients ate wheat as a porridge, either mixed with milk or water, and if possible with the addition of honey and wine.
 
-The other grains, such as barley, emmer and spelt, were used for different purposes in the two countries. Barley grew better in Greece than Italy, so barley features more prominently there. To the Romans, it was used more commonly for ritual practises, such as a sacrifice in the form of a salted cake.
+The other grains, such as barley, emmer and spelt, were used for different purposes in the two countries. Barley grew better in Greece than Italy, so barley features more prominently there. At the Romans, it was used more commonly for ritual practises, such as a sacrifice in the form of a salted cake. It was also used as punishment for soldiers - if they stepped out of line, their rations were changed from wheat to barley.
 
 The Greeks in particular made a simple porridge from barley that most anyone could afford. When barley was roasted (which must have been common as a law from the 6th century BCE required Athenian brides to bring a _phrygetron,_ a barley roaster into the marriage), it was ground into flour and mixed with milk or oil to make _maza_, an uncooked cake.
 
@@ -57,6 +57,16 @@ The Greeks in particular made a simple porridge from barley that most anyone cou
 > 1. Roast all the ingredients lightly and grind in a mill.
 > 2. Now mix with **milk** **or wine** into a cake.
 > 3. This can be eaten wet or let dry.
+
+The traditional grain for the Romans was emmer (hulled wheat) and spelt.
+
+Like the Greek's barley, emmer made a simple porridge, called _puls_, which was evidently popular. 
+
+
+
+
+
+
 
 ## Middle Ages
 
@@ -95,7 +105,7 @@ Hippocras (spiced wine) and wafers
 
 > First Course Recipe from _Forme of Cury _(England, 1390)
 >
-> **_'Leche Lombard' _**
+> _**'Leche Lombard' **_
 >
 > Ground pork and add eggs.
 >

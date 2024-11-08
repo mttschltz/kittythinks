@@ -26,7 +26,7 @@ As in every age, Graeco-Romans were divided by class, region and custom.
  It was especially important for these Ancients to eat the _right_ things at the _proper_ time. \
 The elite was besotted with roasted meat, especially beef. This had mythical connection: it had been believed that the first humans, those still divine, were solely sustaining themselves from what the Earth had given them, but when humans invented boundaries and attempted to tame the soil beneath, they invited misery to their doors. Thus, the gods had to intervene. 
 
-Cattle were brought to the Romans via Hercule in one of his labours. Consequently, it was considered a gift from the gods. Similar stories con be found for grain and wine.
+Cattle were brought to the Romans via Hercule in one of his labours. Consequently, it was considered a gift from the gods. Similar stories can be found for grain and wine.
 
 So this is the basis of the Ancient Mediterranean diet: Grain (and additionally legumes, which can be grown in the same field in succession), grapes (especially in the form of wine) and olives (especially as oil). In addition, those who could afford it, supplemented their tables with meat, fish, vegetables and fruit.
 
@@ -62,11 +62,21 @@ The traditional grain for the Romans was emmer (hulled wheat) and spelt.
 
 Like the Greek's barley, emmer made a simple porridge, called _puls_, which was evidently popular. 
 
+Wealthy Romans had personal orchards, vinyards and gardens, while the rest purchased there fruit and vegetables from market gardens. 
 
+Common vegetables included cabbages, leeks, lettuces, radishes, endives, turnips and broccoli. Lentils, broad bean and peas made up the legume assortment. Figs, dates, plums, melons and peaches complimented the ever present grapes (which were made into wine and vinegar, and eaten as raisins and in their natural form).
 
+So a menu in a well-off Roman and to a degree Ancient Greek household would look something like this:
 
+1st course: salad, eggs in some form and shellfish\
+2nd course: roasted meat and fish\
+3rd course: fruit and nuts
 
+All of course, with wine and the famous _garum_, a fermented fish sauce.
 
+As sugar was not yet present, sweet dishes contained natural sugar from fruit and honey, or cooked-down sugar from grapes (grape must). The two latter ones - honey and must, could also be combined and cooked down into a thick syrup called _passum. _
+
+All in all, the Roman and Greek diet was balanced and quite healthy, albeit overly heavy in strong flavours (fermented fish entrails and vinegars would not suit everyone's taste today). It is no wonder that the "Mediterranean Diet" of the present resembles the Ancient diet so much!
 
 ## Middle Ages
 
@@ -105,7 +115,7 @@ Hippocras (spiced wine) and wafers
 
 > First Course Recipe from _Forme of Cury _(England, 1390)
 >
-> _**'Leche Lombard' **_
+> **_'Leche Lombard' _**
 >
 > Ground pork and add eggs.
 >

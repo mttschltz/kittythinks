@@ -5,11 +5,29 @@ draft: 'true'
 ---
 Diets have and still differ between eras and countries. It isn't always easy to imagine how our ancestors managed - but did they eat better than us? Let's find out!
 
-## Paleolithic
+## Palaeolithic
+
+There are few tribes left on the planet that are hunter-gatherers. Farming has pushed them to inaccessible places such as rainforests, tundras and remote islands. But our ancestors, those palaeolithic people living some 2.6 million years ago and until the agricultural revolution, had the whole world to play with. And it seems to have benefitted them too: there is no evidence of atherosclerosis, the hardening of the arteries that is now inevitable for _anyone_ living long enough, in ancient populations. So what did they eat?
+
+To start, we need to acknowledge that what we know of the palaeolithic diet is based on the stomach content of a few frozen bodies. The rest comes from observing the few tribes worldwide that still live very similarly. But it is obvious that an Inuit in the Arctic tundra will have a very different diet than a Bolivian rainforest dweller. These modern hunter-gatherers derive 73% of their calories from meat and fish and none from dairy, beans or grains. Does this mean we should dismiss diets with those elements because we are not "suited" to them? Some think so. But judge for yourself.\
+Personally, I would only really look at what the last true hunter-gatherers (those who do not employ _any_ form of gardening and farming) eat, and only because they are in Africa. Those are the Hadza and Kung people from Tanzania and Namibia.
+
+Like every other foraging people, what they really want is meat. But they are not good hunters. More than half the time, the hunters come home empty-handed. Hadza hunt with bow and arrow, something our palaeolithic ancestors didn't have, so their success rate may have been even lower!\
+When the hunters cannot get game, they might look for honey. If they cannot find honey, they look for fruit. But more often than not, neither of those desired foods is available and so the Hadza's calories come from 70% plants. The Kung eat tubers and nuts and other traditional hunter-gatherers will be foraging for other starchy plants such as yams and manioc. \
+Our palaeolithic ancestors would likely have also foraged as much as they could for starchy plants to supplement (and really largely live off) their hunting successes. It would have been a case of restraint: they _wanted_ meat (and honey), but they _had_ plants.
+
+So the modern interest of a supposed "paleo diet" may be a bit wishful... an actual palaeolithic person would have probably **_loved_** all that meat, the fish and the eggs that appear at the centre of the diet craze, but realistically, that isn't likely what would have been on their menu.
+
+In essence, the palaeolithic diet would have varied - sometimes it would have been very lean on meat (and if it had fish at all, was likely dependent on the location of the 'caveman'), and likely would have included quite a bit of starchy vegetables. There is even evidence (from the Max Planck Institute for Evolutionary Anthropology in Leipzig) that some palaeolithic people 100.000 years ago did eat wild grain! Fruit and honey would have also been a thing. Maybe insects. \
+To judge how healthy the diet really was, we would also need to account for the afford it took to procure it. 
+
+
+
+
+
+
 
 ## China
-
-
 
 ## Aztecs & Mayans
 
@@ -117,7 +135,7 @@ Hippocras (spiced wine) and wafers
 
 > First Course Recipe from _Forme of Cury _(England, 1390)
 >
-> **_'Leche Lombard' _**
+> _**'Leche Lombard' **_
 >
 > Ground pork and add eggs.
 >

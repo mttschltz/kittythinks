@@ -19,7 +19,7 @@ Our palaeolithic ancestors would likely have also foraged as much as they could 
 So the modern interest of a supposed "paleo diet" may be a bit wishful... an actual palaeolithic person would have probably **_loved_** all that meat, the fish and the eggs that appear at the centre of the diet craze, but realistically, that isn't likely what would have been on their menu.
 
 In essence, the palaeolithic diet would have varied - sometimes it would have been very lean on meat (and if it had fish at all, was likely dependent on the location of the 'caveman'), and likely would have included quite a bit of starchy vegetables. There is even evidence (from the Max Planck Institute for Evolutionary Anthropology in Leipzig) that some palaeolithic people 100.000 years ago did eat wild grain! Fruit and honey would have also been a thing. Maybe insects. \
-To judge how healthy the diet really was, we would also need to account for the afford it took to procure it. 
+To judge how healthy the diet really was, we would also need to account for the effort it took to procure it. 
 
 
 

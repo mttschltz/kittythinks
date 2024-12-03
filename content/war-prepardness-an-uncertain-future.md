@@ -41,3 +41,35 @@ For example, it suggests tinned beans, carrots, mushrooms, corn, sauerkraut, red
 Additional products recommended are sugar, salt, honey, jam, chocolate, ready-meals such as soups, tinned pasta and mashed potatoes, flour, cocoa, instant broth, hard biscuits and pretzel sticks.
 
 It is noted in the calculator that these recommendations were a combined effort of German, Austrian and Swiss informations.
+
+# Sweden
+
+With its proximity to Russia, Sweden, like its neighbour Finland, has reasons to be concerned. They have both applied to join NATO and the Nordic country has distributed a 32-page document to its citizens on what to do when war comes. Ominously, the brochure starts out with this:
+
+> To resist these threats, we must stand united.
+>
+> If Sweden is attacked, everyone must do their
+>
+> part to defend Sweden’s independence – and
+>
+> our democracy.
+>
+> _If Sweden is attacked, we will never surrender._
+>
+> _Any suggestion to the contrary is false._
+
+The brochure tells the Swede that they must be able to manage on their own for at least a week. A list of home preparedness suggests what one should have at home:
+
+Water in lidded containers or bottles, 3 litres per day (this includes cooking water). Warm clothing and alternative fuel sources, communication devices (radio, power bank for a phone, phone numbers written down on paper), non-perishable food (grains, ready-meals, tinned fruit & vegetables, tinned legumes, tinned meat & fish, tubed cheese, honey, jam, chocolate, baby & infant food and most interestingly: blueberry and rosehip soup!).
+
+Another interesting advice is to** have cash of various denominations at hand**. This isn't a common piece of advice and I think is worth highlighting for anyone!
+
+It makes sure to explain that in a heightened state of alert, all Swedes aged 16 to 70 may be called to serve in some capacity. Interestingly, this includes foreign nationals that reside in Sweden AND Swedes abroad! 
+
+In case of attack, sirens with a specific sound pattern are activated. They require citizens to go indoors, close windows and doors and turn off ventilation systems. Then they are to find a radio or TV to get instructions. Which type of siren sounds, indicates the threat level. Public Service announcements may just be about a certain area, while Emergency Alarms indicate a threat to the entire country. The latter requires all armed forces personnel to go to their wartime posting. The Air Raid sirens indicate the need for cover in civil defense shelters or cellars.
+
+The list of possible shelters and what to do when one can't reach a shelter are extensive and provided with illustrations (page 13). Sweden has really thought this through.
+
+It has some 64000 shelters for 7 million people. They are indicated with this sign:
+
+![](/images/uploads/skyddsrumsskylt-750x500-msb.jpg)

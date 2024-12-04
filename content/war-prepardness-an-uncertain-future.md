@@ -73,3 +73,9 @@ The list of possible shelters and what to do when one can't reach a shelter are 
 It has some 64000 shelters for 7 million people. They are indicated with this sign:
 
 ![](/images/uploads/skyddsrumsskylt-750x500-msb.jpg)
+
+# Norway & Finland
+
+As with Sweden, Norway and Finland are in the direct firing line of Russia. Consequently, they both released information to the public about what to do in case of war impacts their countries. 
+
+A lot of the information is similar to Sweden. One difference is the recommendation for a DAB radio in case of communication outages. DAB is a system that replaces analoguous radio transmission with digital. Problematically, while Norway has officially switched the entire country to DAB in 2017, Finland has instead abandoned its rollout in 2005, and has focussed on digitising 5G broadcasting (while all major radio is also available in FM).

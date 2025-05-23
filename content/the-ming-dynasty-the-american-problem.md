@@ -98,4 +98,8 @@ Where Zhu had condemned the Ming dynasty to a reliance on low taxes and agricult
 
 The Trump administration doesn't want to be in the electricity game. Which is curious when you remember that drone technology is dependent on it. And drones are needed for war. And Trump loves war.
 
+So is the US doomed to be absorbed in its internal wars and usurped by foreign actors, as was the Ming Dynasty? 
+
+That depends if Trump rejected and the _trump card_ is dealt in time.
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

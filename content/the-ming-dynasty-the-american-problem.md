@@ -69,9 +69,9 @@ This new economic boom was based on new inventions and silver, not on agricultur
 
 And yet, the mentality on what constitutated the basis of growth didn't keep up with the new realities and farmers were expected to pay more (in coin and grain). They couldn't however, as the money was with merchants in cities.
 
-Eventually, farmers in prominent provinces rose up and due to the serious overspending of the imperial household (on itself and wars), soliders who had since been paid instead of being forced into their class, could not be afforded and the farmer revolts - together with attacks from the 
+Eventually, farmers in prominent provinces rose up and due to the serious overspending of the imperial household (on itself and wars), soliders who had since been paid instead of being forced into their class, could not be afforded.
 
-
+Consequently, the farmer revolts - together with attacks from the Manchus of Northern China - led to the fall of the Ming Dynasty in April 1644 when Chóngzhēn, the last Ming emperor, hung himself.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

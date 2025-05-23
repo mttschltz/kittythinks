@@ -32,6 +32,8 @@ There weren't enough officials to control everything and soon the tax income loo
 Especially the solider class proved problematic. Soldiers were meant to be born into their job - without considerations for predilection to the task. There was also no military budget, instead land was set aside which the solider class was meant to use for their survival. \
 Wealthier solider quickly used the land as their freehold and made younger and poorer soliders work their land. They also removed themselves from active duty by paying poorer soliders to fight in their stead. Many also simply deserted.
 
+To hasten the empires issues, Zhu had also allowed for eunuchs, who lived in the palace in order to help the harems of the emperor, to come to prominent positions, which greatly irked the officials who came from wealthy backgrounds and did not want to compete with the poor servants. Zhu had experienced poverty and the disdain for the poor by the rich 
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 

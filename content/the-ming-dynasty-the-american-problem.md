@@ -25,7 +25,12 @@ Until Donald John Trump announced his candidacy for president in June 2015.
 
 The emperor, who would choose the name Hóngwǔ ("vastly martial"), could not forget his disdain for those who did not fight against the Mongols, so he created a regime that was absolutist. Personnel were executed on mere suspicion of disloyalty, and all ministries were to report directly to and through him.
 
-Hóngwǔ wanted an orderly society, and the simplest way was by caste. He classified people into soliders (a category especially important to him), farmers and merchants
+Hóngwǔ wanted an orderly society, and the simplest way was by caste. He classified people into soliders (a category especially important to him), farmers and merchants, with separatly assigned settlements and tax classes. People were not to change jobs and settled area and that was meant to be overseen by officials. 
+
+There weren't enough officials to control everything and soon the tax income looked disjointed.
+
+Especially the solider class proved problematic. Soldiers were meant to be born into their job - without considerations for predilection to the task. There was also no military budget, instead land was set aside which the solider class was meant to use for their survival. \
+Wealthier solider quickly used the land as their freehold and made younger and poorer soliders work their land. They also removed themselves from active duty by paying poorer soliders to fight in their stead. Many also simply deserted.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

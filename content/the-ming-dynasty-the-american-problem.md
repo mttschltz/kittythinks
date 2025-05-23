@@ -84,6 +84,16 @@ Consequently, the farmer revolts - together with attacks from the Manchus of Nor
 
 ## There's a DO in Dollar
 
-The US appears to have infinite growth. Silicone Valley has a TV series. But while America has been the leader in various sectors, other countries are rapidly catching up and the Trump government, instead of supporting its technological athletes, has reduced 
+The US appears to have infinite growth. Silicone Valley has a TV series. But while America has been the leader in various sectors, other countries are rapidly catching up and the Trump government, instead of supporting its advancementathletes, has reduced science in the academic setting.
+
+Trump hasn't crippled the US economy yet. In fact, he de-regulated high-risk AI producers that had been required to report on their safety measure during the Biden era, and he is hell-bend to win the tech-war with China.
+
+But just as AI can only be trained on existing knowledge, and that knowledge has to come from somewhere first, so does an economy that wants to exist in the forseeable future, need to invest in _future_ knowledge in the form of scientists, engineers and visionaries. 
+
+Trumps policies are useful for the energy and tech sector _right now_, but they ignore all those academics who have already thought refuge in other countries, or those highly skilled individuals who value their personal freedom above current US salaries.
+
+The average American is not inclined to support a futuristic approach either, afterall, one of the most difficult problems of American society is its legacy of "boot strapping", even for those without shoes. 
+
+Where Zhu had condemned the Ming dynasty to a reliance on low taxes and agriculture, no matter the changing times, so did the US and their long-standing attitude towards social welfare (one of disdain that is), condemn the US to a permanent state of "riskiness", where every illness, every misstep, could plunge the average American into ruin. 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

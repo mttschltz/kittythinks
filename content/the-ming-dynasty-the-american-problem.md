@@ -55,7 +55,7 @@ When Trump became president of the USA, he gave no one illusions about his stanc
 
 On the surface, non-interventionism is not a bad policy. To grant that other nations have the ability and should therefore be granted the right to self-determine is the basis of many countries' international policy. 
 
-However, when coupled with Trump's protectionism (an economic policy that assumed that the restricting, often through tarriffs, of foreign trade will increase a country's revenue and domestic product), and his appeal to conservative attitudes fueled by American-branded Christianity, one quickly arrives at an isolationist reality. 
+However, when coupled with Trump's protectionism (an economic policy that assumes that the restricting, often through tarriffs, of foreign trade will increase a country's revenue and domestic product), and his appeal to conservative attitudes fueled by American-branded Christianity, one quickly arrives at an isolationist reality. 
 
 Trump's intentions are based on his experience as a business mogol and perhaps the Monroe Doctrine of early America. This policy from 1823, sought to stop European interference in the US on the threat of unknown measures. This policy has been in effect in the US at various time and to various degrees ever since. It is an imperial idea, a hegemony of the US over others.
 
@@ -65,16 +65,16 @@ To Trump, the Monroe Doctrine extends over all of the Western hemisphere.
 
 ## You can Count, but not Count On, Money
 
-Zhu had no interest in any economic venture but agriculture. This wasn't odd given his background, but it made him inflexible to progress and blind to the realities of what is needed for economic growth. \
-He sat his taxes very low, and assumed that people would not jerk their duties based on Confucian morality. His son echoed his attitudes and future emperors, despite changing times and new, often internal foes (wealthy landowners, scheming eunuchs, etc.), were unable to change the overreliance on agriculture and low taxes.
+Zhu had no interest in any economic venture but agriculture. This wasn't odd given his background, but it made him inflexible to progress and blind to the realities of what was needed for economic growth. \
+He sat his taxes very low, and assumed that people would not jerk their duties based on Confucian morality. His son echoed his attitudes and future emperors, despite changing times and new, often internal foes (wealthy landowners, scheming eunuchs, etc.), were unable to change the overreliance on agriculture and the now customary low taxes.
 
 In the 16th century, there was an economic upturn, partially attributed to outside influences (silver from Portugal and Spain, sweet potato and potato from Latin Ameria, technological advancements, etc.), and partially due to a simplification of taxes. 
 
-But the damage was done regardless, as the conservative, inward mentalities had not changed. 
+But the damage was done, as the conservative, inward mentality had not changed. 
 
 This new economic boom was based on new inventions and silver, not on agricultural achievements. In fact, the value of agricultural products fell from 100 ounces of silver in 1500 to just 2 ounces of silver by 1700.
 
-And yet, the mentality on what constitutated the basis of growth didn't keep up with the new realities and farmers were expected to pay more (in coin and grain). They couldn't however, as the money was with merchants in cities.
+And yet, the idea what should further economic growth didn't keep up with the new realities and farmers were expected to pay more (in coin and grain) despite earning less.
 
 Eventually, farmers in prominent provinces rose up and due to the serious overspending of the imperial household (on itself and wars), soliders who had since been paid instead of being forced into their class, could not be afforded.
 

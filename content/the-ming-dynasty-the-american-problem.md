@@ -17,7 +17,14 @@ Zhu's ambition was the restructuring of China, and he started with revitalising 
 
 The USA has been famously successful in commerce, science, entertainment... all things that make a country a powerhouse. There were hiccups up surely, but by and large, the US was ever forward facing.
 
-Until Donald John Trump announced his candidacy for president in June 2015.
+Or was it? 
+
+The US, if you look a bit closer, had shown signs of becoming the victim of its own success for a while now. \
+Its car-centrism that makes it look outdated compared to much of Europe's excellent train system, its unduly high output of waste (every American citizen produces 3.2kg of rubbish a day - 3x the international average) compared to Switzerland which sends 0% of waste to landfills, and its backwards attitudes towards people of colour (which in turn means a bigger neglect of those groups and a reduction in their socioeconomic value), etc.
+
+"Americans know nothing about the world" has been a joke for a while now, which is an attitude that can only be attained by those who are living in, or believe that they are living in, a golden age. They trap themselves into thinking that advancements aren't necessary because everthing is going swimmingly.
+
+Cue: Donald John Trump announces his candidacy for president in June 2015.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

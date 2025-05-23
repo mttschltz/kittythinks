@@ -42,13 +42,27 @@ Thus, is 1551, all foreign trade was forbidden.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+## Insularity as Revenge?
 
+When Trump became president of the USA, he gave no one illusions about his stance. "Make America Great Again" is a clear non-interventionist motto. Trump's America is meant to be about itself, not foreign problems. 
+
+On the surface, non-interventionism is not a bad policy. To grant that other nations have the ability and should therefore be granted the right to self-determine is the basis of many countries' international policy. 
+
+However, when coupled with Trump's protectionism (an economic policy that assumed that the restricting, often through tarriffs, of foreign trade will increase a country's revenue and domestic product), and his appeal to conservative attitudes fueled by American-branded Christianity, one quickly arrives at an isolationist reality. 
+
+Trump's intentions are based on his experience as a business mogol and perhaps the Monroe Doctrine of early America. This policy from 1823, sought to stop European interference in the US on the threat of unknown measures. This policy has been in effect in the US at various time and to various degrees ever since. It is an imperial idea, a hegemony of the US over others.
+
+To Trump, the Monroe Doctrine extends over all of the Western hemisphere.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## You can Count, but not Count On, Money
+
+Zhu had no interest in any economic venture but agriculture. This wasn't odd given his background, but it made him inflexible to progress and blind to the realities of what is needed for economic growth. 
 
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 
 

@@ -90,16 +90,14 @@ Trump hasn't crippled the US economy yet. In fact, he de-regulated high-risk AI 
 
 But just as AI can only be trained on existing knowledge, so does an economy that wants to exist in the forseeable future, need to invest in _future_ knowledge in the form of scientists, engineers and visionaries. 
 
-Trump's policies are useful for the energy (read: fossil-fuel) and tech sector _right now_, but they ignore all those academics who have already sought refuge in other countries, or those highly skilled individuals who value their personal freedom above current US salaries. They also ignore the fact that combustion fuel is not the future. Electricity is. Who leads the race in electricity-as-fuel? China. Not America. (Not even a little bit - Europe and India are also above the US in this field).
+Trump's policies are useful for the energy (read: fossil-fuel) and tech sector _right now_, but they ignore all those academics who have already sought refuge in other countries, or those highly skilled individuals who value their personal freedom above current US salaries. They also ignore the fact that combustion fuel is not the future. Electricity is. Who leads the race in electricity-as-fuel? China. Not America. (Not even a little bit - Europe and India are also above the US in this field). Electricity is also necessary for modern warfare, an area that the US would likely want to dominate in (and that we all would probably not prefer China to unseat democracies in).
 
 Some forward-thinking American might look at these data points and yearn for change but the average American is not inclined to support a futuristic approach either, because one of the most difficult problems of American society is its legacy of "boot strapping", even for those without shoes. 
 
-Where Zhu had condemned the Ming dynasty to a reliance on low taxes and agriculture, no matter the changing times, so did the US and their long-standing attitude towards social welfare (one of disdain that is), condemn the US to a permanent state of "riskiness", where every illness, every misstep, could plunge the average American into ruin. 
-
-The Trump administration doesn't want to be in the electricity game. Which is curious when you remember that drone technology is dependent on it. And drones are needed for war. And Trump loves war.
+Where Zhu had condemned the Ming dynasty to a reliance on low taxes and agriculture, no matter the changing times, so did the US and their long-standing attitude towards social welfare (one of disdain that is), condemn the US to a permanent state of "riskiness", where every illness, every misstep, could plunge the average American into ruin.
 
 So is the US doomed to be absorbed in its internal wars and usurped by foreign actors, as was the Ming Dynasty? 
 
-That depends if Trump rejected and the _trump card_ is dealt in time.
+That depends if Trump gets rejected and the _trump card_ is dealt in time.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

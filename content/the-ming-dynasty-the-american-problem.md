@@ -38,6 +38,8 @@ This new insular mentality led to conservatism in all of society, and was soon f
 
 Thus, is 1551, all foreign trade was forbidden.
 
+16 years later, all restriction were reversed as they had led the opposite outcome.
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 

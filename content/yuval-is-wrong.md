@@ -37,13 +37,13 @@ Even those who simply settle on: “ok, the matter (temperature meets high densi
 
 > **_“Before modern science, we couldn’t imagine atoms, black holes, or viruses and bacteria.”_**
 
-_Atoms:_ In some **Buddhist **schools, _Kalapa _are mentioned. These are indivisible units of matter, which are so small that they cannot be perceived unless one meditates about them. They are akin to elements and believed to make up all of what is there. 
+_Atoms:_ In some **Buddhist** schools, _Kalapa_ are mentioned. These are indivisible units of matter, which are so small that they cannot be perceived unless one meditates about them. They are akin to elements and believed to make up all of what is there. 
 
-The Mu'tazilite school of early **Islam **posits that _god has made the universe of indivisible parts_. This religious theory explains that humans’ atomised nature makes them liable to judgement, as it means they themselves can determine actions, instead of being led by God directly.
+The Mu'tazilite school of early **Islam** posits that _god has made the universe of indivisible parts_. This religious theory explains that humans’ atomised nature makes them liable to judgement, as it means they themselves can determine actions, instead of being led by God directly.
 
 _Black Holes:_ Black holes, as spaces that devour everything, including light, are likewise not as mysterious as Harari believes.
 
-**Tartarus **from Greek mythology represents both a god (one of the three primordial gods - the others being Earth and Chaos) and a _place_. He is the abyss, the punishment that destroys souls. Tartarus is a black hole, beyond what is known (described as _below _the underworld), and torturous by its nature. 
+**Tartarus** from Greek mythology represents both a god (one of the three primordial gods - the others being Earth and Chaos) and a _place_. He is the abyss, the punishment that destroys souls. Tartarus is a black hole, beyond what is known (described as _below_ the underworld), and torturous by its nature. 
 
 **Vishvarupa** is a manifestation of the Hindu god Vishnu. It is the form that has _no end and no beginning_; it is so vast that it can not be handled by normal people. It is neither good nor bad - it is a black hole containing the entirety of the universe.
 
@@ -51,8 +51,8 @@ _Viruses or Bacteria:_  I give Harari this one. Mythology didn’t really predic
 
 > _**“Science is far, far more imaginative, far more wild, far more surprising than any mythology that humans ever managed to create.”**_
 
-Science _is _wild and surprising. The solutions science has come up with, discarded, and reimagined are fascinating and awesome. But mythology is more than god A and goddess B had a baby, and this one was human. Mythology is the basis for human questions about what the universe is all about, what we and all that is, are made of, where we come from and where we are going. Mythology inquires about the how, the where, the what and the why.
+Science _is_ wild and surprising. The solutions science has come up with, discarded, and reimagined are fascinating and awesome. But mythology is more than god A and goddess B had a baby, and this one was human. Mythology is the basis for human questions about what the universe is all about, what we and all that is, are made of, where we come from and where we are going. Mythology inquires about the how, the where, the what and the why.
 
 Science, together with its important siblings philosophy and history, refutes, confirms and reshapes those questions.
 
-For a historian and writer on big science, Mr. Harari is curiously unable to draw connections between the before and the after. _Sapien _he is, _Homo Deus_? No.
+For a historian and writer on big science, Mr. Harari is curiously unable to draw connections between the before and the after. _Sapien_ he is, _Homo Deus_? No.

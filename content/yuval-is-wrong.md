@@ -23,17 +23,17 @@ This may be true for the aspect of mythology that concerns the whims of gods and
 
 Creation stories are from humans trying to come to terms with the world around them, as do humans who practice science. 
 
-Is the world surrounded by a giant serpent and propped up by a massive tree? Perhaps the cosmos was formed from a shapeless expanse that, chaotically, was ordering itself to create life! Or did life on Earth emerge only via transmutation from material from \*another\* planet?
+Is the world surrounded by a giant serpent and propped up by a massive tree? Perhaps the cosmos was formed from a shapeless expanse that, chaotically, was ordering itself to create life! Or did life on Earth emerge only via transmutation from material from _another _planet?
 
 All of these are questions that have, in some way or another, inspired scientific inquiry - and all of them are based on mythological creation myths.
 
 Evolutionary theories (not merely Darwin’s theory of evolution, but ideas such as Lamarckism and spontaneous generation) are scientific attempts to continue thoughts brought forth by mythology on the origin of plants and animals. 
 
-The idea of the ‘Big Bang’  from approximately 13.8 billion years ago is a concept that, as much as it would like to, can not escape its resemblance to the \*\*\*\*\*\*creatio \*ex nihilo doctrine\* that states that matter cannot be made out of nothing but must be from something, usually assumed to be divinely made. If the universe has a beginning, so theists say, then this beginning has to have been created. 
+The idea of the ‘Big Bang’  from approximately 13.8 billion years ago is a concept that, as much as it would like to, can not escape its resemblance to the _creatio ex nihilo_ doctrine* that states that matter cannot be made out of nothing but must be from something, usually assumed to be divinely made. If the universe has a beginning, so theists say, then this beginning has to have been created. 
 
 The value of this assertion is not relevant here, but that it pre-dates the scientific theory is.
 
-Even those who simply settle on: “ok, the matter (temperature meets high density, light particle, radiation,…) was \*always\* there”, cannot escape pre-existing mythological thought. Divine matter’s early cousin is the concept of \*creatio ex materia\*, in which matter has always existed, and \*stuff\* comes simply by transmutation of what is, and has always been, there. This theory doesn’t even always involve divinity. You cannot take the cosmology out of the cosmogeny if you want to make a true statement of how we arrived at the scientific ideas championed today. Science surprises, but it did not give its answers without us asking first.
+Even those who simply settle on: “ok, the matter (temperature meets high density, light particle, radiation,…) was _always_ there”, cannot escape pre-existing mythological thought. Divine matter’s early cousin is the concept of _creatio ex materia_, in which matter has always existed, and _stuff _comes simply by transmutation of what is, and has always been, there. This theory doesn’t even always involve divinity. You cannot take the cosmology out of the cosmogeny if you want to make a true statement of how we arrived at the scientific ideas championed today. Science surprises, but it did not give its answers without us asking first.
 
 > _**“Before modern science, we couldn’t imagine atoms, black holes, or viruses and bacteria.”**_
 

@@ -5,7 +5,7 @@ draft: 'false'
 ---
 ![null](/images/uploads/yuval-mythology-quote.png)
 
-(_Yuval Harari _[_posted this on 15/07/2025 to Instagram_](https://www.instagram.com/p/DMF2zpat1Bc/?utm_source=ig_web_copy_link)_.)_
+(_Yuval Harari_ [_posted this on 15/07/2025 to Instagram_](https://www.instagram.com/p/DMF2zpat1Bc/?utm_source=ig_web_copy_link)_.)_
 
 “Homo Deus” is what he calls humans who have tossed the shackles of mortality, but somehow he doesn’t see the connection between science and mythology. Or maybe he does, and misses the imaginative foundation the latter gave the former. Yuval Harari is not a scientist; he is a science writer. Evidently, he is also not passionate about the origin of scientific thought.
 

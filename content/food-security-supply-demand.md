@@ -7,7 +7,9 @@ We all care about food security - at least our own. The COVID-19 pandemic and th
 
 But is it actually possible to meet the demands of an ever-growing global population, a deteriorating climate, and the allures of modern sensibilities on just how _healthy_ our food is?
 
-This is a brief examination based on the MIT course 1.74 _Land, Water, Food, and Climate_ (offered in the Fall 2020 graduate semester, taught by H.M. King Bhumibol Professor Dennis McLaughlin). As this course is a reading class, with open-ended discussions, I will add my own value judgements (based on the taught science and lecturer notes).
+This is a layman's examination based on the MIT course 1.74 _Land, Water, Food, and Climate_ (offered in the Fall 2020 graduate semester, taught by H.M. King Bhumibol Professor Dennis McLaughlin). As this course is a reading class, with open-ended discussions, I will add my own value judgements (based on the taught science and lecturer notes).
+
+I will also be using '_Shifting Commodity Markets in a Globalized World' _(by Rabah Arezki & Akito Matsumoto, International Monetary Fund, 2017). And, where indicated, a variety of other sources. 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -15,4 +17,26 @@ This is a brief examination based on the MIT course 1.74 _Land, Water, Food, and
 
 To talk about food security is to talk about whether we really _need_ to talk about food security! Have enough advances in agricultural practices and industrialisation been made already? There are much fewer famines than in the past - isn't that a sign that we are ok?
 
-The short answer might be "no" if we consider that simply having a higher crop yield does not address the problem of access. Food needs to be produced, distributed and utilised in a manner that is accessible to those who require it. But even that isn't enough. Social and cultural attitudes and changes in diets demand consideration, too, and the changing climate can throw any of these points into chaos.
+The short answer might be "no" if we consider that simply having a higher crop yield does not address the problem of access. Food needs to be produced, distributed and utilised in a manner that is accessible to those who require it. But even that isn't enough. Social and cultural attitudes and changes in diets demand consideration, too, and the changing climate can throw any of these points into chaos. 
+
+In 1798, economist Thomas Robert Malthus argued in his _Essay on the Principle of Population_ that eventually, the increase in population will outgrow its ability to feed itself. Ever since, arguments against Malthusian pessimism have accumulated. The lack of stagnant wages and economic growth is often cited as a major change since Malthus's time; advancements in technology and agriculture are another. 
+
+But not everyone has turned so optimistic.
+
+## The Pessimists
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ehrlich, P. R., & Ehrlich, A. H. (2013). Can a collapse of global civilization be avoided?. Proceedings. Biological sciences, 280(1754), 20122845. https://doi.org/10.1098/rspb.2012.2845

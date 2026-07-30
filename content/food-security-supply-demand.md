@@ -25,9 +25,9 @@ But not everyone has turned so optimistic.
 
 ## The Pessimists
 
+Ehrlich & Ehrlich argue in their 2013 paper that, unless a major cultural (and international) shift occurs, global collapse is imminent.
 
-
-
+They observe a staggering increase in climate-related problems (animal and plant extinction, soil degradation through contamination and misuse, ocean acidification, etc.), and bad social management (resource exploitation). They blame overpopulation, as well as badly managed (technologically poor) overconsumption. 
 
 
 

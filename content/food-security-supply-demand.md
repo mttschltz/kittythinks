@@ -45,4 +45,12 @@ Apart from this latter controversial view (although the Ehrlichs suggest that sc
 
 _Ehrlich, P. R., & Ehrlich, A. H. (2013). Can a collapse of global civilization be avoided?. Proceedings. Biological sciences, 280(1754), 20122845. https://doi.org/10.1098/rspb.2012.2845_
 
-In 2011, California Academy of Sciences Executive Director and climate scientist Jonathan Foley gave a TEDX talk that had a similarly bleak view of things.
+In 2011, California Academy of Sciences Executive Director and climate scientist Jonathan Foley gave a TEDX talk that had a similarly bleak view of things. 
+
+
+
+
+
+Foley starts with an outline of just how much land is used for farming already: 16 mil km² for crops, and 30 mil km² for livestock. That's 40% of our entire planet. He also explains that agriculture uses about 70% of the 50% remaining available water on Earth and contributes to greenhouse gas emissions by 30%. But agriculture isn't optional. So he asks: how can we double this agricultural output when we have 2 to 2.5 billion more humans on Earth?
+
+Release more farmland? Possible, he says - but it would destroy sensitive areas that are important to biodiversity and therefore not a good idea. Farm more efficiently in areas that are not part of those sensitive areas? Yes, but we are historically bad at balancing food farming and biodiversity preservation. All the available ideas (organic farming, GMOs, new trade subsidies, etc.) are not silver bullets. Foley posits that a survival of us depends on a new form of agriculture which combines the best ideas from commercial agriculture with the best ideas of organic, local farming.

@@ -39,8 +39,8 @@ Their primary issue is the lack of initiative concerning the _human_ problem.
 
 > _To our minds, the fundamental cure, reducing the scale of the human enterprise (including the size of the population) to keep its aggregate consumption within the carrying capacity of Earth, is obvious but too much neglected or denied. _
 
-The most interesting suggestion of Ehrlich & Ehrlich is that of an establishment of 'foresight intelligence'. They make a curious allusion to Plato's philosopher kings here (likely without realising it). The researchers feel that it is on scientists to "help guide humanity" towards a more science-based future and "guide cultural changes towards desirable outcomes such as increased socio-economic resilience."
+The most interesting suggestion of Ehrlich & Ehrlich, and one that ironically posits its own human problem, is that of an establishment of 'foresight intelligence'. They make a curious allusion to Plato's philosopher kings (likely without realising it). The researchers feel that it is on **scientists **to "help guide humanity" towards a more science-based future and "guide cultural changes towards desirable outcomes such as increased socio-economic resilience."
 
-Apart from this later controversial view (although the Ehrlichs suggest that scientists must cooperate with social engineers - perhaps they'd be open to working with ethicists, too), their arguments are sobering. The name "Ehrlich" is a German adjective meaning 'honest', and honesty in discussions of how much this planet can actually handle is surely important.
+Apart from this latter controversial view (although the Ehrlichs suggest that scientists must cooperate with social engineers - perhaps they'd be open to working with philosophers, too), their arguments are sobering. The name "Ehrlich" is a German adjective meaning 'honest', and honesty in discussions of how much this planet can actually handle is surely important.
 
 _Ehrlich, P. R., & Ehrlich, A. H. (2013). Can a collapse of global civilization be avoided?. Proceedings. Biological sciences, 280(1754), 20122845. https://doi.org/10.1098/rspb.2012.2845_

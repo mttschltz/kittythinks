@@ -31,7 +31,9 @@ They observe a staggering increase in climate-related problems (animal and plant
 
 > _How likely is such a collapse to occur? No civilization can avoid collapse if it fails to feed its population. _
 
+The two researchers also suggest the theoretical cures: "severely limit climate disruption; restrict expansion of land area for agriculture (to preserve ecosystem services); raise yields where possible; put much more effort into soil conservation; increase efficiency in the use of fertilizers, water and energy; become more vegetarian; grow more food for people (not fuel for vehicles); reduce food wastage; stop degradation of the oceans and better regulate aquaculture; significantly increase investment in sustainable agricultural and aquacultural research; and move increasing equity and feeding everyone to the very top of the policy agenda."
 
+Furthermore, "\[...] forbidding the use of antibiotics as growth stimulators for livestock, building emergency stocks of key vaccines and drugs (such as Tamiflu), improving disease surveillance, expanding mothballed emergency medical facilities, preparing institutions for imposing quarantines and, of course, moving as rapidly as possible to humanely reduce the human population size. It has become increasingly clear that security has many dimensions beyond military security \[83,84] and that breaches of environmental security could risk the end of global civilization."
 
 
 

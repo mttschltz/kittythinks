@@ -44,3 +44,5 @@ The most interesting suggestion of Ehrlich & Ehrlich, and one that ironically po
 Apart from this latter controversial view (although the Ehrlichs suggest that scientists must cooperate with social engineers - perhaps they'd be open to working with philosophers, too), their arguments are sobering. The name "Ehrlich" is a German adjective meaning 'honest', and honesty in discussions of how much this planet can actually handle is surely important.
 
 _Ehrlich, P. R., & Ehrlich, A. H. (2013). Can a collapse of global civilization be avoided?. Proceedings. Biological sciences, 280(1754), 20122845. https://doi.org/10.1098/rspb.2012.2845_
+
+In 2011, California Academy of Sciences Executive Director and climate scientist Jonathan Foley gave a TEDX talk that had a similarly bleak view of things.

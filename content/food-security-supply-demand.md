@@ -45,7 +45,7 @@ Apart from this latter controversial view (although the Ehrlichs suggest that sc
 
 _Ehrlich, P. R., & Ehrlich, A. H. (2013). Can a collapse of global civilization be avoided?. Proceedings. Biological sciences, 280(1754), 20122845. https://doi.org/10.1098/rspb.2012.2845_
 
-In 2011, California Academy of Sciences Executive Director and climate scientist Jonathan Foley gave a TEDX talk that had a similarly bleak view of things. 
+In 2011, California Academy of Sciences Executive Director and climate scientist Jonathan Foley gave a TEDX talk that had similar points, but a slightly less bleak view of things. 
 
 
 
@@ -55,4 +55,24 @@ Foley starts with an outline of just how much land is used for farming already: 
 
 Release more farmland? Possible, he says - but it would destroy sensitive areas that are important to biodiversity and therefore not a good idea. Farm more efficiently in areas that are not part of those sensitive areas? Yes, but we are historically bad at balancing food farming and biodiversity preservation. All the available ideas (organic farming, GMOs, new trade subsidies, etc.) are not silver bullets. Foley posits that our survival depends on a new form of agriculture which combines the best ideas from commercial agriculture with the best ideas from organic, local farming. He titles this unlikely symbiosis 'Terraculture'.
 
-Foley helpfully specifies what this looks like in detail too:
+Foley helpfully specifies what this should look like in detail: We must use drip irrigation (to avoid water wastage), incentivise farmers to comply with this new terraculture, use precision agriculture (technological advancements such as sensors, GPS mapping and variable-rate technology (VRT) to farm fields by need, and develop new crop varieties. He also stresses a need for new diet approaches, better tillage practises, and greywater recycling.
+
+He doesn't sound hopeful, but he seems to see a _theoretical_ chance.
+
+> _This is going to be one of the hardest things we ever have done in human history, and we absolutely have to get it right. And we have to get it right on our first and only try._
+>
+>
+>
+>
+
+<https://www.youtube.com/watch?v=uJhgGbRA6Hk&t=12s>
+
+PART II will feature the optimists!
+
+> 
+>
+> 
+>
+> 
+>
+>

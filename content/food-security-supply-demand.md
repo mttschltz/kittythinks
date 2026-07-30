@@ -1,13 +1,13 @@
 ---
-title: Food Security - Supply & Demand?
+title: Food Security - Supply & Demand? PART I
 date: '2026-07-30T09:41:43+09:30'
 draft: 'true'
 ---
 We all care about food security - at least our own. The COVID-19 pandemic and the current cyclosporiasis outbreak in the US have shown how quickly we go from not thinking about where and how our food is supplied to panicking and asking "why?"
 
-But is it actually possible to meet the demands of an ever-growing global population, a deteriorating climate, and the allures of modern sensibilities on just how _healthy_ our food is?
+But is it actually possible to meet the demands of an ever-growing global population, a deteriorating climate, and the allures of just how _healthy_ our food is?
 
-This is a layman's examination based on the MIT course 1.74 _Land, Water, Food, and Climate_ (offered in the Fall 2020 graduate semester, taught by H.M. King Bhumibol Professor Dennis McLaughlin). As this course is a reading class, with open-ended discussions, I will add my own value judgements (based on the taught science and lecturer notes).
+This is a layman's examination (in multiple parts) based on the MIT course 1.74 _Land, Water, Food, and Climate_ (offered in the Fall 2020 graduate semester, taught by H.M. King Bhumibol Professor Dennis McLaughlin). As this course is a reading class, with open-ended discussions, I will add my own value judgements (based on the taught science and lecturer notes).
 
 I will also be using '_Shifting Commodity Markets in a Globalized World' _(by Rabah Arezki & Akito Matsumoto, International Monetary Fund, 2017). And, where indicated, a variety of other sources. 
 

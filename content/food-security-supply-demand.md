@@ -1,7 +1,7 @@
 ---
 title: Food Security - Supply & Demand? PART I
 date: '2026-07-30T09:41:43+09:30'
-draft: 'FALSE'
+draft: 'false'
 ---
 We all care about food security - at least our own. The COVID-19 pandemic and the current cyclosporiasis outbreak in the US have shown how quickly we go from not thinking about where and how our food is supplied to panicking and asking "why?"
 

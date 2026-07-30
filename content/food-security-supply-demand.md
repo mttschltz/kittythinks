@@ -35,9 +35,11 @@ The two researchers also suggest the theoretical cures: "severely limit climate 
 
 Furthermore, "\[...] forbidding the use of antibiotics as growth stimulators for livestock, building emergency stocks of key vaccines and drugs (such as Tamiflu), improving disease surveillance, expanding mothballed emergency medical facilities, preparing institutions for imposing quarantines and, of course, moving as rapidly as possible to humanely reduce the human population size. It has become increasingly clear that security has many dimensions beyond military security \[83,84] and that breaches of environmental security could risk the end of global civilization."
 
+Their primary issue is the lack of initiative concerning the _human_ problem. 
 
+> _To our minds, the fundamental cure, reducing the scale of the human enterprise (including the size of the population) to keep its aggregate consumption within the carrying capacity of Earth, is obvious but too much neglected or denied. _
 
-
+The most interesting suggestion of Ehrlich & Ehrlich is that of an establishment of 'foresight intelligence'. They make a curious allusion to Plato's philosopher kings here (likely without realising it). The researchers feel that it is on scientists to "help guide humanity" towards a more science-based future and "guide cultural changes towards desirable outcomes such as increased socio-economic resilience."
 
 
 

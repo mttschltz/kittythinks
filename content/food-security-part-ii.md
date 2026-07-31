@@ -30,10 +30,12 @@ He concludes his chapter on food and hunger by pointing out area-specific issues
 
 Lomborg's work was so influential that it inspired the publication of a counter-book from the Danish Ecological Council (now Green Transition Denmark_)_, with contributions from 18 different scholars.  It also started a critique in Nature, a rebuttal by Lomborg, and two counter-rebuttals by science writer John Rennie and scientist John P. Holdren.
 
-
-
-
-
 ¹_Hunger reduction rates slow down worldwide, UN food agency warns. (2001, October 15). UN News. https://news.un.org/en/story/2001/10/17592_
 
 _²Pimm, Stuart & Harvey, P. (2001). No Need to Worry about the Future. Nature. 414. 149-150. 10.1038/35102629. _
+
+Another optimist, the late Hans Rosling, a physician and speaker who described himself as a possibilist and disliked the optimist label, concurred with Lomborg's view in the matter of population. He, too, did not believe in an exponential growth spurt. Rosling's example is Bangladesh: in the seventies, the average Bangladeshi woman had 5 children; in 2013, when Rosling gave his talk titled _Don't Panic: The Truth About Population³_ it was down to 2.5.
+
+
+
+³_HORIZON - Big Thoughts. (2025, April 11). Don’t Panic: The Truth About Population https://www.youtube.com/watch?v=frVN1L_ES3g_

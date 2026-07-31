@@ -20,3 +20,13 @@ All good things come in threes, but so do all bad things. Balancing world hunger
 Food prices have fallen over the last century, but they have also become more volatile. First, during the oil crisis in the 1970s, and again during 2008. A larger and more demanding population, inundated with the problems of climate change, will face even more volatility. 
 
 > _However, many (but not all) commentators have predicted that this spike heralds a period of rising and more volatile food prices driven primarily by increased demand from rapidly developing countries, as well as by competition for resources from first-generation biofuels production. _
+
+Godfray and Beddington go on to give solutions to the question of how we may increase food production, while simultaneously improving sustainability. 
+
+It is not feasible to add more arable land, as this would hamper other human activity and threaten biodiversity. Therefore, existing agricultural use needs to be intensified. This could be done, according to Godfray and Beddington, by changing agronomic practices, modifying pest and livestock waste management, and adding agroforestry¹.
+
+
+
+
+
+_¹Agroforestry involves such processes as planting trees between crops as windbreakers, having livestock graze in tree-shaded environments, and planting crops directly in forest grounds. Agroforestry leads to less soil erosion, climate change weakening (as trees capture carbon) and more economic diversification for farmers._

@@ -21,7 +21,8 @@ He does acknowledge that the distribution of said food is unequal, but he sees t
 
 Besides the fallacy of Malthus, Lomborg also wants to emphasise _why_ he is so optimistic. And here, he makes his best point: Norman Borlaug's Green Revolution. Borlaug developed crops that germinate earlier and grow shorter stems, resulting in consecutive harvests. He won the Nobel Peace Prize for his efforts.
 
-But Lomborg, while busy praising higher yields in crops through fertiliser and pesticides, and irrigation advantages in desert regions, forgets that by the time he writes his book, it is obvious what shortfalls come with such agricultural practises.
+But Lomborg, while busy praising higher yields in crops through fertiliser and pesticides, and irrigation advantages in desert regions, forgets that by the time he writes his book, it is obvious what shortfalls come with such agricultural practises. He isn't bothered by biodiversity loss & Co, because it doesn't have enough relevant impact on prosperity. In general, Lomborg's biggest argument for his disregard of scientific facts is that humans have benefitted from agricultural progress and that the issues that have arisen from the same progress are the lesser evil. \
+His every argument is that of an economist - the benefits have hitherto matched the costs, and therefore it is worth continuing as before.
 
 
 

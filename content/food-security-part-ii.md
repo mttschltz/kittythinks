@@ -36,7 +36,9 @@ _²Pimm, Stuart & Harvey, P. (2001). No Need to Worry about the Future. Nature. 
 
 Another optimist, the late Hans Rosling, a physician and speaker who described himself as a possibilist and disliked the optimist label, concurred with Lomborg's view in the matter of population. He, too, did not believe in an exponential growth spurt. Rosling's example is Bangladesh: in the seventies, the average Bangladeshi woman had 5 children; in 2013, when Rosling gave his talk titled _Don't Panic: The Truth About Population³_, it was down to 2.5. He explains that the population increase is predicted to level off at around 10 billion, but that the number of _children_ born to a woman will actually continue to stagnate at the level of the year 2000: at 2 per woman. By the year 2100, Rosling predicts that 4 billion people will live in Africa, 5 billion in Asia/Oceania, and only 1 billion each in Europe (with Russia) and the Americas. 
 
-He acknowledges that it will be hard to have all those new people live well - especially in Africa. But he is optimistic. He points to the great advances in healthcare 
+He acknowledges that it will be hard to have all those new people live well - especially in Africa. But he is optimistic. He points to the great advances in healthcare, slow but steady progress in the economic landscapes, and lastly, he points to the untapped potential of African agriculture.
+
+> _\[...] agricultural yields in Africa are just a fraction of what they could be with better technology, and Africa's rivers are barely tapped for irrigation. One day Africa could hum with combine Harvesters and tractors and grow food for many more billions._
 
 
 

@@ -16,10 +16,13 @@ Lomborg goes on to criticise other 60s pessimists, and concludes that hindsight 
 
 He then examines Malthus. We've learnt that according to Malthus, population grows exponentially, while food production grows linearly. Except, Lomborg points out, that is an oversimplification that has not held.
 
-Populations have rarely grown exponentially (he shows a very steady increase from the 1750s to the 1950s, and only then a rapid rise), and food production hasn't been linear either. Since 1961, the world's agricultural production has doubled, and, in developing countries, tripled. The UN stated in 2001 that the world produces 23% more food than in 1968 (UN data from 2011 shows that global food production has now tripled, mainly due to higher yields). For Lomborg, this basically settles it. There's a ton of food. He does acknowledge that the distribution of said food is unequal, but he sees the upsides regardless: starvation had fallen from 35% to 18%, trending further down. (While he was right, pandemics and armed conflict would prompt the UN to warn of a slowing down in the reduction of hunger just three years after Lomborg's book release.)
+Populations have rarely grown exponentially (he shows a very steady increase from the 1750s to the 1950s, and only then a rapid rise), and food production hasn't been linear either. Since 1961, the world's agricultural production has doubled, and, in developing countries, tripled. The UN stated in 2001 that the world produces 23% more food than in 1968 (UN data from 2011 shows that global food production has now tripled, mainly due to higher yields). For Lomborg, this settles it. There's a ton of food. \
+He does acknowledge that the distribution of said food is unequal, but he sees the upsides regardless: starvation had fallen from 35% to 18%, trending further down. (While he was right, pandemics and armed conflict would prompt the UN to warn of a slowing down in the reduction of hunger just three years after Lomborg's book release.¹)
+
+Besides the fallacy of Malthus, Lomborg also wants to emphasise _why_ he is so optimistic. And here, he makes his best point: Norman Borlaug's Green Revolution
 
 
 
 
 
-_Hunger reduction rates slow down worldwide, UN food agency warns. (2001, October 15). UN News. https://news.un.org/en/story/2001/10/17592_
+¹_Hunger reduction rates slow down worldwide, UN food agency warns. (2001, October 15). UN News. https://news.un.org/en/story/2001/10/17592_

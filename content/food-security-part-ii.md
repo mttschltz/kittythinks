@@ -19,7 +19,9 @@ He then examines Malthus. We've learnt that according to Malthus, population gro
 Populations have rarely grown exponentially (he shows a very steady increase from the 1750s to the 1950s, and only then a rapid rise), and food production hasn't been linear either. Since 1961, the world's agricultural production has doubled, and, in developing countries, tripled. The UN stated in 2001 that the world produces 23% more food than in 1968 (UN data from 2011 shows that global food production has now tripled, mainly due to higher yields). For Lomborg, this settles it. There's a ton of food. \
 He does acknowledge that the distribution of said food is unequal, but he sees the upsides regardless: starvation had fallen from 35% to 18%, trending further down. (While he was right, pandemics and armed conflict would prompt the UN to warn of a slowing down in the reduction of hunger just three years after Lomborg's book release.¹)
 
-Besides the fallacy of Malthus, Lomborg also wants to emphasise _why_ he is so optimistic. And here, he makes his best point: Norman Borlaug's Green Revolution
+Besides the fallacy of Malthus, Lomborg also wants to emphasise _why_ he is so optimistic. And here, he makes his best point: Norman Borlaug's Green Revolution. Borlaug developed crops that germinate earlier and grow shorter stems, resulting in consecutive harvests. He won the Nobel Peace Prize for his efforts.
+
+But Lomborg, while busy praising higher yields in crops through fertiliser and pesticides, and irrigation advantages in desert regions, forgets that by the time he writes his book, it is obvious what shortfalls come with such agricultural practises.
 
 
 

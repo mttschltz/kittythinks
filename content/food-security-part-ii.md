@@ -45,3 +45,7 @@ He concludes his talk with a confusing graph: the richest people use half the en
 Possibilist, indeed.
 
 ³_HORIZON - Big Thoughts. (2025, April 11). Don’t Panic: The Truth About Population https://www.youtube.com/watch?v=frVN1L_ES3g_
+
+
+
+Part III will give views that are both more balanced and with a different lens.

@@ -28,7 +28,7 @@ One wonders if Lomborg is really qualified to understand the costs, of course. I
 
 He concludes his chapter on food and hunger by pointing out area-specific issues: Africa isn't doing enough to decrease hunger because of their political instability, while China has embraced modern production techniques and succeeded at feeding a fifth of the world population. Thus, modern hunger is a logistical problem, to be solved with political intervention - science has little to do with it.
 
-Lomborg's work was so influential that it inspired the publication of a counter-book from the Danish Ecological Council, with contributions from 18 different scholars.  
+Lomborg's work was so influential that it inspired the publication of a counter-book from the Danish Ecological Council (now Green Transition Denmark_)_, with contributions from 18 different scholars.  It also started a critique in Nature, a rebuttal by Lomborg, and two counter-rebuttals by science writer John Rennie and scientist John P. Holdren.
 
 
 

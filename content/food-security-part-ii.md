@@ -24,7 +24,7 @@ Besides the fallacy of Malthus, Lomborg also wants to emphasise _why_ he is so o
 But Lomborg, while busy praising higher yields in crops through fertiliser and pesticides, and irrigation advantages in desert regions, forgets that by the time he writes his book, it is obvious what shortfalls come with such agricultural practises. He isn't bothered by biodiversity loss & Co, because it doesn't have enough relevant impact on prosperity. In general, Lomborg's biggest argument for his disregard of scientific facts is that humans have benefitted from agricultural progress and that the issues that have arisen from the same progress are the lesser evil. \
 His every argument is that of an economist - the benefits have hitherto matched the costs, and therefore it is worth continuing as before.
 
-One wonders if Lomborg is really qualified to understand the costs, of course. 
+One wonders if Lomborg is really qualified to understand the costs, of course. In Pimms & Harvey's review² of Lomborg's work, a few interesting observations are made: more than 30% of the around 2000 citations in _The Skeptical Environmentalist _are not peer-reviewed. Only one was published in _Nature_. Instead of blaming him for not understanding the counter-arguments to his claims, one could instead posit that he is simply shameless at omitting credible sources disproving his points.
 
 He concludes his chapter on food and hunger by pointing out area-specific issues: Africa isn't doing enough to decrease hunger because of their political instability, while China has embraced modern production techniques and succeeded at feeding a fifth of the world population. Thus, modern hunger is a logistical problem, to be solved with political intervention - science has little to do with it.
 
@@ -35,3 +35,5 @@ Lomborg's work was so influential that it inspired the publication of a counter-
 
 
 ¹_Hunger reduction rates slow down worldwide, UN food agency warns. (2001, October 15). UN News. https://news.un.org/en/story/2001/10/17592_
+
+_²Pimm, Stuart & Harvey, P. (2001). No Need to Worry about the Future. Nature. 414. 149-150. 10.1038/35102629. _

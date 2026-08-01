@@ -48,6 +48,12 @@ The experiment has failed so badly that Sri Lanka now seeks to expand farmland a
 
 _¹Agroforestry involves such processes as planting trees between crops as windbreakers, having livestock graze in tree-shaded environments, and planting crops directly in forest grounds. Agroforestry leads to less soil erosion, climate change weakening (as trees capture carbon) and more economic diversification for farmers._
 
-
-
 ²_Jayasinghe, U. (2025, November 18). Four years after Sri Lanka’s failed organic push, rice farmers struggle to rebuild. Reuters. https://www.reuters.com/world/asia-pacific/four-years-after-sri-lankas-failed-organic-push-rice-farmers-struggle-rebuild-2025-11-18/_
+
+Some scholars also consider that it isn't merely, or even primarily, the job of science _or_ societal change that should lead in the food security debate, but rather politics.
+
+In his 1982 article _The Food Problem: Theory and Policy,_ philosopher and welfare economist Amartya Sen posits the following: Malthusian ideas that as long as there is enough food, there isn't a food crisis are wrong.
+
+> _Major famines have taken place without any significant reduction in the ratio of food to population, and indeed some famines have occurred during years of peak food availability._
+
+Sen gives an example: the 1943 Bengal famine that killed some million people. Here, he says, the government in power at the time looked at the available food and concluded that there was no reason to worry. And yet,

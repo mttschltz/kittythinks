@@ -56,4 +56,4 @@ In his 1982 article _The Food Problem: Theory and Policy,_ philosopher and welfa
 
 > _Major famines have taken place without any significant reduction in the ratio of food to population, and indeed some famines have occurred during years of peak food availability._
 
-Sen gives an example: the 1943 Bengal famine that killed some million people. Here, he says, the government in power at the time looked at the available food and concluded that there was no reason to worry. And yet,
+Sen gives an example: the 1943 Bengal famine that killed some three million people. Here, he says, the government in power at the time looked at the available food and concluded that there was no reason to worry. And yet, the theory did not match the reality. When the famine was finally acknowledged (after the first million people perished), it was still assumed that the data on the food supply was wrong, instead of questioning whether the Malthusian focus on quantity was the incorrect one.

@@ -43,6 +43,16 @@ A mere seven months later, the policies had to be scrapped, and Rajapaksa was ou
 
 Whatever the motif of Rajapaksa, the idea of organic farming itself is of course one to consider. Sri Lanka has approximately three-quarters of farmers who rely heavily on chemical fertilisers; the biggest crops - rice, tea and rubber - have a dependency of over 90%. Neither environmentally nor geopolitically is such a high dependence good. However, Rajapaksa ordered this switch without giving farmers time and resources to learn how to mitigate major crop reductions. Furthermore, he ordered the measure just before the planting season (May to August).
 
+Despite the shortness of the fertiliserless stint, four years on, rice farmers still struggle. Initially, the fertilisers for the next planting season (September to March) were scarce, and in 2025, their cost had risen threefold². 
+
+
+
+
+
 
 
 _¹Agroforestry involves such processes as planting trees between crops as windbreakers, having livestock graze in tree-shaded environments, and planting crops directly in forest grounds. Agroforestry leads to less soil erosion, climate change weakening (as trees capture carbon) and more economic diversification for farmers._
+
+
+
+²_Jayasinghe, U. (2025, November 18). Four years after Sri Lanka’s failed organic push, rice farmers struggle to rebuild. Reuters. https://www.reuters.com/world/asia-pacific/four-years-after-sri-lankas-failed-organic-push-rice-farmers-struggle-rebuild-2025-11-18/_

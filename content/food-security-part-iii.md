@@ -29,7 +29,11 @@ It is not feasible to add more arable land, as this would hamper other human act
 
 How do we close the yield gap when it is so region-specific, involves so many components (many outside the realm of science), and is so complex to map due to the uncertainties from climate change? It's an unanswered question, and a great one to pose. 
 
+Godfray and Beddington ask a lot of other, equally hard to answer questions concerning sustainability.
 
+> _Over what spatial scale should food production be sustainable? Clearly an over-arching goal is global sustainability, but should this goal also apply at lower levels, such as re-gions (or oceans), nations, or farms? Could high levels of consumption or negative externalities in some regions be mitigated by improvements in other areas, or could some unsustainable activities in the food system be offset by actions in the nonfood sector (through carbon-trading, for example)? \[...]  **how fast should we seek to move from the status quo to a sustainable food system?**_
+
+This last question is where Godfray and Beddington really show their ability to see the food security question in its entirety. Surely, we should get to sustainable agricultural practises as soon as possible - but 'possible' shouldn't exclude the chance of technological advancements. And we need better definitions of what sustainability _is_, too. How are policy makers meant to make decisions if the very definition is nebulous? That could easily lead to the neglect of other important issues, such as biodiversity concerns or economic improvements.
 
 
 

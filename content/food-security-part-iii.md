@@ -23,7 +23,11 @@ Food prices have fallen over the last century, but they have also become more vo
 
 Godfray and Beddington go on to give solutions to the question of how we may increase food production, while simultaneously improving sustainability. 
 
-It is not feasible to add more arable land, as this would hamper other human activity and threaten biodiversity. Therefore, existing agricultural use needs to be intensified. This could be done, according to Godfray and Beddington, by changing agronomic practices, modifying pest and livestock waste management, and adding agroforestry¹.
+It is not feasible to add more arable land, as this would hamper other human activity and threaten biodiversity. Therefore, existing agricultural use needs to be intensified. This could be done, according to Godfray and Beddington, by changing agronomic practices, modifying pest and livestock waste management, and adding agroforestry¹. Furthermore, they mention precision agriculture and better designed aquaculture. They caution, however, that the complexity of such competing practises may lead to new, hard-to-predict problems.
+
+> _There is an urgent need for a better under-standing of the effects of globalization on thefull food system and its externalities._
+
+How do we close the yield gap when it is so region-specific, involves so many components (many outside the realm of science), and is so complex to map due to the uncertainties from climate change? It's an unanswered question, and a great one to pose. 
 
 
 

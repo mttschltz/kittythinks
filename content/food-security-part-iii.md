@@ -60,4 +60,4 @@ Sen gives an example: the 1943 Bengal famine that killed some three million peop
 
 > _A person starves when he cannot establish his entitlement to the food that he needs._
 
-In reality, so Sen explains, famines
+In reality, as Sen explains, famines (including the Bengal one) are caused by preferential policies making it hard or impossible for a large section of the population to purchase food, while the preferred group has a higher demand.

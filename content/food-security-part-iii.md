@@ -37,7 +37,11 @@ This last question is where Godfray and Beddington really show their ability to 
 
 One such example is Sri Lanka. In 2019, incumbent president Gotabaya Rajapaksa, promised a transition of the whole country to organic farming. However, Rajapaksa had no background in agricultural science, ecology or the like, and started his mission by handing over administrative control of forests to regional authorities, essentially granting permission for deforestation. His reasoning was a desire to increase farmland.
 
-Then, in April 2021, he ordered the country to switch to organic farming. He did not provide education on what that actually entails and 
+Then, in April 2021, he ordered the country to switch to organic farming. He did not provide education on what that actually entails and simply forbade the use of chemical fertilisers outright.
+
+A mere seven months later, the policies had to be scrapped, and Rajapaksa was ousted. Prices for rice had risen by one-third, and vegetables like tomatoes and carrots by five.
+
+Whatever the motif of Rajapaksa, the idea of organic farming itself is of course one to consider. Sri Lanka has approximately three-quarters of farmers who rely heavily on chemical fertilisers; the biggest crops - rice, tea and rubber - have a dependency of over 90%. Neither environmentally nor geopolitically is such a high dependence good. However, Rajapaksa ordered this switch without giving farmers time and resources to learn how to mitigate major crop reductions. Furthermore, he ordered the measure just before the planting season (May to August).
 
 
 

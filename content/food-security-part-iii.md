@@ -35,6 +35,8 @@ Godfray and Beddington ask a lot of other, equally hard to answer questions conc
 
 This last question is where Godfray and Beddington really show their ability to see the food security question in its entirety. Surely, we should get to sustainable agricultural practises as soon as possible - but 'possible' shouldn't exclude the chance of technological advancements. And we need better definitions of what sustainability _is_, too. How are policy makers meant to make decisions if the very definition is nebulous? That could easily lead to the neglect of other important issues, such as biodiversity concerns or economic improvements.
 
+One such example is Sri Lanka. In 2019, incumbent president Gotabaya Rajapaksa, promised a transition of the whole country to organic farming.
+
 
 
 _¹Agroforestry involves such processes as planting trees between crops as windbreakers, having livestock graze in tree-shaded environments, and planting crops directly in forest grounds. Agroforestry leads to less soil erosion, climate change weakening (as trees capture carbon) and more economic diversification for farmers._

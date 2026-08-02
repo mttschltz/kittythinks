@@ -41,23 +41,23 @@ Then, in April 2021, he ordered the country to switch to organic farming. He did
 
 A mere seven months later, the policies had to be scrapped, and Rajapaksa was ousted. Prices for rice had risen by one-third, and vegetables like tomatoes and carrots by five.
 
-Whatever the motif of Rajapaksa, the idea of organic farming itself is of course one to consider. Sri Lanka has approximately three-quarters of farmers who rely heavily on chemical fertilisers; the biggest crops - rice, tea and rubber - have a dependency of over 90%. Neither environmentally nor geopolitically is such a high dependence good. However, Rajapaksa ordered this switch without giving farmers time and resources to learn how to mitigate major crop reductions. Furthermore, he ordered the measure just before the planting season (May to August).
+Whatever the motive of Rajapaksa, the idea of organic farming itself is of course one to consider. Sri Lanka had approximately three-quarters of farmers who rely heavily on chemical fertilisers; the biggest crops - rice, tea and rubber - have a fertiliser dependency of over 90%. Neither environmentally nor geopolitically is such a high dependence good. However, Rajapaksa ordered this switch without giving farmers time and resources to learn how to mitigate major crop reductions. Furthermore, he ordered the measure just before the planting season (May to August).
 
-Despite the shortness of the fertiliserless stint, four years on, rice farmers still struggle. Initially, the fertilisers for the next planting season (September to March) were scarce, and in 2025, their cost had risen threefold². \
+Despite the shortness of the fertiliserless stint, four years on, rice farmers still struggled. Initially, the fertilisers for the next planting season (September to March) were scarce, and in 2025, their cost had risen threefold². \
 The experiment has failed so badly that Sri Lanka now seeks to expand farmland and has almost fully reverted to inorganic farming.
 
 _¹Agroforestry involves such processes as planting trees between crops as windbreakers, having livestock graze in tree-shaded environments, and planting crops directly in forest grounds. Agroforestry leads to less soil erosion, climate change weakening (as trees capture carbon) and more economic diversification for farmers._
 
 ²_Jayasinghe, U. (2025, November 18). Four years after Sri Lanka’s failed organic push, rice farmers struggle to rebuild. Reuters. https://www.reuters.com/world/asia-pacific/four-years-after-sri-lankas-failed-organic-push-rice-farmers-struggle-rebuild-2025-11-18/_
 
-Some scholars also consider that it isn't merely, or even primarily, the job of science _or_ societal change that should lead in the food security debate, but rather politics.
+Some scholars also consider that it isn't merely, or even primarily, the job of science _or_ societal change that should dominate the food security debate, but rather politics.
 
 In his 1982 article _The Food Problem: Theory and Policy,_ philosopher and welfare economist Amartya Sen posits the following: Malthusian ideas that as long as there is enough food, there isn't a food crisis are wrong.
 
-> _Major famines have taken place without any significant reduction in the ratio of food to population, and indeed some famines have occurred during years of peak food availability._
+> _Major famines have taken place without any significant reduction in the ratio of food to population, and indeed some famines have occurred during years of peak food availability._
 
-Sen gives an example: the 1943 Bengal famine that killed some three million people. Here, he says, the government in power at the time looked at the available food and concluded that there was no reason to worry. And yet, the theory did not match the reality. When the famine was finally acknowledged (after the first million people perished), it was still assumed that the data on the food supply was wrong, instead of questioning whether the Malthusian focus on quantity was the incorrect one.
+Sen gives an example: In the 1943 Bengal famine, the government in power looked at the available food and concluded that there was no reason to worry. And yet, the theory did not match the reality. When the famine was finally acknowledged (after the first million people perished), it was still assumed that the data on the food supply was wrong, instead of the Malthusian focus on quantity.
 
-> _A person starves when he cannot establish his entitlement to the food that he needs._
+> _A person starves when he cannot establish his entitlement to the food that he needs._
 
 In reality, as Sen explains, famines (including the Bengal one) are caused by preferential policies making it hard or impossible for a large section of the population to purchase food, while the preferred group has a higher demand.

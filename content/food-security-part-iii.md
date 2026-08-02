@@ -60,4 +60,10 @@ Sen gives an example: In the 1943 Bengal famine, the government in power looked 
 
 > _A person starves when he cannot establish his entitlement to the food that he needs._
 
-In reality, as Sen explains, famines (including the Bengal one) are caused by preferential policies making it hard or impossible for a large section of the population to purchase food, while the preferred group has a higher demand.
+In reality, as Sen explains, famines (including the Bengal one) are caused by preferential policies making it hard or impossible for a large section of the population to purchase food, while the preferred group has a higher demand. 
+
+He further explains that famines can occur even without changes in food prices, for example due to loss or reduction of the purchasing power of an individual (unemployment, value loss of their goods and services, etc.). Sen gives as an example the 1974 famine in Bangladesh, in which rural labourers lost their employment opportunities overnight when a major flood occurred.
+
+Therefore, ownership by people, and their ability to exchange their labour for food, needs to be looked at more closely than food availability in isolation.
+
+> _There probably has never been a famine in which every group has suffered._

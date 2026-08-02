@@ -77,3 +77,5 @@ If a famine is, e.g. caused by sudden unemployment of one group (e.g. rural labo
 Famine relief, therefore, needs to target entitlement, not availability. Availability of food _in the public distribution system_ is nevertheless important. As Sen points out, governments need to be able to respond to recognised famines. This means stockpiles that can be distributed either by direct relief or by other means. Likewise, cash relief can attract traders to move food to famine-stricken areas (which they may have neglected due to non-payment).
 
 In short, Sen insists that policy makers concerned with food security need to identify _who_ is vulnerable in a given society and for _what reasons._
+
+_PART IV will feature an analysis of all we have learnt so far!_

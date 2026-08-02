@@ -22,3 +22,10 @@ I do believe strongly that _some_ changes are necessary in order to prevent futu
 
 The optimists are also questionable. Lomborg in particular is disagreeable. His book is full of cherry-picked data and an almost insidious lack of acknowledgement of the importance of biodiversity.\
 Simultaneously, Rosling may have better intentions as a physician, but he too cherry-picks upward-trending data and omits negative trends entirely. His idea that making poorer people richer will not lead to them wanting the same benefits as the currently rich is also delusional.
+
+This leaves the balanced stance and the politically focused one.
+
+Initially, Godfray and Beddington were the most convincing to me. The suggestions for agronomic changes and better management of agricultural practices appear useful - except that their immediate caution that the interplay of those changes is complex and 'requires more research', makes them too vague. Likewise, to a large degree, Godfray and Beddington still adhere to the Malthusian idea that the most important thing is more food. They neglect the distribution issue and do not adequately address how intensifying agriculture would not lead to the same or similar issues as industrial farming does today.\
+Conversely, after the initial shine of nuance wore off, I also came to wonder if _not_ taking a solid stance in either direction isn't just a cheap way to hand over responsibility for true change to those braver to act.
+
+Lastly, Sen's point of emphasis - that food security isn't about scientific or technological concerns but about societal and political action - is attractive.

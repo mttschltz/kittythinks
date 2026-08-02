@@ -67,3 +67,9 @@ He further explains that famines can occur even without changes in food prices, 
 Therefore, ownership by people, and their ability to exchange their labour for food, needs to be looked at more closely than food availability in isolation.
 
 > _There probably has never been a famine in which every group has suffered._
+
+Sen mentions this specifically because even Malthus had already recognised that the poor are disproportionately affected by famines, no matter how much food is available. He furthermore explains that famines even divide the poor themselves.
+
+If a famine is, e.g. caused by sudden unemployment of one group (e.g. rural labourers), then a normally equally poor group (e.g. share-croppers) may not be affected at all. The famine-struck group here is paid in wages, while the share-croppers are paid in grain.
+
+Famine relief, therefore, needs to target entitlement, not availability. Availability of food _in the public distribution system_ is nevertheless important. As Sen points out, governments need to be able to respond to recognised famines. This means stockpiles that can be distributed either by direct relief or by other means. Concurrently, cash relief can attract traders to move food to famine-stricken areas (which they may have neglected due to non-payment).

@@ -20,3 +20,5 @@ Deriving from this is a risk that food and water scarcity will be concentrated i
 \[ADD UN DATA GRAPHS HERE]
 
 Africa (especially the East) has just barely kept up with its food production (cereal and meat in particular) as is.UN data showing the production of major food categories from 1960 to 2010 shows that while the population increased dramatically, cereal production lagged, and meat production has been outpaced.
+
+The _global _look back is much better. On average, the food production of meat and cereal increased and outpaced (especially meat) the population from 1960 to 2010. The global calories per person per day have increased from 2000 kcal in 1960 to ~2700 kcal in 2010. The already affluent regions, such as the US, have increased their kcal per person per day from 2900 kcal to a peak in 2005 of 3800 kcal.

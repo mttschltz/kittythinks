@@ -18,3 +18,5 @@ This does not, however, reflect the reality of some specific regions such as sub
 Deriving from this is a risk that food and water scarcity will be concentrated in a small part of the world that is already struggling with both.
 
 \[ADD UN DATA GRAPHS HERE]
+
+Africa (especially the East) has just barely kept up with its food production (cereal and meat in particular) as is.UN data showing the production of major food categories from 1960 to 2010 shows that while the population increased dramatically, cereal production lagged, and meat production has been outpaced.

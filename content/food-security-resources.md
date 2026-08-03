@@ -23,4 +23,4 @@ Africa (especially the East) has just barely kept up with its food production (c
 
 The _global _look back is much better. On average, the food production of meat and cereal increased and outpaced (especially meat) the population from 1960 to 2010. The global calories per person per day have increased from 2000 kcal in 1960 to ~2700 kcal in 2010. The already affluent regions, such as the US, have increased their kcal per person per day from 2900 kcal to a peak in 2005 of 3800 kcal. 
 
-The discrepency in daily calories is between highly developed countries and the least developed ones, are especially staggering when considering that the least developed nations have only
+The discrepancy in daily calories between highly developed countries and the least developed ones is especially staggering when considering that the least developed nations have only managed to produce more than the minimum recommended calories (2000 kcal) since the year 2000.

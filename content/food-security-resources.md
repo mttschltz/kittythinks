@@ -11,6 +11,8 @@ As those are many questions, this section on _Resources_ will be shorter and, ho
 
 ## How much food?
 
-According to the UN Population Division, by the year 2055, the global population will have reached its peak of ~9.5 billion and will level off after that. 
+According to the UN Population Division, by the year 2055, the global population will have reached its peak fertility, and will thereafter level off at ~9.5 billion people.
 
-This does not, however, reflect the reality of some specific regions such as sub-Saharan Africa. This region is predicted to neither peak nor level off, even after the further prediction of the UN: the year 2100. Therefore, the risk of food scarcity will be concentrated in a small part of the world.
+This does not, however, reflect the reality of some specific regions such as sub-Saharan Africa. This region is predicted to neither peak nor level off, even after the furthest prediction of the UN: the year 2100. Therefore, the risk of food scarcity will be concentrated in a small part of the world.
+
+\[ADD UN DATA GRAPHS HERE]

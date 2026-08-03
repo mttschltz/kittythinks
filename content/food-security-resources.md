@@ -10,3 +10,7 @@ How much food will we actually need to produce for what number of people? What d
 As those are many questions, this section on _Resources_ will be shorter and, hopefully, more succinct than the general food security debate.
 
 ## How much food?
+
+According to the UN Population Division, by the year 2055, the global population will have reached its peak of ~9.5 billion and will level off after that. 
+
+This does not, however, reflect the reality of some specific regions such as sub-Saharan Africa. This region is predicted to neither peak nor level off, even after the further prediction of the UN: the year 2100. Therefore, the risk of food scarcity will be concentrated in a small part of the world.

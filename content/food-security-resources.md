@@ -13,6 +13,6 @@ As those are many questions, this section on _Resources_ will be shorter and, ho
 
 According to the UN Population Division, by the year 2055, the global population will have reached its peak fertility, and will thereafter level off at ~9.5 billion people.
 
-This does not, however, reflect the reality of some specific regions such as sub-Saharan Africa. This region is predicted to neither peak nor level off, even after the furthest prediction of the UN: the year 2100. Between 2020 and 2100, the population of sub-Saharan Africa is predicted to increase by a factor of 3.5 (1.1 billion to 3.8 billion). Therefore, the risk of food scarcity will be concentrated in a small part of the world.
+This does not, however, reflect the reality of some specific regions such as sub-Saharan Africa. This region is predicted to neither peak nor level off, even after the furthest prediction of the UN: the year 2100. Between 2020 and 2100, the population of sub-Saharan Africa is predicted to increase by a factor of 3.5 (1.1 billion to 3.8 billion). Therefore, the risk of food as well as water scarcity will be concentrated in a small part of the world that is already struggling with both.
 
 \[ADD UN DATA GRAPHS HERE]

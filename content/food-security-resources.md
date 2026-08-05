@@ -26,3 +26,7 @@ The **global** look back is much better. On average, the food production of meat
 The discrepancy in daily calories between highly developed countries and the least developed ones is especially staggering when considering that the least developed nations have only managed to produce more than the minimum recommended calories (2000 kcal) since the year 2000, and still have 11% of the population undernourished.
 
 In addition, data from 2025 shows that the affordability of a healthy diet has significantly decreased in Africa - by a staggering 66.6%. Animal products are the biggest culprit.
+
+So how much food is needed? To determine this, we need to look at culture, nutritional requirements and income.
+
+The latter may seem strange - demand for food should be consistent regardless of income? The reality is that how much a country _must _produce is partially reliant on whether it can afford to import food if production falls short or is hampered. Developed countries can often lower their food insecurity risk by importing food

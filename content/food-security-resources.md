@@ -44,7 +44,7 @@ A forced example of this has been the ongoing severe economic crisis in Venezuel
 Another example of changing consumer food behaviour is the recent COVID-19 pandemic. Especially in locked down, developed countries, people shifted what they consumed and how much of it.\
 Interestingly, two contrary behaviours emerged: there were significant increases in the consumption of vegetables, fruit and flour, but also in sweet and snackable foods. This phenomenon may indicate that it is hard to legislate in a way that will change behaviour in the desired direction.
 
-When examining _deliberate_ efforts to change dietary consumption, we may look at soda taxes.
+When examining _deliberate_ efforts to change dietary consumption, we may look at soda taxes. These are taxes levied on sugary beverages such as soda, flavoured water, and fruit juices with added sugar  (rarely are they 100% fruit juice added).
 
 
 

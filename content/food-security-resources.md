@@ -46,6 +46,8 @@ Interestingly, two contrary behaviours emerged: there were significant increases
 
 When examining _deliberate_ efforts to change dietary consumption, we may look at soda taxes. These are taxes levied on sugary beverages such as soda, flavoured water, and fruit juices with added sugar  (rarely are they 100% fruit juice added).
 
+The results of these taxes seem to vary by country. Hungary added a 4% tax on soda, sweets, salty snacks and jams in 2011, which resulted in a 19% reduction in soda consumption. Conversely, 
+
 
 
 

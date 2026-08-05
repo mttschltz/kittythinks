@@ -41,6 +41,11 @@ A forced example of this has been the ongoing severe economic crisis in Venezuel
 
 > _Seven out of 10 Venezuelans report that food is always available. However, access to food is difficult as the prices are too high when compared to household income._
 
+Another example of changing consumer food behaviour is the recent COVID-19 pandemic. Especially in locked down, developed countries, people shifted what they consumed and how much of it.\
+Interestingly, two contrary behaviours emerged: there were significant increases in the consumption of vegetables, fruit and flour, but also in sweet and snackable foods.
+
+
+
 
 
 ¹_WFP Venezuela Food Security Assessment Main Findings | Data Collected between July and September 2019 - Venezuela (Bolivarian Republic of). (n.d.). In ReliefWeb. https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-food-security-assessment-main-findings-data_

@@ -36,7 +36,9 @@ Nutritional requirements are also problematic to predict. On average, higher-inc
 Food loss can happen through various means - better storage and transportation of goods, better pest control, or diet changes. 
 
 How can consumer behaviour be meaningfully influenced? The simplest strategy is price changes. \
-A forced example of this has been the ongoing severe economic crisis in Venezuela. A report¹ from the World Food Programme (WFP) from 2020 has found one in three Venezuelans food insecure, with almost 8% severely so.
+A forced example of this has been the ongoing severe economic crisis in Venezuela. A report¹ from the World Food Programme (WFP) from 2020 has found one in three Venezuelans food insecure, with almost 8% severely so. On average, Venezuelans consumed cereal, roots and tubers, with the addition of legumes and some milk products for the majority of the week. Fruits and vegetables, as well as meat and fish, were consumed less than 3 times a week. This indicated a nutritionally inadequate diet.
+
+
 
 
 

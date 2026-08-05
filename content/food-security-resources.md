@@ -44,12 +44,12 @@ A forced example of this has been the ongoing severe economic crisis in Venezuel
 Another example of changing consumer food behaviour is the recent COVID-19 pandemic. Especially in locked down, developed countries, people shifted what they consumed and how much of it.\
 Interestingly, two contrary behaviours emerged: there were significant increases in the consumption of vegetables, fruit and flour, but also in sweet and snackable foods. This phenomenon may indicate that it is hard to legislate in a way that will change behaviour in the desired direction.
 
-When examining _deliberate_ efforts to change dietary consumption, we may look at soda taxes. These are taxes levied on sugary beverages such as soda, flavoured water, and fruit juices with added sugar  (rarely are they 100% fruit juice added).
+When examining _deliberate_ efforts to change dietary consumption, we may look at soda taxes. These are taxes levied on sugary beverages such as soda, flavoured water, and fruit juices with added sugar (rarely are 100% fruit juices added, despite similar sugar contents).
 
-The results of these taxes seem to vary by country. Hungary added a 4% tax on soda, sweets, salty snacks and jams in 2011, which resulted in a 19% reduction in soda consumption. Conversely, 
-
-
+The results of these taxes seem to vary by country. Hungary added a 4% tax on soda, sweets, salty snacks and jams in 2011, which resulted in a 19% reduction in soda consumption. Conversely, when the UK added a soda tax in 2018, sugar consumption dropped by 5.2g per adult, but sparked a buying frenzy of popular Scottish soda Irn Bru for cans produced prior to the soda tax. Barr's, the soda's manufacturer, had changed their recipe to be exempt from the tax. (In fact, 80% of the sugar reduction was attributed to recipe formulation changes, not consumers stopping to buy sodas²).
 
 
 
 ¹_WFP Venezuela Food Security Assessment Main Findings | Data Collected between July and September 2019 - Venezuela (Bolivarian Republic of). (n.d.). In ReliefWeb. https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-food-security-assessment-main-findings-data_
+
+²_Dickson, Alex; Gehrsitz, Markus; Kemp, Jonathan (2025). "Does a Spoonful of Sugar Levy Help the Calories Go Down? An Analysis of the UK Soft Drinks Industry Levy". The Review of Economics and Statistics._

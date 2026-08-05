@@ -46,10 +46,12 @@ Interestingly, two contrary behaviours emerged: there were significant increases
 
 When examining _deliberate_ efforts to change dietary consumption, we may look at soda taxes. These are taxes levied on sugary beverages such as soda, flavoured water, and fruit juices with added sugar (rarely are 100% fruit juices added, despite similar sugar contents).
 
-The results of these taxes seem to vary by country. Hungary added a 4% tax on soda, sweets, salty snacks and jams in 2011, which resulted in a 19% reduction in soda consumption. Conversely, when the UK added a soda tax in 2018, sugar consumption dropped by 5.2g per adult, but sparked a buying frenzy of popular Scottish soda Irn Bru for cans produced prior to the soda tax. Barr's, the soda's manufacturer, had changed their recipe to be exempt from the tax. (In fact, 80% of the sugar reduction was attributed to recipe formulation changes, not consumers stopping to buy sodas²).
+The results of these taxes seem to vary by country. Hungary added a 4% tax on soda, sweets, salty snacks and jams in 2011, which resulted in a 19% reduction in soda consumption². Conversely, when the UK added a soda tax in 2018, sugar consumption dropped by 5.2g per adult, but sparked a buying frenzy of popular Scottish soda Irn Bru for cans produced prior to the soda tax. Barr's, the soda's manufacturer, had changed their recipe to be exempt from the tax. (In fact, 80% of the sugar reduction was attributed to recipe formulation changes, not consumers stopping to buy sodas³).
 
 
 
 ¹_WFP Venezuela Food Security Assessment Main Findings | Data Collected between July and September 2019 - Venezuela (Bolivarian Republic of). (n.d.). In ReliefWeb. https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-food-security-assessment-main-findings-data_
 
-²_Dickson, Alex; Gehrsitz, Markus; Kemp, Jonathan (2025). "Does a Spoonful of Sugar Levy Help the Calories Go Down? An Analysis of the UK Soft Drinks Industry Levy". The Review of Economics and Statistics._
+_²Campbell, D. (2016, March 18). Sugar tax: financially regressive but progressive for health? The Guardian. https://web.archive.org/web/20201127184515/https://www.theguardian.com/society/2016/mar/18/sugar-tax-financially-regressive-but-progressive-for-health_
+
+_³Dickson, Alex; Gehrsitz, Markus; Kemp, Jonathan (2025). "Does a Spoonful of Sugar Levy Help the Calories Go Down? An Analysis of the UK Soft Drinks Industry Levy". The Review of Economics and Statistics._

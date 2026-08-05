@@ -36,4 +36,8 @@ Nutritional requirements are also problematic to predict. On average, higher-inc
 Food loss can happen through various means - better storage and transportation of goods, better pest control, or diet changes. 
 
 How can consumer behaviour be meaningfully influenced? The simplest strategy is price changes. \
-A forced example of this has been the ongoing severe economic crisis in Venezuela. A report from the World Food Programme (WFP) from 2020 has found one in three Venezuelans food insecure, with almost 8% severely so.
+A forced example of this has been the ongoing severe economic crisis in Venezuela. A report¹ from the World Food Programme (WFP) from 2020 has found one in three Venezuelans food insecure, with almost 8% severely so.
+
+
+
+¹_WFP Venezuela Food Security Assessment Main Findings | Data Collected between July and September 2019 - Venezuela (Bolivarian Republic of). (n.d.). In ReliefWeb. https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-food-security-assessment-main-findings-data_

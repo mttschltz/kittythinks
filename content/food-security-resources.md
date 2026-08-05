@@ -27,11 +27,12 @@ The discrepancy in daily calories between highly developed countries and the lea
 
 In addition, data from 2025 shows that the affordability of a healthy diet has significantly decreased in Africa - by a staggering 66.6%. Animal products are the biggest culprit.
 
-So how much food is needed? To determine this, we need to look at culture, nutritional requirements and income.
+**So how much food is needed?** \
+To determine this, we need to look at culture, nutritional requirements and income.
 
 The latter may seem strange - demand for food should be consistent regardless of income? The reality is that how much a country _must _produce is partially reliant on whether it can afford to import food if production falls short or is hampered. Developed countries can often reduce their food insecurity risk by importing food, while underdeveloped countries, such as in sub-Saharan Africa, cannot.
 
-Nutritional requirements are also problematic to predict. On average, higher-income countries consume more animal products; however, when lower-income countries catch up, they too will consume more animal products. Animal products require significantly larger amounts of land to grow fodder crops and higher usage of water. It is therefore necessary to find ways to reduce food losses.
+Nutritional requirements are also problematic to predict. On average, higher-income countries consume more animal products; however, when lower-income countries catch up, they too will consume more animal products. Animal products require significantly larger amounts of land to grow fodder crops and higher usage of water. It is therefore necessary to find ways to reduce food losses. 
 
 Food loss can happen through various means - better storage and transportation of goods, better pest control, or diet changes. 
 

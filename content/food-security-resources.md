@@ -9,7 +9,7 @@ How much food will we actually need to produce for what number of people? What d
 
 As those are many questions, this section on _Resources_ will be shorter and, hopefully, more succinct than the general food security debate.
 
-## How much food?
+## How much food _and at what cost_?
 
 According to the UN Population Division, by the year 2055, the global population will have reached its peak fertility, and will thereafter level off at ~9.5 billion people.
 

@@ -11,3 +11,5 @@ These categories can be further simplified for agricultural application into two
 
 1. **Blue Water** - which is water in lakes, streams, rivers, aquifers (water-saturated sediment), and runoff. Irrigated land is generally fed by Blue Water.
 2. **Green Water** - which is water from direct precipitation. Rainfed crops are fed by Green Water.
+
+Blue Water is therefore a supplement to Green Water, in order to enhance and sustain the water cycle.

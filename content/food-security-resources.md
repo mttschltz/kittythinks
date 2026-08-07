@@ -52,6 +52,8 @@ If changing consumer behaviour is too complicated, food loss needs to be avoided
 
 When looking at the three biggest categories of food, meat, cereal and vegetables/fruit, we can see a loss in both production, distribution and consumption. Production includes the harvesting and storage of food. Food loss during harvest can happen through such simple means as a lack of technology or an affordable workforce to get the food off the fields, while inadequate storage can lead to pest infestation and mould.
 
+Countries with high food waste at the harvesting stage can be found chiefly in Latin America, most of Africa, and North America and Oceania. Meat is lost on the African continent, while fruit and vegetables are affected in the other regions. Note that most of those areas are hotter, which makes harvest windows smaller and storage more complicated.
+
 
 
 ¹_WFP Venezuela Food Security Assessment Main Findings | Data Collected between July and September 2019 - Venezuela (Bolivarian Republic of). (n.d.). In ReliefWeb. https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-food-security-assessment-main-findings-data_

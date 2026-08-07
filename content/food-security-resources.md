@@ -60,9 +60,7 @@ Consumption losses include food waste in households, the gastronomy sector and r
 
 Unsurprisingly, the food losses from waste in consumption happen largely in wealthy regions such as Europe, North America and Oceania and are especially critical for cereals.
 
-
-
-
+To meet the targets required for an increase in population, especially in Africa, we must minimise food waste in both stages. But that won't be enough to feed the world; therefore, we must either simultaneously find a lot more land, water and nutrients (such as nitrogen) or increase yield.
 
 ¹_WFP Venezuela Food Security Assessment Main Findings | Data Collected between July and September 2019 - Venezuela (Bolivarian Republic of). (n.d.). In ReliefWeb. https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-food-security-assessment-main-findings-data_
 

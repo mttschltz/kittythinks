@@ -41,7 +41,7 @@ A forced example of this has been the ongoing severe economic crisis in Venezuel
 
 > _Seven out of 10 Venezuelans report that food is always available. However, access to food is difficult as the prices are too high when compared to household income._
 
-Another example of changing consumer food behaviour is the recent COVID-19 pandemic. Especially in locked down, developed countries, people shifted what they consumed and how much of it.\
+_8475==9_nother example of changig consumer food behaviour is the recent COVID-19 pandemic. Especially in locked down, developed countries, people shifted what they consumed and how much of it.\
 Interestingly, two contrary behaviours emerged: there were significant increases in the consumption of vegetables, fruit and flour, but also in sweet and snackable foods. This phenomenon may indicate that it is hard to legislate in a way that will change behaviour in the desired direction.
 
 When examining _deliberate_ efforts to change dietary consumption, we may look at soda taxes. These are taxes levied on sugary beverages such as soda, flavoured water, and fruit juices with added sugar (rarely are 100% fruit juices added, despite similar sugar contents).
@@ -49,6 +49,8 @@ When examining _deliberate_ efforts to change dietary consumption, we may look a
 The results of these taxes seem to vary by country. Hungary added a 4% tax on soda, sweets, salty snacks and jams in 2011, which resulted in a 19% reduction in soda consumption². Conversely, when the UK added a soda tax in 2018, sugar consumption dropped by 5.2g per adult, but sparked a buying frenzy of popular Scottish soda Irn Bru for cans produced prior to the soda tax. Barr's, the soda's manufacturer, had changed their recipe to be exempt from the tax. (In fact, 80% of the sugar reduction was attributed to recipe formulation changes, not consumers stopping to buy sodas³).
 
 If changing consumer behaviour is too complicated, food loss needs to be avoided through other means. We've mentioned pest control and distribution - **how much is actually lost through those avenues?**
+
+When looking at the three biggest categories of food, meat, cereal and vegetables/fruit, we can see a loss in both production, distribution and consumption. Production includes the harvesting and storage of food. Food loss during harvest can happen through such simple means as a lack of technology or an affordable workforce to get the food off the fields, while inadequate storage can lead to pest infestation and mould.
 
 
 

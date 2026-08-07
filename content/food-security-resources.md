@@ -48,7 +48,7 @@ When examining _deliberate_ efforts to change dietary consumption, we may look a
 
 The results of these taxes seem to vary by country. Hungary added a 4% tax on soda, sweets, salty snacks and jams in 2011, which resulted in a 19% reduction in soda consumption². Conversely, when the UK added a soda tax in 2018, sugar consumption dropped by 5.2g per adult, but sparked a buying frenzy of popular Scottish soda Irn Bru for cans produced prior to the soda tax. Barr's, the soda's manufacturer, had changed their recipe to be exempt from the tax. (In fact, 80% of the sugar reduction was attributed to recipe formulation changes, not consumers stopping to buy sodas³).
 
-If changing consumer behaviour is too complicated, food loss needs to be avoided through other means. We've mentioned pest control and distribution - how much is actually lost through those avenues?
+If changing consumer behaviour is too complicated, food loss needs to be avoided through other means. We've mentioned pest control and distribution - **how much is actually lost through those avenues?**
 
 
 

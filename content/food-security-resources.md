@@ -54,10 +54,18 @@ When looking at the three biggest categories of food, meat, cereal and vegetable
 
 Countries with high food waste at the harvesting stage can be found chiefly in Latin America, most of Africa, and North America and Oceania. Meat is lost on the African continent, while fruit and vegetables are affected in the other regions. Note that most of those areas are hotter, which makes harvest windows smaller and storage more complicated.
 
-Losses in distribution happen primarily through problems with accessing markets and transportation. Fruits and vegetables are especially affected, with losses as high as 30%. Baring South and Southeast Asia, every region is struggling here.
+Losses in distribution happen primarily through problems with accessing markets and transportation. Fruits and vegetables are especially affected, with losses as high as 30%. Barring South and Southeast Asia, every region is struggling here.
+
+Consumption losses include food waste in households, the gastronomy sector and retail. Households waste food by failing to consume bought food - the World Food Programme estimates that 60% of all consumption losses happen here⁴.
+
+
+
+
 
 ¹_WFP Venezuela Food Security Assessment Main Findings | Data Collected between July and September 2019 - Venezuela (Bolivarian Republic of). (n.d.). In ReliefWeb. https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-food-security-assessment-main-findings-data_
 
 _²Campbell, D. (2016, March 18). Sugar tax: financially regressive but progressive for health? The Guardian. https://web.archive.org/web/20201127184515/https://www.theguardian.com/society/2016/mar/18/sugar-tax-financially-regressive-but-progressive-for-health_
 
 _³Dickson, Alex; Gehrsitz, Markus; Kemp, Jonathan (2025). "Does a Spoonful of Sugar Levy Help the Calories Go Down? An Analysis of the UK Soft Drinks Industry Levy". The Review of Economics and Statistics._
+
+_⁴World Food Programme. (2024). 5 facts about food waste and hunger | World Food Programme. In www.wfp.org. World Food Programme. https://www.wfp.org/stories/5-facts-about-food-waste-and-hunger_

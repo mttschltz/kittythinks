@@ -58,7 +58,7 @@ Losses in distribution happen primarily through problems with accessing markets 
 
 Consumption losses include food waste in households, the gastronomy sector and retail. Households waste food by failing to consume bought food - the World Food Programme estimates that 60% of all consumption losses happen here⁴.
 
-Unsurprisingly, the food losses from lack of consumption happen largely in wealthy regions such as Europe, North America and Oceania and are especially critical for cereals.
+Unsurprisingly, the food losses from waste in consumption happen largely in wealthy regions such as Europe, North America and Oceania and are especially critical for cereals.
 
 
 

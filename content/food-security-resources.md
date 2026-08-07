@@ -62,6 +62,8 @@ Unsurprisingly, the food losses from waste in consumption happen largely in weal
 
 
 
+
+
 ¹_WFP Venezuela Food Security Assessment Main Findings | Data Collected between July and September 2019 - Venezuela (Bolivarian Republic of). (n.d.). In ReliefWeb. https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-food-security-assessment-main-findings-data_
 
 _²Campbell, D. (2016, March 18). Sugar tax: financially regressive but progressive for health? The Guardian. https://web.archive.org/web/20201127184515/https://www.theguardian.com/society/2016/mar/18/sugar-tax-financially-regressive-but-progressive-for-health_

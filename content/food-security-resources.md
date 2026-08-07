@@ -54,7 +54,7 @@ When looking at the three biggest categories of food, meat, cereal and vegetable
 
 Countries with high food waste at the harvesting stage can be found chiefly in Latin America, most of Africa, and North America and Oceania. Meat is lost on the African continent, while fruit and vegetables are affected in the other regions. Note that most of those areas are hotter, which makes harvest windows smaller and storage more complicated.
 
-Losses in distribution happen primarily through problems with accessing markets and transportation problems.
+Losses in distribution happen primarily through problems with accessing markets and transportation. Fruits and vegetables are especially affected, with losses as high as 30%. Baring South and Southeast Asia, every region is struggling here.
 
 ¹_WFP Venezuela Food Security Assessment Main Findings | Data Collected between July and September 2019 - Venezuela (Bolivarian Republic of). (n.d.). In ReliefWeb. https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-food-security-assessment-main-findings-data_
 

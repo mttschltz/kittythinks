@@ -22,6 +22,8 @@ In 1996, Ehrlich et al published a paper titled _Human Appropriation of Water¹ 
 
 The distribution of runoff (freshwater found in streams, rivers, and lakes) is highly uneven, especially compared to where the high population numbers are found. For example, South America, which has 5% of the world's population, contains 25% of the global runoff. Meanwhile, Asia holds 60% of the world's population and houses only 36% of the global runoff.
 
+Accessibility is also a problem. Tropical and very northern regions encompass runoff that is not accessible at all (and bound to remain that way).
+
 
 
 ¹_Postel, S. L., Daily, G. C., & Ehrlich, P. R. (1996). Human Appropriation of Renewable Fresh Water. Science, 271(5250), 785–788. https://doi.org/10.1126/science.271.5250.785_

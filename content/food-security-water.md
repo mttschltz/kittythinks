@@ -40,7 +40,9 @@ Aquatic damage and species losses had already been noted by Ehrlich, and he and 
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\___
 
-Fast foward a few years, and Lorenzo Rosa et al publish a paper titled _Global agricultural economic water scarcity² _in which irrigation-neglected areas of the world which therefore underfeed the global population are discussed.
+Fast foward a few years, and Lorenzo Rosa et al publish a paper titled _Global agricultural economic water scarcity² _in which irrigation-neglected areas of the world leading to underfeeding the growing global population are discussed. 
+
+
 
 
 

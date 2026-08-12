@@ -24,6 +24,10 @@ The distribution of runoff (freshwater found in streams, rivers, and lakes) is h
 
 Accessibility is also a problem. Tropical and very northern regions encompass runoff that is not accessible at all (and bound to remain that way). This amounts to about 19% of the global runoff. Furthermore, runoff is only reliable if it is always accessible - however, runoff from, e.g. floodwater is seasonal and therefore unreliable. For example, in Asia 80% of runoff occurs from May to October and requires catchment via dams.
 
+Even if runoff is successfuly captured, there are loses from evaporation. On average, 5% is therein lost.
+
+So, how did Ehrlich et al imagine the situation in 30 years time? (2026 - now). 
+
 
 
 ¹_Postel, S. L., Daily, G. C., & Ehrlich, P. R. (1996). Human Appropriation of Renewable Fresh Water. Science, 271(5250), 785–788. https://doi.org/10.1126/science.271.5250.785_

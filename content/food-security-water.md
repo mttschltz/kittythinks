@@ -22,7 +22,7 @@ In 1996, Ehrlich et al published a paper titled _Human Appropriation of Water_¹
 
 The distribution of runoff (freshwater found in streams, rivers, and lakes) is highly uneven, especially compared to where the high population numbers are found. For example, South America, which has 5% of the world's population, contains 25% of the global runoff. Meanwhile, Asia holds 60% of the world's population and houses only 36% of the global runoff.
 
-Accessibility is also a problem. Tropical and very northern regions encompass runoff that is not accessible at all (and bound to remain that way).
+Accessibility is also a problem. Tropical and very northern regions encompass runoff that is not accessible at all (and bound to remain that way). This amounts to about 19% of the global runoff. Furthermore, runoff is only reliable if it is always accessible - however, runoff from, e.g. floodwater is seasonal and therefore unreliable. For example, in Asia 80% of runoff occurs from May to October and requires catchment via dams.
 
 
 

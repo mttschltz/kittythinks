@@ -40,4 +40,6 @@ According to the above graph from 1900 to 2020, they appear to be correct. Reaso
 
 
 
+
+
 ¹_Postel, S. L., Daily, G. C., & Ehrlich, P. R. (1996). Human Appropriation of Renewable Fresh Water. Science, 271(5250), 785–788. https://doi.org/10.1126/science.271.5250.785_

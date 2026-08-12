@@ -32,14 +32,8 @@ So, how did Ehrlich et al imagine the situation in 30 years time? (2026 - now). 
 
 _Annual construction of large dams globally since 1900 (Data source: ICOLD WRD, 2020)_
 
-According to the above graph from 1900 to 2020, they appear to be correct. Reasons for the slowdown in dam construction can be found in the increasing cost, the social issues and the increased awareness of the biodiversity loss caused by dams. Ehrlich had actually mean more optimistic in their numbers (350 new dams per year) than the reality of less than 50.
+According to the above graph from 1900 to 2020, they appear to be correct. Reasons for the slowdown in dam construction can be found in the increasing cost, the social issues and the increased awareness of the biodiversity loss caused by dams. Ehrlich had actually been more optimistic in their numbers (350 new dams per year) than the reality of less than 50. 
 
-
-
-
-
-
-
-
+Aquatic damage and species losses had already been noted by Ehrlich, and he and his collegues urged for better water management and pollution considerations.
 
 ¹_Postel, S. L., Daily, G. C., & Ehrlich, P. R. (1996). Human Appropriation of Renewable Fresh Water. Science, 271(5250), 785–788. https://doi.org/10.1126/science.271.5250.785_

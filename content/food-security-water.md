@@ -26,7 +26,17 @@ Accessibility is also a problem. Tropical and very northern regions encompass ru
 
 Even if runoff is successfuly captured, there are loses from evaporation. On average, 5% is therein lost.
 
-So, how did Ehrlich et al imagine the situation in 30 years time? (2026 - now). 
+So, how did Ehrlich et al imagine the situation in 30 years time? (2026 - now). First, they expected a slowdown in dam construction for large dams (over 15m). 
+
+![Annual construction of large dams globally since 1900 (Data source: ICOLD WRD, 2020)](/images/uploads/annual-construction-of-large-dams-globally-since-1900-data-source-icold-wrd-2020.png)
+
+_Annual construction of large dams globally since 1900 (Data source: ICOLD WRD, 2020)_
+
+According to the above graph from 1900 to 2020, they appear to be correct. Reasons for the slowdown in dam construction can be found in the increasing cost, the social issues and the increased awareness of the biodiversity loss caused by dams.
+
+
+
+
 
 
 

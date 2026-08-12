@@ -18,7 +18,7 @@ Blue Water is therefore a supplement to Green Water, in order to modify and sust
 
 ## How much water do we already use?
 
-In 1996, Ehrlich et al published a paper titled _Human Appropriation of Water¹ _in which they calculated that 80% of the available water (26% evapotranspiration and 54% runoff) is already under human use. They do acknowledge that such calculations are inherently imprecise, however, and use a middle ground on the then-available data for their calculations.
+In 1996, Ehrlich et al published a paper titled _Human Appropriation of Water_¹ in which they calculated that 80% of the available water (26% evapotranspiration and 54% runoff) is already under human use. They do acknowledge that such calculations are inherently imprecise, however, and use a middle ground on the then-available data for their calculations.
 
 The distribution of runoff (freshwater found in streams, rivers, and lakes) is highly uneven, especially compared to where the high population numbers are found. For example, South America, which has 5% of the world's population, contains 25% of the global runoff. Meanwhile, Asia holds 60% of the world's population and houses only 36% of the global runoff.
 

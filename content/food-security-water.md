@@ -37,3 +37,17 @@ According to the above graph from 1900 to 2020, they appear to be correct. Reaso
 Aquatic damage and species losses had already been noted by Ehrlich, and he and his collegues urged for better water management and pollution considerations.
 
 ¹_Postel, S. L., Daily, G. C., & Ehrlich, P. R. (1996). Human Appropriation of Renewable Fresh Water. Science, 271(5250), 785–788. https://doi.org/10.1126/science.271.5250.785_
+
+_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\___
+
+Fast foward a few years, and Lorenzo Rosa et al publish a paper titled _Global agricultural economic water scarcity² _in which irrigation-neglected areas of the world which therefore underfeed the global population are discussed.
+
+
+
+
+
+
+
+
+
+²_Rosa, L., Chiarelli, D. D., Rulli, M. C., Dell’Angelo, J., & D’Odorico, P. (2020). Global Agricultural Economic Water Scarcity. Science Advances, https://doi.org/10.1126/sciadv.aaz6031_

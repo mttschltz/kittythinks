@@ -63,7 +63,7 @@ Since Rosa et al are especially interested in this last point, they provide an o
 
 When Rosa et al mapped how the network of global cropland is faring over the year (in terms on BWS, GWS, and EWS), they found that 76% of global croplands (or 69% of global rain-fed calorie production) face GWS for at least 1 month a year and 42% experience GWS for 5 months a year. Irrigation currently provides 34% of global calorie production, and many regions (parts of the US, Australia, Spain, India, North China, Mexico and Pakistan, amking up 16% of the global cropland) currently (in 2020, when the paper was published), use unsustainable amount of Blue Water for several months every year.
 
-When the team looked into irrigation deficits and their applicability to sustainable water usage, they found that 7% of the global cropland could handle a 20% deficit, while 33% could handle a 50% deficit. Applied, this could feed 620 million people more.
+When the team looked into irrigation deficits and their applicability to sustainable water usage, they found that 7% of the global cropland could handle a 20% deficit, while 33% could handle a 50% deficit. Applied, this could feed 620 million people more per year.
 
 ²_Rosa, L., Chiarelli, D. D., Rulli, M. C., Dell’Angelo, J., & D’Odorico, P. (2020). Global Agricultural Economic Water Scarcity. Science Advances, https://doi.org/10.1126/sciadv.aaz6031_
 

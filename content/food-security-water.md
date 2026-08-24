@@ -51,7 +51,11 @@ In a paper from 2017 in Scientia Horticulturae, Stefano Musacchi and Sara Serra�
 The Braeburn apple variety benefitted from deficient irrigation in its firmness, but many other apple varieties suffered in size, and were more prone to cracking and russeting. However, multiply studies on tomatoes (Kirda et al., 2004; Patanè et al., 2011; Kuscu et al., 2014; Bahadur et al., 2015) have instead shows little to no reduction in quantity or quality of the fruit.\
 What appears to be important, is thorough research into the percentage of water reduction for the desired crop. A very general guideline appears to be a number between 60% to under 100%. The appropriate time for deficient irrigation per crop is also an important consideration, as well as planting date, soil, and site specifications.
 
- Rosa continues that while Blue Water scarcity has been adressed in plenty of scientific literature, Green Water scarcity (GWS), which Rosa defines as "_GWS can be defined as the ratio between irrigation water requirement (or “green water deficit”) and the total CWR_" (CWR = crop water requirement)
+Rosa continues that while Blue Water scarcity has been adressed in plenty of scientific literature, Green Water scarcity (GWS), which Rosa defines as "_\[...] the ratio between irrigation water requirement (or “green water deficit”) and the total CWR_" (CWR = crop water requirement) has been largely ignore, despite comprising ~65% of global crop production.
+
+
+
+
 
 ²_Rosa, L., Chiarelli, D. D., Rulli, M. C., Dell’Angelo, J., & D’Odorico, P. (2020). Global Agricultural Economic Water Scarcity. Science Advances, https://doi.org/10.1126/sciadv.aaz6031_
 

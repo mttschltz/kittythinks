@@ -44,16 +44,16 @@ Fast forward a few years, and Lorenzo Rosa et al published a paper titled _Globa
 
 Rosa et al start out with a positive: advancements in technology have optimised the production of nitrogen fertilisers! But their major concern is quickly laid bare: water is still a finite resource and the growing world population will limit agricultural expansion and raise the need for more intensive agricultural practices, especially in terms of irrigation. The problem with this is manifold. For once, those regions with the largest growth already experience water stress, and when now rain-fed crops have to be irrigated to meet demands, this will become a serious issue, fast. 
 
-Rosa et al suggest that there are only two options for agriculture: "deficient irrigation", i.e. using Blue Water to irrigate crops _below the crops full irrigation needs_, or unsustainable irrigation, in which water is drown in a way that will deplete the groundwater stocks.
+Rosa et al suggest that there are only two options for agriculture: "defict irrigation", i.e. using Blue Water to irrigate crops _below the crops full irrigation needs_, or unsustainable irrigation, in which water is drown in a way that will deplete the groundwater stocks.
 
-In a paper from 2017 in Scientia Horticulturae, Stefano Musacchi and Sara Serra³ observed that in apples, deficient irrigation had certain advantages.
+In a paper from 2017 in Scientia Horticulturae, Stefano Musacchi and Sara Serra³ observed that in apples, deficit irrigation had certain advantages.
 
-The Braeburn apple variety benefitted from deficient irrigation in its firmness, but many other apple varieties suffered in size, and were more prone to cracking and russeting. However, multiply studies on tomatoes (Kirda et al., 2004; Patanè et al., 2011; Kuscu et al., 2014; Bahadur et al., 2015) have instead shows little to no reduction in quantity or quality of the fruit.\
-What appears to be important, is thorough research into the percentage of water reduction for the desired crop. A very general guideline appears to be a number between 60% to under 100%. The appropriate time for deficient irrigation per crop is also an important consideration, as well as planting date, soil, and site specifications.
+The Braeburn apple variety benefitted from deficit irrigation in its firmness, but many other apple varieties suffered in size, and were more prone to cracking and russeting. However, multiply studies on tomatoes (Kirda et al., 2004; Patanè et al., 2011; Kuscu et al., 2014; Bahadur et al., 2015) have instead shows little to no reduction in quantity or quality of the fruit.\
+What appears to be important, is thorough research into the percentage of water reduction for the desired crop. A very general guideline appears to be a number between 60% to under 100%. The appropriate time for deficit irrigation per crop is also an important consideration, as well as planting date, soil, and site specifications.
 
 Rosa continues that while Blue Water scarcity has been adressed in plenty of scientific literature, Green Water scarcity (GWS), which Rosa defines as "_\[...] the ratio between irrigation water requirement (or “green water deficit”) and the total CWR_" (CWR = crop water requirement) has been largely ignore, despite Green Water contributing to ~65% of global crop production. Even more neglected is a scientific look into economic water scarcity (EWS), i.e. the economic barrier to using available Blue Water resources. Rosa et al call for a termination for the prevailing solution to the EWS issue, namely the 'hydraulic solution', which is an investment in dams and power generation due to their environmental inpact. Instead, they urge an in depth investigation into the institutional, political, and power dynamics concerning access and distribution of existing water sources.
 
-Since Rosa et al are especially interested in this last point, they provide an overview of cropland that is affected by BWS, GWS and/or EWS, and present additionally two scenarios for the use of Deficient Irrigation (at 50% and at 80%).
+Since Rosa et al are especially interested in this last point, they provide an overview of cropland that is affected by BWS, GWS and/or EWS, and present additionally two scenarios for the use of Deficit Irrigation (at 50% and at 80%).
 
 
 

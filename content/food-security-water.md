@@ -18,38 +18,28 @@ Blue Water is therefore a supplement to Green Water, in order to modify and sust
 
 ## How much water do we already use?
 
-In 1996, Ehrlich et al published a paper titled _Human Appropriation of Water_¹ in which they calculated that 80% of the available water (26% evapotranspiration and 54% runoff) is already under human use. They do acknowledge that such calculations are inherently imprecise, however, and use a middle ground on the then-available data for their calculations.
+In 1996, Ehrlich et al published a paper titled _Human Appropriation of Water_¹ in which they calculated that 80% of the available water (26% evapotranspiration and 54% runoff) is already under human use. They did acknowledge that such calculations are inherently imprecise, however, and used a middle ground on the then-available data for their calculations.
 
 The distribution of runoff (freshwater found in streams, rivers, and lakes) is highly uneven, especially compared to where the high population numbers are found. For example, South America, which has 5% of the world's population, contains 25% of the global runoff. Meanwhile, Asia holds 60% of the world's population and houses only 36% of the global runoff.
 
-Accessibility is also a problem. Tropical and very northern regions encompass runoff that is not accessible at all (and bound to remain that way). This amounts to about 19% of the global runoff. Furthermore, runoff is only reliable if it is always accessible - however, runoff from, e.g. floodwater is seasonal and therefore unreliable. For example, in Asia 80% of runoff occurs from May to October and requires catchment via dams.
+Accessibility was also identified as a problem. Tropical and very northern regions encompass runoff that is not accessible at all (and bound to remain that way). This amounts to about 19% of the global runoff. Furthermore, runoff is only reliable if it is always accessible - however, runoff from, e.g. floodwater is seasonal and therefore unreliable. For example, in Asia 80% of runoff occurs from May to October and requires catchment via dams.
 
 Even if runoff is successfuly captured, there are loses from evaporation. On average, 5% is therein lost.
 
 So, how did Ehrlich et al imagine the situation in 30 years time? (2026 - now). First, they expected a slowdown in dam construction for large dams (over 15m). 
 
-![Annual construction of large dams globally since 1900 (Data source: ICOLD WRD, 2020)](/images/uploads/annual-construction-of-large-dams-globally-since-1900-data-source-icold-wrd-2020.png)
+![Annual construction of large dams globally since 1900 (Data source: ICOLD WRD, 2020)](/images/uploads/yearlydamconstruction_foodsecurity.png)
 
 _Annual construction of large dams globally since 1900 (Data source: ICOLD WRD, 2020)_
 
-According to the above graph from 1900 to 2020, they appear to be correct. Reasons for the slowdown in dam construction can be found in the increasing cost, the social issues and the increased awareness of the biodiversity loss caused by dams. Ehrlich had actually been more optimistic in their numbers (350 new dams per year) than the reality of less than 50. 
+According to the above graph from 1900 to 2020, they appear to be correct. Reasons for the slowdown in dam construction can be found in the increasing cost, the social issues and the increased awareness of the biodiversity loss caused by dams. Ehrlich et al had actually been more optimistic in their numbers (350 new dams per year) than the reality of less than 50. 
 
 Aquatic damage and species losses had already been noted by Ehrlich, and he and his collegues urged for better water management and pollution considerations.
 
 ¹_Postel, S. L., Daily, G. C., & Ehrlich, P. R. (1996). Human Appropriation of Renewable Fresh Water. Science, 271(5250), 785–788. https://doi.org/10.1126/science.271.5250.785_
 
-_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\___
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 Fast foward a few years, and Lorenzo Rosa et al publish a paper titled _Global agricultural economic water scarcity² _in which irrigation-neglected areas of the world leading to underfeeding the growing global population are discussed. 
-
-
-
-
-
-
-
-
-
-
 
 ²_Rosa, L., Chiarelli, D. D., Rulli, M. C., Dell’Angelo, J., & D’Odorico, P. (2020). Global Agricultural Economic Water Scarcity. Science Advances, https://doi.org/10.1126/sciadv.aaz6031_

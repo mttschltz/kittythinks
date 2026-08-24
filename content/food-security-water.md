@@ -65,9 +65,9 @@ When Rosa et al mapped how the network of global cropland is faring over the yea
 
 When the team looked into irrigation deficits and their applicability to sustainable water usage, they found that 7% of the global cropland could handle a 20% deficit, while 33% could handle a 50% deficit. Applied, this could feed 840 million people more per year.
 
-Five countries, Nigeria, Ukraine, Russia, Romania, and Kazakhstan, could especially benefit from adopting measures to cub EWS.
+Five countries, Nigeria, Ukraine, Russia, Romania, and Kazakhstan, could especially benefit from adopting measures to curb EWS.
 
-
+In their discussion, Rosa et al mention that those regions in which the GWS is only present for one month of the year, instead of irrigation, soft approaches such as mulching, no-till, agroforestry or other surface measures to reduce evaporation, and increase soil moisture may be more appropriate.
 
 ²_Rosa, L., Chiarelli, D. D., Rulli, M. C., Dell’Angelo, J., & D’Odorico, P. (2020). Global Agricultural Economic Water Scarcity. Science Advances, https://doi.org/10.1126/sciadv.aaz6031_
 

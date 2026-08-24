@@ -53,7 +53,7 @@ What appears to be important, is thorough research into the percentage of water 
 
 Rosa continues that while Blue Water scarcity has been adressed in plenty of scientific literature, Green Water scarcity (GWS), which Rosa defines as "_\[...] the ratio between irrigation water requirement (or “green water deficit”) and the total CWR_" (CWR = crop water requirement) has been largely ignore, despite Green Water contributing to ~65% of global crop production. Even more neglected is a scientific look into economic water scarcity (EWS), i.e. the economic barrier to using available Blue Water resources. Rosa et al call for a termination for the prevailing solution to the EWS issue, namely the 'hydraulic solution', which is an investment in dams and power generation due to their environmental inpact. Instead, they urge an in depth investigation into the institutional, political, and power dynamics concerning access and distribution of existing water sources.
 
-
+Since Rosa et al are especially interested in this last point, they provide an overview of cropland that is affected by BWS, GWS and/or EWS, and present additionally two scenarios for the use of Deficient Irrigation (at 50% and at 80%).
 
 
 

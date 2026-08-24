@@ -83,6 +83,8 @@ Aeschbach-Hertig and Gleeson start with a strong statement:
 Before explaining what else to do, they examine the status quo: 40% of the world's groundwater is used for irrigation, which in arid part of the world, especially those were surface water is entirely absent, has led to a 'green revolution' in agricultual output.
 
 But it has also resulted in widespread groundwater depletion, which, due to its forseeable consequences, is a global problem.\
-\
+More depletion leads to less discharge of groundwater to streams and river, which lowers the water level and affects both ecosystems and users (as they have to pump ever deeper).
+
+When groundwater levels are lowers, the flow induced can lead to salinisation or other types of pollution.\
 \
 ⁴_Aeschbach-Hertig, W., & Gleeson, T. (2012). Regional strategies for the accelerating global problem of groundwater depletion. Nature Geoscience, 5(12), 853–861. https://doi.org/10.1038/ngeo1617_

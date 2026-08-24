@@ -87,6 +87,8 @@ More depletion leads to less discharge of groundwater to streams and river, whic
 
 When groundwater levels are lowers, the flow induced can lead to salinisation or other types of pollution.
 
-To measure groundwater depletion, one can look at local wells or the GRACE (Gravity Recovery and Climate Experiment) satellite data, as well as flow models. Differing analysis methods will give significantly different answers as to the existing groundwater storage levels. The simpler the method, the more extrapolation is needed, which may give answers that are too low. Methods which neglect recharge from irrigation and surface water bodies as well as the dynamic response of groundwater systems, may instead overestimation the rate of depletion.\
+To measure groundwater depletion, one can look at local wells or the GRACE (Gravity Recovery and Climate Experiment) satellite data, as well as flow models. Differing analysis methods will give significantly different answers as to the existing groundwater storage levels. The simpler the method, the more extrapolation is needed, which may give answers that are too low. Methods which neglect recharge from irrigation and surface water bodies as well as the dynamic response of groundwater systems, may instead overestimation the rate of depletion. Clearly, making correct assumption of the depletion of groundwater represents significant challenges, but it can be agreed upon that the depletion _is_ significant and accelerating.
+
+\
 \
 ⁴_Aeschbach-Hertig, W., & Gleeson, T. (2012). Regional strategies for the accelerating global problem of groundwater depletion. Nature Geoscience, 5(12), 853–861. https://doi.org/10.1038/ngeo1617_

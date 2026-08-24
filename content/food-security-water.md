@@ -57,11 +57,9 @@ Since Rosa et al are especially interested in this last point, they provide an o
 
 ![Conceptual framework and extent of agricultural EWS. Percentages represent fraction of the global cultivated area in each category. Shading indicates croplands affected by blue water scarcity (BWS) that can be sustainably irrigated with deficit irrigation. These areas are then reclassified as suitable for sustainable irrigation [i.e., with no blue water scarcity (NO BWS)], considering different deficit irrigation scenarios. Lack of irrigation in these areas is interpreted as agricultural EWS. See Box 1 for concepts and definitions about agricultural EWS.](/images/uploads/ews-framework.jpeg)
 
-_Conceptual framework and extent of agricultural EWS._
-
-_Percentages represent fraction of the global cultivated area in each category. Shading indicates croplands affected by blue water scarcity (BWS) that can be sustainably irrigated with deficit irrigation. These areas are then reclassified as suitable for sustainable irrigation \[i.e., with no blue water scarcity (NO BWS)], considering different deficit irrigation scenarios. Lack of irrigation in these areas is interpreted as agricultural EWS. See Box 1 for concepts and definitions about agricultural EWS._
-
-
+> _Conceptual framework and extent of agricultural EWS._
+>
+> _Percentages represent fraction of the global cultivated area in each category. Shading indicates croplands affected by blue water scarcity (BWS) that can be sustainably irrigated with deficit irrigation. These areas are then reclassified as suitable for sustainable irrigation \[i.e., with no blue water scarcity (NO BWS)], considering different deficit irrigation scenarios. Lack of irrigation in these areas is interpreted as agricultural EWS. _
 
 
 

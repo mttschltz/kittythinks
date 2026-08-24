@@ -61,7 +61,7 @@ Since Rosa et al are especially interested in this last point, they provide an o
 >
 > _Percentages represent fraction of the global cultivated area in each category. Shading indicates croplands affected by blue water scarcity (BWS) that can be sustainably irrigated with deficit irrigation. These areas are then reclassified as suitable for sustainable irrigation \[i.e., with no blue water scarcity (NO BWS)], considering different deficit irrigation scenarios. Lack of irrigation in these areas is interpreted as agricultural EWS. _
 
-
+When Rosa et al mapped how the network of global cropland is faring over the year (in terms on BWS, GWS, and EWS), they found that 76% of global croplands (or 69% of global rain-fed calorie production) face GWS for at least 1 month a year and 42% experience GWS for 5 months a year.
 
 
 

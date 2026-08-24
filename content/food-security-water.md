@@ -80,8 +80,9 @@ Aeschbach-Hertig and Gleeson start with a strong statement:
 
 > "_Technical approaches—such as water diversion, artiﬁcial groundwater recharge and effcient irrigation—have failed to balance regional groundwater budgets."_
 
+Before explaining what else to do, they examine the status quo: 40% of the world's groundwater is used for irrigation, which in arid part of the world, especially those were surface water is entirely absent, has led to a 'green revolution' in agricultual output.
 
-
-
-
+But it has also resulted in widespread groundwater depletion, which, due to its forseeable consequences, is a global problem.\
+\
+\
 ⁴_Aeschbach-Hertig, W., & Gleeson, T. (2012). Regional strategies for the accelerating global problem of groundwater depletion. Nature Geoscience, 5(12), 853–861. https://doi.org/10.1038/ngeo1617_

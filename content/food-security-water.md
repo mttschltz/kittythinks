@@ -55,6 +55,16 @@ Rosa continues that while Blue Water scarcity has been adressed in plenty of sci
 
 Since Rosa et al are especially interested in this last point, they provide an overview of cropland that is affected by BWS, GWS and/or EWS, and present additionally two scenarios for the use of Deficit Irrigation (at 50% and at 80%). They also estimate the calories produced and numbers of people fed by sustainable irrigation expansion.
 
+![Conceptual framework and extent of agricultural EWS. Percentages represent fraction of the global cultivated area in each category. Shading indicates croplands affected by blue water scarcity (BWS) that can be sustainably irrigated with deficit irrigation. These areas are then reclassified as suitable for sustainable irrigation [i.e., with no blue water scarcity (NO BWS)], considering different deficit irrigation scenarios. Lack of irrigation in these areas is interpreted as agricultural EWS. See Box 1 for concepts and definitions about agricultural EWS.](/images/uploads/ews-framework.jpeg)
+
+_Conceptual framework and extent of agricultural EWS._
+
+_Percentages represent fraction of the global cultivated area in each category. Shading indicates croplands affected by blue water scarcity (BWS) that can be sustainably irrigated with deficit irrigation. These areas are then reclassified as suitable for sustainable irrigation \[i.e., with no blue water scarcity (NO BWS)], considering different deficit irrigation scenarios. Lack of irrigation in these areas is interpreted as agricultural EWS. See Box 1 for concepts and definitions about agricultural EWS._
+
+
+
+
+
 
 
 ²_Rosa, L., Chiarelli, D. D., Rulli, M. C., Dell’Angelo, J., & D’Odorico, P. (2020). Global Agricultural Economic Water Scarcity. Science Advances, https://doi.org/10.1126/sciadv.aaz6031_

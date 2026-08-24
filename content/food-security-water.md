@@ -95,7 +95,10 @@ Here, UN scientists argue that the entire language around water needs to change 
  The report stressed further that 
 
 > _“Water bankruptcy is becoming a driver of fragility, displacement, and conflict,” \[...] “Managing it fairly – ensuring that vulnerable communities are protected and that unavoidable losses are shared equitably – is now central to maintaining peace, stability, and social cohesion.”_
->
+
+
+
+
 
 _⁴Aeschbach-Hertig, W., & Gleeson, T. (2012). Regional strategies for the accelerating global problem of groundwater depletion. Nature Geoscience, 5(12), 853–861. https://doi.org/10.1038/ngeo1617_
 

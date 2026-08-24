@@ -57,7 +57,8 @@ Since Rosa et al are especially interested in this last point, they provide an o
 
 ![Conceptual framework and extent of agricultural EWS. Percentages represent fraction of the global cultivated area in each category. Shading indicates croplands affected by blue water scarcity (BWS) that can be sustainably irrigated with deficit irrigation. These areas are then reclassified as suitable for sustainable irrigation [i.e., with no blue water scarcity (NO BWS)], considering different deficit irrigation scenarios. Lack of irrigation in these areas is interpreted as agricultural EWS. See Box 1 for concepts and definitions about agricultural EWS.](/images/uploads/ews-framework.jpeg)
 
-> _Conceptual framework and extent of agricultural EWS._
+> _Conceptual framework and extent of agricultural EWS.
+> _
 >
 > _Percentages represent fraction of the global cultivated area in each category. Shading indicates croplands affected by blue water scarcity (BWS) that can be sustainably irrigated with deficit irrigation. These areas are then reclassified as suitable for sustainable irrigation \[i.e., with no blue water scarcity (NO BWS)], considering different deficit irrigation scenarios. Lack of irrigation in these areas is interpreted as agricultural EWS. _
 
@@ -72,3 +73,13 @@ In their discussion, Rosa et al mention that those regions in which the GWS is o
 ²_Rosa, L., Chiarelli, D. D., Rulli, M. C., Dell’Angelo, J., & D’Odorico, P. (2020). Global Agricultural Economic Water Scarcity. Science Advances, https://doi.org/10.1126/sciadv.aaz6031_
 
 _³Musacchi, S., & Serra, S. (2018). Apple fruit quality: Overview on pre-harvest factors. Scientia Horticulturae, 234, 409–430. https://doi.org/10.1016/j.scienta.2017.12.057_
+
+Strategies for preventing the seemingly inevitable water problem have been further investigated by Werner Aeschbach-Hertig and Tom Gleeson in their 2012 paper _Regional strategies for the accelerating global problem of groundwater depletion⁴_.
+
+
+
+
+
+
+
+⁴_Aeschbach-Hertig, W., & Gleeson, T. (2012). Regional strategies for the accelerating global problem of groundwater depletion. Nature Geoscience, 5(12), 853–861. https://doi.org/10.1038/ngeo1617_

@@ -76,7 +76,9 @@ _³Musacchi, S., & Serra, S. (2018). Apple fruit quality: Overview on pre-harves
 
 Strategies for preventing the seemingly inevitable water problem have been further investigated by Werner Aeschbach-Hertig and Tom Gleeson in their 2012 paper _Regional strategies for the accelerating global problem of groundwater depletion⁴_.
 
+Aeschbach-Hertig and Gleeson start with a strong statement:
 
+> "_Technical approaches—such as water diversion, artiﬁcial groundwater recharge and effcient irrigation—have failed to balance regional groundwater budgets."_
 
 
 

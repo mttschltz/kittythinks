@@ -46,6 +46,11 @@ Rosa et al start out with a positive: advancements in technology have optimised 
 
 Rosa et al suggest that there are only two options for agriculture: "deficient irrigation", i.e. using Blue Water to irrigate crops _below the crops full irrigation needs_, or unsustainable irrigation, in which water is drown in a way that will deplete the groundwater stocks.
 
+In a paper from 2017 in Scientia Horticulturae, Stefano Musacchi and Sara Serra³ observed that in apples, deficient irrigation had certain advantages.
 
+The Braeburn apple variety benefitted from deficient irrigation in its firmness, but many other apple varieties suffered in size, and were more prone to cracking and russeting. However, multiply studies on tomatoes (Kirda et al., 2004; Patanè et al., 2011; Kuscu et al., 2014; Bahadur et al., 2015) have instead shows little to no reduction in quantity or quality of the fruit.\
+What appears to be important, is thorough research into the percentage of water reduction for the desired crop. A very general guideline appears to be a number between 60% to under 100%.
 
 ²_Rosa, L., Chiarelli, D. D., Rulli, M. C., Dell’Angelo, J., & D’Odorico, P. (2020). Global Agricultural Economic Water Scarcity. Science Advances, https://doi.org/10.1126/sciadv.aaz6031_
+
+_³Musacchi, S., & Serra, S. (2018). Apple fruit quality: Overview on pre-harvest factors. Scientia Horticulturae, 234, 409–430. https://doi.org/10.1016/j.scienta.2017.12.057_

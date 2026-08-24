@@ -42,7 +42,9 @@ Aquatic damage and species losses had already been noted by Ehrlich, and he and 
 
 Fast forward a few years, and Lorenzo Rosa et al published a paper titled _Global agricultural economic water scarcity_² in which irrigation-neglected areas of the world leading to underfeeding the growing global population are discussed. 
 
-Rosa et al start out with a positive: advancements in technology have optimised the production of nitrogen fertilisers! But their major concern is quickly laid bare: water is still a finite resource and the growing world population will limit agricultural expansion and raise the need for more intensive agricultural practices, especially in terms of irrigation. The problem with this is manifold. For once, those regions with the largest growth already experience water stress, and when now rain-fed crops have to be irrigated to meet demands, this will become a serious issue, fast.
+Rosa et al start out with a positive: advancements in technology have optimised the production of nitrogen fertilisers! But their major concern is quickly laid bare: water is still a finite resource and the growing world population will limit agricultural expansion and raise the need for more intensive agricultural practices, especially in terms of irrigation. The problem with this is manifold. For once, those regions with the largest growth already experience water stress, and when now rain-fed crops have to be irrigated to meet demands, this will become a serious issue, fast. 
+
+Rosa et al suggest that there are only two options for agriculture: "deficient irrigation", i.e. using Blue Water to irrigate crops _below the crops full irrigation needs_, or unsustainable irrigation, in which water is drown in a way that will deplete the groundwater stocks.
 
 
 

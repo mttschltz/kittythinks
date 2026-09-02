@@ -99,3 +99,7 @@ Here, UN scientists argue that the entire language around water needs to change 
 _⁴Aeschbach-Hertig, W., & Gleeson, T. (2012). Regional strategies for the accelerating global problem of groundwater depletion. Nature Geoscience, 5(12), 853–861. https://doi.org/10.1038/ngeo1617_
 
 _⁵World Enters “Era of Global Water Bankruptcy” UN Scientists Formally Define New Post-Crisis Reality for Billions. (2026, January 20). United Nations University. https://unu.edu/inweh/news/world-enters-era-of-global-water-bankruptcy_
+
+So, is the answer to the question "Are we running out of water?" yes or no? 
+
+I wager it is yes - because human activity is furthering climate change which lowers the natural acquifers due to less rain, and because we are not using water effectively, overuse in some areas, misuse in others.

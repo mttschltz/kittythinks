@@ -103,3 +103,7 @@ _⁵World Enters “Era of Global Water Bankruptcy” UN Scientists Formally Def
 So, is the answer to the question "Are we running out of water?" yes or no? 
 
 I wager it is yes - because human activity is furthering climate change which lowers the natural acquifers due to less rain, and because we are not using water effectively, overuse in some areas, misuse in others.
+
+But is this general knowledge enough to come up with solutions? Probably not.
+
+Only if individual regions in every country (not just the ones currently affected by water scarcity) track their currently groundwater levels, their farming usage and the way that agriculture in their region is structured (are products planted that are suitable for the water levels in that region? Is the infastructure sufficient to use water properly? Do farmers exploy any water saving methods now?), can recommendations be made.
